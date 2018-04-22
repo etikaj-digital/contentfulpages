@@ -21,6 +21,16 @@ layout: default
   <div class="post-line"></div>
 
   {{ content }}
+  
+  {% if page.tags %}
+  <p>Tags:
+    <ul class="taglist">
+      {% for tag in page.tags %}
+      <li><a href="{{ tag | prepend: site.tagurl }}
+      {%
+    </ul>
+  </p>
+  {% endif %}
 
 </div>
 
