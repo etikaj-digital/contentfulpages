@@ -27,7 +27,7 @@ layout: default
     <ul class="taglist">
       {% for tag in page.tags %}
       <li><a href="{{ tag | prepend: site.tagurl }}>{{ tag }}</a></li>
-      {%
+      {% endfor %}
     </ul>
   </p>
   {% endif %}
