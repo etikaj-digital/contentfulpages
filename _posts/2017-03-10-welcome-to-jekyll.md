@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 author: 
   - jekyll
+category: general
 tags:
   - jekyll
 ---
