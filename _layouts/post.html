@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% assign site_author = site.author['chester'] %}
+{% assign site_author = site.author['/author/chester'] %}
+authors = {{site_author.fullName}}
+{% assign site_author = site.author['/_author/chester'] %}
 authors = {{site_author.fullName}}
 <div class="post">
   <div class="post-info">
