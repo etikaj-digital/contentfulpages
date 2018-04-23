@@ -1,10 +1,11 @@
 # Site settings
+name:           Tale
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 tagurl:         "/contentfulpages/tag/"
 categoryurl:    "/contentfulpages/category/"
-url:            "https://chesterhow.github.io"
+url:            "https://etikaj-digital.github.io/contentfulpages"
 
 # Collections
 collections:
