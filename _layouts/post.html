@@ -8,10 +8,10 @@ layout: default
     {% if page.author %}
         {% for author in page.author %}
            {% if site.author[author] %}
-              {% assign site_author = site.author[page.author] %}
+              {% assign site_author = site.author[author] %}
               {{ site_author.fullName }}&nbsp;
            {% else %}
-              No match found for {{ author.authorid }} in {{ page.author | join(',') }}
+              No match found for {{ author }}
            {% endif %}
         {% endfor %}
     {% else %}
