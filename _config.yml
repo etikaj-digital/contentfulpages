@@ -1,7 +1,7 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/"
+baseurl:        ""
 url:            "https://chesterhow.github.io"
 
 # Author
@@ -23,5 +23,14 @@ plugins:
   - jekyll-paginate
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /posts/:title
 paginate:       5
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
