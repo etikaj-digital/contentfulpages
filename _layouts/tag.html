@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div class="catalogue">
+  <h1>Posts tagged with '{{ page.tag }}'</h1>
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
