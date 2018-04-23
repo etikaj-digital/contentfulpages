@@ -7,7 +7,11 @@ layout: default
     <span>Written by</span>
     {% if page.author %}
         {% for author in site.author %}
-           {% if page.author contains author.id %}{{ author.fullName }}&nbsp;{% endif %}
+           {% if page.author contains author.id %}
+              {{ author.fullName }}&nbsp;
+           {% else %}
+              No match found for {{ author.id }} in {{ page.author | join(',') }}
+           {% endif %}
         {% endfor %}
     {% else %}
         {{ site.author.name }}
