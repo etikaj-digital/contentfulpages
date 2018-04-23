@@ -7,7 +7,7 @@ layout: default
     <span>Written by</span>
     {% if page.author %}
         {% for p_author in page.author %}
-           {% assign author = site.author | where:"id", p_author.authorid  | first %} 
+           {% assign author = site.author | where:"authorid", p_author | first %} 
            {% if author %}
               {{ author.fullName }}&nbsp;
            {% else %}
