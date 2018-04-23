@@ -8,6 +8,7 @@ layout: default
     {% if page.author %}
         {% for p_author in page.author %}
            {% author = site.author | where:"id", p_author.authorid  | first %} 
+           {% if author %}
               {{ author.fullName }}&nbsp;
            {% else %}
               No match found for {{ p_author }}
