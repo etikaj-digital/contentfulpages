@@ -6,9 +6,10 @@ layout: default
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
-        {% for author in site.author %}
-           {% if page.author contains author.authorid %}
-              {{ author.fullName }}&nbsp;
+        {% for author in page.author %}
+           {% if site.author[page.author] %}
+              {% assign site_author = site.author[page.author] %}
+              {{ site_author.fullName }}&nbsp;
            {% else %}
               No match found for {{ author.authorid }} in {{ page.author | join(',') }}
            {% endif %}
