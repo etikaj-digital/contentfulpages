@@ -6,7 +6,9 @@ layout: default
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
-        {{ page.author }}
+        {% for author in site.author %}
+           {% if author.id in page.author %}{{ page.author }}&nbsp;{% endif %}
+        {% endfor %}
     {% else %}
         {{ site.author.name }}
     {% endif %}
