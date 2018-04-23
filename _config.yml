@@ -2,8 +2,8 @@
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
-tagurl:         "/tag/"
-categoryurl:    "/category/"
+tagurl:         "/contentfulpages/tag/"
+categoryurl:    "/contentfulpages/category/"
 url:            "https://chesterhow.github.io"
 
 # Collections
