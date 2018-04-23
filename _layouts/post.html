@@ -1,20 +1,16 @@
 ---
 layout: default
 ---
-{% assign site_author = site.author['/author/chester'] %}
-authors = {{site_author.fullName}}
-{% assign site_author = site.author['/_author/chester'] %}
-authors = {{site_author.fullName}}
+
 <div class="post">
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
-        {% for author in page.author %}
-           {% if site.author[author] %}
-              {% assign site_author = site.author[author] %}
-              {{ site_author.fullName }}&nbsp;
+        {% for p_author in page.author %}
+           {% author = site.author | where:"id", p_author.authorid  | first %} 
+              {{ author.fullName }}&nbsp;
            {% else %}
-              No match found for {{ author }}
+              No match found for {{ p_author }}
            {% endif %}
         {% endfor %}
     {% else %}
