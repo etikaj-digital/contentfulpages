@@ -6,6 +6,10 @@ tagurl:         "/tag/"
 categoryurl:    "/category/"
 url:            "https://chesterhow.github.io"
 
+# Collections
+collections:
+  - author
+
 # Author
 author:
   name:         Chester How
