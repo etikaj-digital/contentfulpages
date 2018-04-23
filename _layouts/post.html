@@ -6,7 +6,14 @@ layout: default
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
-        {{ page.author }}
+        {% for p_author in page.author %}
+           {% assign author = site.author | where:"authorid", p_author | first %} 
+           {% if author %}
+              {{ author.fullName }}&nbsp;
+           {% else %}
+              No match found for {{ p_author }}
+           {% endif %}
+        {% endfor %}
     {% else %}
         {{ site.author.name }}
     {% endif %}
@@ -21,6 +28,16 @@ layout: default
   <div class="post-line"></div>
 
   {{ content }}
+  
+  {% if page.tags %}
+  <p>Tags:
+    <ul class="taglist">
+      {% for tag in page.tags %}
+      <li><a href="{{ tag | prepend: site.tagurl }}">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </p>
+  {% endif %}
 
 </div>
 

@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="catalogue">
+  <h1>{{ page.category | capitlize }}</h1>
+  {% for post in site.categories[page.category] %}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+      <div>
+        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
+        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <div class="catalogue-line"></div>
+
+        <p>
+          {{ post.lead }}
+        </p>
+
+      </div>
+    </a>
+  {% endfor %}
+</div>
