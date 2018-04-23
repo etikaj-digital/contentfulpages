@@ -1,5 +1,5 @@
 ---
 fullName: Chester Field
-id: chester
+authorid: chester
 ---
 Chester is the guy who created this theme.
