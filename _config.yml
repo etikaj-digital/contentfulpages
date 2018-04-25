@@ -3,7 +3,7 @@ name:           Tale
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/contentfulpages/"
-tagurl:         "/contenfulpages/tag/"
+tagurl:         "/contentfulpages/tag/"
 categoryurl:    "/contentfulpages/category/"
 url:            "https://etikaj-digital.github.io/contentfulpages"
 
