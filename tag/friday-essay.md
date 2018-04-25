@@ -1,0 +1,3 @@
+---
+tag: friday essay
+---

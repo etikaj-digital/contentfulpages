@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="catalogue">
-  <h1>{{ page.category | capitlize }}</h1>
+  <h1>{{ page.category | capitalize }}</h1>
   {% for post in site.categories[page.category] %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>

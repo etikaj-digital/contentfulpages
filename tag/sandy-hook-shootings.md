@@ -1,0 +1,3 @@
+---
+tag: sandy hook shootings
+---

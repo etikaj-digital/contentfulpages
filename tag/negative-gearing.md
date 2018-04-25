@@ -1,0 +1,3 @@
+---
+tag: negative gearing
+---

@@ -1,0 +1,3 @@
+---
+tag: labour force
+---

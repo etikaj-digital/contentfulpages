@@ -1,0 +1,3 @@
+---
+tag: us gun control
+---

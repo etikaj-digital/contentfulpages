@@ -1,0 +1,3 @@
+---
+tag: free trade agreement
+---

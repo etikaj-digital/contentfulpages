@@ -1,0 +1,3 @@
+---
+tag: global perspectives
+---

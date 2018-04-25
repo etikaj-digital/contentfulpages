@@ -5,9 +5,9 @@ layout: default
 <div class="post">
   <div class="post-info">
     <span>Written by</span>
-    {% if page.author %}
-        {% for p_author in page.author %}
-           {% assign author = site.author | where:"authorid", p_author | first %} 
+    {% if page.authors %}
+        {% for p_author in page.authors %}
+           {% assign author = site.authors | where:"authorid", p_author | first %}
            {% if author %}
               {{ author.fullName }}&nbsp;
            {% else %}
@@ -25,15 +25,22 @@ layout: default
   </div>
 
   <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.featureImage %}
+  {% assign feature = site.assets | where:"assetid", page.featureImage | first %}
+  <figure>
+    <img src="{{ feature.file.url}}" alt="{{ feature.title }}">
+    <figcaption>{{ feature.title }} | {{ feature.description }}</figcaption>
+  </figure>
+  {% endif %}
   <div class="post-line"></div>
 
   {{ content }}
-  
+
   {% if page.tags %}
   <p>Tags:
     <ul class="taglist">
       {% for tag in page.tags %}
-      <li><a href="{{ tag | prepend: site.tagurl }}">{{ tag }}</a></li>
+      <li><a href="{{ tag | slugify | prepend: site.tagurl }}">{{ tag }}</a></li>
       {% endfor %}
     </ul>
   </p>

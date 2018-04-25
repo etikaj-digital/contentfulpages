@@ -2,19 +2,15 @@
 name:           Tale
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-<<<<<<< HEAD
 baseurl:        ""
-url:            "https://chesterhow.github.io"
-=======
-baseurl:        "/"
-tagurl:         "/contentfulpages/tag/"
-categoryurl:    "/contentfulpages/category/"
+tagurl:         "/tag/"
+categoryurl:    "/category/"
 url:            "https://etikaj-digital.github.io/contentfulpages"
 
 # Collections
 collections:
-  - author
->>>>>>> 661e10a84eb9b6faeb6153eddc3867499497d499
+  - authors
+  - assets
 
 # Author
 author:
@@ -36,13 +32,22 @@ plugins:
 
 # Permalinks
 permalink:      /posts/:title
-paginate:       5
+paginate:       25
 
 # Defaults
 defaults:
   -
     scope:
       path: "" # an empty string here means all files in the project
-      type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "post"
+  -
+    scope:
+      path: "tag" # an empty string here means all files in the project
+    values:
+      layout: "tag"
+  -
+    scope:
+      path: "category" # an empty string here means all files in the project
+    values:
+      layout: "category"

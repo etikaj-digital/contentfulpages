@@ -1,0 +1,3 @@
+---
+tag: what we earn
+---

@@ -1,115 +1,215 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+       &middot; Tale
+    
+  </title>
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+</head>
+
+
+  <body>
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="/">
+          <h2 class="nav-title">Tale</h2>
+        </a>
+        <ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/">Posts</a></li>
+        </ul>
+    </div>
+  </nav>
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    <span>Written by</span>
+    
+        Chester How
+    
+
+    
+  </div>
+
+  <h1 class="post-title"></h1>
+  
+  <div class="post-line"></div>
+
+  <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title></title>
+		<title>Tale</title>
 		<description>Minimal Jekyll theme for storytellers</description>		
 		<link>http://localhost:4000</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Fri, 23 Mar 2018 00:00:00 +1100</lastBuildDate>
+		<lastBuildDate>Thu, 29 Mar 2018 00:00:00 +1100</lastBuildDate>
 		
 			<item>
-				<title>Not getting a social licence to operate can be a costly mistake, as coal seam gas firms have found</title>
+				<title>What we're looking for in Australia's Space Agency: views from NSW and SA</title>
 				        
 				
-					<description>&lt;p&gt;In a wide-ranging recent &lt;a href=&quot;https://www.ceda.com.au/Digital-hub/CEDA-live-stream&quot;&gt;speech&lt;/a&gt;, Rio Tinto chief executive Jean-Sebastien Jacques said there was:&lt;/p&gt;
+					<description>&lt;p&gt;It’s been a long time coming, but Australia is finally going to have a Space Agency. This will enable Australian space industries to benefit from agency-to-agency agreements and collaborations, and facilitate our participation in the growing global space market.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Fri, 23 Mar 2018 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/not-getting-a-social-licence-to-operate-can-be-a-costly-mistake-as-coal-seam-gas-firms-have-found</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/not-getting-a-social-licence-to-operate-can-be-a-costly-mistake-as-coal-seam-gas-firms-have-found</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/what-were-looking-for-in-australias-space-agency-views-from-nsw-and-sa</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/what-were-looking-for-in-australias-space-agency-views-from-nsw-and-sa</guid>
 			</item>
 		
 			<item>
-				<title>The Vatican, the exorcists and the return of the Devil in a time of enchantment</title>
+				<title>Victoria's sperm donor laws yield some surprises, but mostly happy ones</title>
 				        
 				
-					<description>&lt;p&gt;Sicilian priest and long-time exorcist Father Benigno Palilla &lt;a href=&quot;http://www.newsweek.com/vatican-training-more-exorcists-reports-demonic-possession-soaring-819139&quot;&gt;recently told Vatican Radio&lt;/a&gt; that requests for exorcisms had tripled in the past few years. There were now, he said, 500,000 alleged cases of demonic possession recorded in Italy each year.&lt;/p&gt;
+					<description>&lt;p&gt;Many Victorians are now discovering for the first time that they have offspring from sperm donations made in Victorian clinics in the 1970s and 1980s.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Sun, 04 Mar 2018 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/the-vatican-the-exorcists-and-the-return-of-the-devil-in-a-time-of-enchantment</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/the-vatican-the-exorcists-and-the-return-of-the-devil-in-a-time-of-enchantment</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/victorias-sperm-donor-laws-yield-some-surprises-but-mostly-happy-ones</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/victorias-sperm-donor-laws-yield-some-surprises-but-mostly-happy-ones</guid>
 			</item>
 		
 			<item>
-				<title>Introducing Tale</title>
+				<title>Trust Me, I'm An Expert: Brain-zapping, the curious case of the n-rays and other stories of evidence</title>
 				        
 				
-					<description>&lt;p&gt;Tale is minimal &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; theme curated for storytellers. It is designed and developed by &lt;a href=&quot;https://github.com/chesterhow/&quot;&gt;myself&lt;/a&gt; for a friend who writes short stories.&lt;/p&gt;
+					<description>&lt;p&gt;You’ve had an x-ray before but have you had an n-ray? Of course not, because they’re not real.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Wed, 29 Mar 2017 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/introducing-tale</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/introducing-tale</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/trust-me-im-an-expert-brain-zapping-the-curious-case-of-the-n-rays-and-other-stories-of-evidence</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/trust-me-im-an-expert-brain-zapping-the-curious-case-of-the-n-rays-and-other-stories-of-evidence</guid>
 			</item>
 		
 			<item>
-				<title>Example Content</title>
+				<title>Is psychiatry ready for medical MDMA?</title>
 				        
 				
-					<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.&lt;/p&gt;
+					<description>&lt;p&gt;Within five years, science will likely have answered a controversial question: can methylenedioxymethamphetamine (MDMA) treat psychiatric disorders?&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Thu, 16 Mar 2017 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/example-content</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/example-content</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/is-psychiatry-ready-for-medical-mdma</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/is-psychiatry-ready-for-medical-mdma</guid>
 			</item>
 		
 			<item>
-				<title>Welcome to Jekyll!</title>
+				<title>Howling Girls: a bold experiment exploring female voices constricted by trauma</title>
 				        
 				
-					<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+					<description>&lt;p&gt;In broad terms, “opera” denotes some combination of music, drama and spectacle in which some, if not all of the words are sung. Damien Ricketson’s new theatre work, The Howling Girls, which premiered on Wednesday, 28 March at Carriageworks in Sydney, has no recognizable words and certainly stretches generic boundaries.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Fri, 10 Mar 2017 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/welcome-to-jekyll</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/welcome-to-jekyll</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/howling-girls-a-bold-experiment-exploring-female-voices-constricted-by-trauma</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/howling-girls-a-bold-experiment-exploring-female-voices-constricted-by-trauma</guid>
 			</item>
 		
 			<item>
-				<title>The Case of the Missing Post</title>
+				<title>Grattan on Friday: Tim Storer – the $35 billion dollar man</title>
 				        
 				
-					<description>&lt;p&gt;Kitty power! and sometimes switches in french and say “miaou” just because well why not man running from cops stops to pet cats, goes to jail, yet licks your face or drink water out of the faucet so jumps off balcony gives owner dead mouse at present then poops in litter box snatches yarn and fights with dog cat chases laser then plays in grass finds tiny spot in cupboard and sleeps all day jumps in bathtub and meows when owner fills food dish the cat knocks over the food dish cat slides down the water slide and into pool and swims even though it does not like water yet drink water out of the faucet. Pelt around the house and up and down stairs chasing phantoms.&lt;/p&gt;
+					<description>&lt;p&gt;Put yourself in the shoes of Tim Storer. The accidental senator from South Australia has one hell of a decision to make shortly after the May budget, when the government plans to &lt;a href=&quot;https://theconversation.com/government-defers-company-tax-cut-vote-for-want-of-numbers-94038&quot;&gt;bring back&lt;/a&gt; its legislation to give tax cuts to big business.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Tue, 07 Mar 2017 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/the-case-of-the-missing-post</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/the-case-of-the-missing-post</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/grattan-on-friday-tim-storer-the-35-billion-dollar-man</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/grattan-on-friday-tim-storer-the-35-billion-dollar-man</guid>
 			</item>
 		
 			<item>
-				<title>The Mystery of the Filler Post</title>
+				<title>Essays On Air: Monsters in my closet – how a geographer began mining myths</title>
 				        
 				
-					<description>&lt;p&gt;Hornswaggle measured fer yer chains chase run a shot across the bow Chain Shot flogging Pirate Round galleon rope’s end aft. Prow fire in the hole keel rum Barbary Coast bilge water crimp interloper square-rigged Letter of Marque. Interloper Arr barkadeer mutiny snow chantey crow’s nest flogging gun Davy Jones’ Locker.&lt;/p&gt;
+					<description>&lt;p&gt;So you think the Loch Ness Monster never existed? Think again.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Mon, 06 Mar 2017 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/the-mystery-of-the-filler-post</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/the-mystery-of-the-filler-post</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/essays-on-air-monsters-in-my-closet-how-a-geographer-began-mining-myths</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/essays-on-air-monsters-in-my-closet-how-a-geographer-began-mining-myths</guid>
 			</item>
 		
 			<item>
-				<title>Pagination Post</title>
+				<title>Essays On Air: Monsters in my closet – how a geographer began mining myths</title>
 				        
 				
-					<description>&lt;p&gt;Here we see &lt;strong&gt;Tale’s&lt;/strong&gt; pagination feature in action. It is set to 5 posts per page by default. Feel free to change this number in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file!&lt;/p&gt;
+					<description>&lt;p&gt;So you think the Loch Ness Monster never existed? Think again.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Sun, 05 Mar 2017 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/pagination-post</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/pagination-post</guid>
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/essays-on-air-monsters-in-my-closet-how-a-geographer-began-mining-myths</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/essays-on-air-monsters-in-my-closet-how-a-geographer-began-mining-myths</guid>
+			</item>
+		
+			<item>
+				<title>Can the cricketers banned for ball tampering ever regain their hero status? It's happened before</title>
+				        
+				
+					<description>&lt;p&gt;Overnight, Cricket Australia handed out its &lt;a href=&quot;https://www.sbs.com.au/news/ball-tampering-trio-face-significant-sanctions-lehmann-stays-as-cricket-coach&quot;&gt;promised “significant sanctions”&lt;/a&gt; for a ball-tampering incident that has engulfed the sport &lt;a href=&quot;https://theconversation.com/just-not-cricket-why-ball-tampering-is-cheating-93935&quot;&gt;in scandal&lt;/a&gt;. Steve Smith and David Warner, the team’s captain and vice-captain, &lt;a href=&quot;http://www.abc.net.au/news/2018-03-28/steve-smith-david-warner-banned-playing-australia/9598648&quot;&gt;have been banned&lt;/a&gt; for 12 months. Cameron Bancroft, who carried out the failed plot, received a nine-month ban.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/can-the-cricketers-banned-for-ball-tampering-ever-regain-their-hero-status-its-happened-before</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/can-the-cricketers-banned-for-ball-tampering-ever-regain-their-hero-status-its-happened-before</guid>
+			</item>
+		
+			<item>
+				<title>Australia's digital divide is not going away</title>
+				        
+				
+					<description>&lt;p&gt;Despite large investments in the National Broadband Network, the “digital divide” in Australia remains largely unchanged, according to a new &lt;a href=&quot;http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0?OpenDocument&quot;&gt;report&lt;/a&gt; from the Australian Bureau of Statistics.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/australias-digital-divide-is-not-going-away</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/australias-digital-divide-is-not-going-away</guid>
 			</item>
 		
 	</channel>
 </rss>
+
+
+  
+
+</div>
+
+<div class="pagination">
+  
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+
+    </main>
+
+    <footer>
+      <span>
+        &copy; <time datetime="2018-04-24 19:18:09 +1000">2018</time> Chester How. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+      </span>
+    </footer>
+  </body>
+</html>
