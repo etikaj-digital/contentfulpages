@@ -6,6 +6,7 @@ baseurl:        "/contentfulpages/"
 tagurl:         "/contentfulpages/tag/"
 categoryurl:    "/contentfulpages/category/"
 url:            "https://etikaj-digital.github.io/contentfulpages"
+incremental:    true
 
 # Collections
 collections:
