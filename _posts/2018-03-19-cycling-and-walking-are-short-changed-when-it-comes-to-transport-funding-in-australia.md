@@ -14,24 +14,24 @@ disclosureStatement: "Dorina Pojani receives funding from the Australian Researc
 featureImage: 3f6EtVt3eMa2SqMSUYkWaA
 guid: http://theconversation.com/cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia-92574
 id: 3jlV0fwfD26EQieyK4AUUo
-lastmodified: 1524995822.443179
+lastmodified: 1524997790.893863
 lead: New analysis reveals just how little is spent on cycling and walking projects
   around Australia. No state's spending on cycling is more than 1.5% of its road funding.
 slug: cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia
 tags:
 - bicycling
-- ' bike riding'
-- ' brisbane'
-- ' cities'
-- ' cities & policy'
-- ' cycling'
-- ' infrastructure'
-- ' melbourne'
-- ' sydney'
-- ' transport'
-- ' transport policy'
-- ' walking'
-- ' car culture'
+- bike riding
+- brisbane
+- cities
+- cities & policy
+- cycling
+- infrastructure
+- melbourne
+- sydney
+- transport
+- transport policy
+- walking
+- car culture
 title: Cycling and walking are short-changed when it comes to transport funding in
   Australia
 ---
