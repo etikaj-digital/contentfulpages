@@ -2,8 +2,39 @@
 layout: default
 ---
 
+<script src='https://www.google.com/recaptcha/api.js'></script>
+
+<style>
+  .control {
+    margin: 1rem 0;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  .text {
+    width: 60%; 
+    max-width: 60%;
+  }
+  
+  .phone {
+   width: 200px; 
+  }
+  
+  .textarea {
+    width: 60%;
+    height: 500px;
+  }
+  
+</style>  
+
 <div class="post">
   <h1>{{ page.title }}</h1>
+  
+  <p>If you'd like to get in touch, we'd love to hear from you.</p>
+  <p>Complete the form below and we'll get back to you.</p>
 
   <form id="contact_form" method="post" action="">
     <input type="hidden" name="response" value="contact-response.html">
@@ -20,7 +51,7 @@ layout: default
     
     <div class="control">
       <label>Your contact number (optional)</label>
-      <input class="text" type="text" name="phone"> 
+      <input class="text phone" type="text" name="phone"> 
     </div>   
     
      <div class="control">
