@@ -1,5 +1,5 @@
 ---
-layout : default 
+layout : post 
 title : Thanks for getting in touch.
 ---
 
