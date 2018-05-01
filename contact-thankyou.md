@@ -1,6 +1,6 @@
 ---
 layout : post 
-title : Thanks for getting in touch.
+title : "Thanks for getting in touch."
 ---
 
 Thanks for taking the time to contact us.
