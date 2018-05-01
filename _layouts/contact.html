@@ -32,7 +32,7 @@ layout: default
       
       if (j.success) {
         console.log(form['response'].value);
-        window.location = form['response'].value;
+        window.location.href = form['response'].value;
       } else {
         document.getElementById('error').innerText = j.message;
       }
