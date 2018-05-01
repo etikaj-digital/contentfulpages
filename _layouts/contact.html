@@ -23,7 +23,7 @@ layout: default
       console.log(response); 
       
       try {
-        var j = json.parse(response);
+        var j = JSON.parse(response);
       } catch(e) {
         var j = {
           'success' : false,
