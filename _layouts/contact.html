@@ -7,16 +7,15 @@ layout: default
   function onSubmit(){
     
     var action = 'https://openwhisk.ng.bluemix.net/api/v1/web/christopher.knowles%40roads.vic.gov.au_dev/default/form.json';
-    var form = document.getElementById('contact_form');
+    var form = document.forms[0];
+    var elements = form.elements;
+    var data = {};
     
-    var data = {
-      'name' : form['name'].value,
-      'email' : form['email'].value,
-      'phone' : form['phone'].value,
-      'message' : form['message'].value,
-      'g-recaptcha-response' : form['g-recaptcha-response'].value
-    }
-    
+    for (var e=0; e < elements.length; e++){
+      try {
+        data[elements[e].name] = elements[e].value;
+      catch(e){}
+            
     // example request with data object
     postAjax(action, data, function(response){ 
       
@@ -34,8 +33,8 @@ layout: default
       console.log(j);
       
       if (j.success) {
-        console.log(form['response'].value);
-        window.location.href = 'contact-thankyou'; // form['response'].value;
+        console.log(document.forms[0]['response'].value);
+        window.location.href = document.forms[0]['response'].value;
       } else {
         document.getElementById('error').innerText = j.message;
       }
