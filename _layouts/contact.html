@@ -31,7 +31,8 @@ layout: default
       }
       
       if (j.success) {
-        window.location = form['response'];
+        console.log(form['response'].value);
+        window.location = form['response'].value;
       } else {
         document.getElementById('error').innerText = j.message;
       }
