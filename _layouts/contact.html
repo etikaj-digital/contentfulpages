@@ -19,6 +19,7 @@ layout: default
     
     // example request with data object
     postAjax(action, data, function(response){ 
+      
       console.log(response); 
       
       try {
@@ -30,9 +31,11 @@ layout: default
         }
       }
       
+      console.log(j);
+      
       if (j.success) {
         console.log(form['response'].value);
-        window.location.href = form['response'].value;
+        window.location.href = 'contact-thankyou'; // form['response'].value;
       } else {
         document.getElementById('error').innerText = j.message;
       }
