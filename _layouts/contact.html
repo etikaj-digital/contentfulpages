@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1>{{ page.title }}</h1>
+
+  <form id="contact_form" method="post" action="">
+    <input type="hidden" name="response" value="contact-response.html">
+    
+    <div class="control">
+      <label>Your name</label>
+      <input class="text" type="text" name="name" required> 
+    </div>
+    
+    <div class="control">
+      <label>Your email address</label>
+      <input class="text" type="text" name="email" required email> 
+    </div>
+    
+    <div class="control">
+      <label>Your contact number (optional)</label>
+      <input class="text" type="text" name="phone"> 
+    </div>   
+    
+     <div class="control">
+      <label>Your message</label>
+      <textarea class="textarea" name="message"></textarea> 
+    </div>      
+    
+    <button
+      class="g-recaptcha"
+      data-sitekey="6Lcke1YUAAAAAMs34BfCP767CNnrHZEcmcleY0XR"
+      data-callback="onSubmit">
+      Submit
+    </button>
+  
+  </form>
+
+</div>
