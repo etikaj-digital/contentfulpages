@@ -10,10 +10,11 @@ layout: default
     var form = document.getElementById('contact_form');
     
     var data = {
-      name : form['name'],
-      email : form['email'],
-      phone : form['phone'],
-      message : form['message']
+      name : form['name'].value,
+      email : form['email'].value,
+      phone : form['phone'].value,
+      message : form['message'].value,
+      recaptcha : form['g-recaptcha-response'].value
     }
     
     // example request with data object
