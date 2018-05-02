@@ -26,7 +26,7 @@
       
 			if (j.success) {
 				console.log(nexturl);
-				// window.location.href = nexturl;
+				window.location.href = nexturl;
 				document.getElementById('error').innerTetxt = 'Jumping to ' + nexturl;
 			} else {
 				document.getElementById('error').innerText = j.message;
