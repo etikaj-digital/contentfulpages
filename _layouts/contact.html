@@ -1,95 +1,6 @@
 ---
 layout: default
 ---
-
-<script src='https://www.google.com/recaptcha/api.js'></script>
-<script type='text/javascript'>
-  function onSubmit(){
-    
-    var action = 'https://openwhisk.ng.bluemix.net/api/v1/web/christopher.knowles%40roads.vic.gov.au_dev/default/form.json';
-    var form = document.forms[0];
-    var elements = form.elements;
-    var data = {};
-    
-    for (var e=0; e < elements.length; e++){
-      try {
-        data[elements[e].name] = elements[e].value;
-      } catch(e){}
-    }
-    
-    console.log(data);
-            
-    // example request with data object
-    postAjax(action, data, function(response){ 
-      
-      console.log(response); 
-      
-      try {
-        var j = JSON.parse(response);
-      } catch(e) {
-        var j = {
-          'success' : false,
-          'message' : 'Something went wrong submitting your form'
-        }
-      }
-      
-      console.log(j);
-      
-      if (j.success) {
-        console.log(document.forms[0]['nexturl'].value);
-        window.location.href = document.forms[0]['nexturl'].value;
-      } else {
-        document.getElementById('error').innerText = j.message;
-      }
-      
-    });
-    
-  } 
-  
-  function postAjax(url, data, success) {
-    var params = typeof data == 'string' ? data : Object.keys(data).map(
-            function(k){ return encodeURIComponent(k) + '=' + encodeURIComponent(data[k]) }
-        ).join('&');
-
-    var xhr = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
-    xhr.open('POST', url);
-    xhr.onreadystatechange = function() {
-        if (xhr.readyState>3 && (xhr.status==200 || xhr.status==201)) { success(xhr.responseText); }
-    };
-    xhr.setRequestHeader('X-Requested-With', 'XMLHttpRequest');
-    xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-    xhr.send(params);
-    return xhr;
-}
- 
-</script>  
-
-<style>
-  .control {
-    margin: 1rem 0;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 0.5rem;
-  }
-  
-  .text {
-    width: 60%; 
-    max-width: 60%;
-  }
-  
-  .phone {
-   width: 200px; 
-  }
-  
-  .textarea {
-    width: 60%;
-    height: 300px;
-  }
-  
-</style>  
-
 <div class="post">
   <h1>{{ page.title }}</h1>
   
@@ -121,12 +32,7 @@ layout: default
       <textarea class="textarea" name="message"></textarea> 
     </div>      
     
-    <button
-      class="g-recaptcha"
-      data-sitekey="6Lcke1YUAAAAAMs34BfCP767CNnrHZEcmcleY0XR"
-      data-callback="onSubmit">
-      Submit
-    </button>
+    <button>Submit</button>
   
   </form>
 
