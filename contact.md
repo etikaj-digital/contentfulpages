@@ -2,6 +2,7 @@
 layout: form
 title: Contact us
 form: 
+  preample: Got a question, thought or some feedback? We'd love to hear it!\nJust fill in the form below.
   name: contact
   recaptcha: true
   nexturl: contact-thankyou
