@@ -1,7 +1,6 @@
 ---
-layout: contact
+layout: form
 title: Contact us
-type: form
 form: 
   name: contact
   recaptcha: true
@@ -18,7 +17,7 @@ form:
       label: Your email
       type: single
       required: true
-      validation: email
+      validation: [email]
     - name: phone
       label: Your phone number (optional)
       type: single
