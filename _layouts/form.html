@@ -13,22 +13,22 @@ layout: default
     {% for field in page.form.fields %}
       <div class="control">
         <label>{{ field.label }}</label>
-        {% case field.type %}
-        {% when 'single' %}
+        {% if field.type == 'single' %}
         <input 
           class="text" 
           type="text" name="{{ field.name }}" 
           placeholder="{{ field.placeholder }}"         
           {% for v in fields.validation %} {{ v }} {% endfor %}
           {% if field.required %} required{% endif %}> 
-        {% when 'multi' %}
+        {% endif %}
+        {% if field.type == 'multi' %}
         <textarea 
           class="textarea" 
           name="{{ field.name }}"
           placeholder="{{ field.placeholder }}"
           {% for v in fields.validation %} {{ v }} {% endfor %}
           {% if field.required %} required{% endif %}></textarea> 
-        {% endcase %}        
+        {% endif %}        
     </div>
     {% endfor %}
      
