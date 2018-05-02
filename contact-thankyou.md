@@ -1,5 +1,5 @@
 ---
-layout : post 
+layout : page 
 title : "Thanks for getting in touch."
 ---
 
