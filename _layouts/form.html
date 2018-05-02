@@ -6,7 +6,7 @@ layout: default
   
   <p id='error'></p>
   
-  <p>{{ page.preamble }}</p>
+  <p>{{ page.form.preamble }}</p>
 
   <form data-form="{{ page.form.name }}" data-nexturl="{{ page.form.nexturl }}" {% if page.form.recaptcha %}recaptcha{% endif %}>
     
@@ -41,5 +41,7 @@ layout: default
     </div>
   
   </form>
+  
+  <p>{{ page.form.postamble }}</p>
 
 </div>
