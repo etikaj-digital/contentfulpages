@@ -27,8 +27,8 @@
       </span>
     </footer>
     {% if page.type and page.type == 'form' %}
-    <script src='{{ 'assets/form.js' | preprend: site.baseurl }}'></script>
-    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <script src="{{ 'assets/form.js' | preprend: site.baseurl }}"></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
     {% endif %}
   </body>
 </html>
