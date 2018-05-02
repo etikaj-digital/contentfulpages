@@ -21,7 +21,6 @@ layout: default
           placeholder="{{ field.placeholder }}"         
           {% for v in fields.validation %} {{ v }} {% endfor %}
           {% if field.required %} required{% endif %}> 
-        {% endcase %}
         {% when 'multi' %}
         <textarea 
           class="textarea" 
