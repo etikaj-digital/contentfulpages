@@ -35,14 +35,21 @@
 		}
 		
 	
-		function onSubmit(event){
-		
-			console.log(event);
-			
-			event.preventDefault();
-    
+		function onSubmit(){
+		    
 			var action = 'https://openwhisk.ng.bluemix.net/api/v1/web/christopher.knowles%40roads.vic.gov.au_dev/default/form.json';
-			var form = event.target;
+			var form = null;
+			var f = 0;
+			while (f <= document.forms.length && form === null){
+				if (document.forms[f].hasAttribute('recaptcha')){
+					form = document.forms[f];
+				} else {
+					f++
+				}
+			}	
+			
+			if (form === null) return;
+				
 			var data = {};
     
 			for (var e=0; e < form.elements.length; e++){
