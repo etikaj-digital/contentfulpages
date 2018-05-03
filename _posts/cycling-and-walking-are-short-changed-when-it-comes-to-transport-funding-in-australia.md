@@ -1,43 +1,21 @@
 ---
-authors:
-- 3xsFrD9YzCE0Wge4sAWYme
-- FfSiL68yekGw8Y2UOCUGA
-- TStPC6JgmOiAAUYaQ2ieq
-- 4hRChjlNawGimCKu4iwO6Y
-category: cities
-datePublished: '2018-03-19T18:38:07Z'
-disclosureStatement: "Dorina Pojani receives funding from the Australian Research\
-  \ Council. \n\nAnthony Kimpton receives funding from from the Australian Research\
-  \ Council\n\nJonathan Corcoran receives funding from from the Australian Research\
-  \ Council. \n\nNeil Sipe receives funding from the Australian Research Council and\
-  \ the Myer Family Foundation."
-featureImage: 3f6EtVt3eMa2SqMSUYkWaA
-guid: http://theconversation.com/cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia-92574
-id: 3jlV0fwfD26EQieyK4AUUo
-<<<<<<< HEAD
-lastmodified: 1524652334.8429172
-=======
-lastmodified: 1525001349.5125384
->>>>>>> 37c46fec9e4b894892fbba7373b8e6e5a40e5368
-lead: New analysis reveals just how little is spent on cycling and walking projects
-  around Australia. No state's spending on cycling is more than 1.5% of its road funding.
-slug: cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia
-tags:
-- bicycling
-- bike riding
-- brisbane
-- cities
-- cities & policy
-- cycling
-- infrastructure
-- melbourne
-- sydney
-- transport
-- transport policy
-- walking
-- car culture
-title: Cycling and walking are short-changed when it comes to transport funding in
-  Australia
+authors : [{'sys': {'id': '3xsFrD9YzCE0Wge4sAWYme', 'linkType': 'Entry', 'type': 'Link'}}, {'sys': {'id': 'FfSiL68yekGw8Y2UOCUGA', 'linkType': 'Entry', 'type': 'Link'}}, {'sys': {'id': 'TStPC6JgmOiAAUYaQ2ieq', 'linkType': 'Entry', 'type': 'Link'}}, {'sys': {'id': '4hRChjlNawGimCKu4iwO6Y', 'linkType': 'Entry', 'type': 'Link'}}]
+guid : http://theconversation.com/cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia-92574
+featureImage : 3f6EtVt3eMa2SqMSUYkWaA
+tags : ['bicycling', ' bike riding', ' brisbane', ' cities', ' cities & policy', ' cycling', ' infrastructure', ' melbourne', ' sydney', ' transport', ' transport policy', ' walking', ' car culture']
+category : cities
+lead : New analysis reveals just how little is spent on cycling and walking projects around Australia. No state's spending on cycling is more than 1.5% of its road funding.
+title : Cycling and walking are short-changed when it comes to transport funding in Australia
+datePublished : 2018-03-19T18:38:07Z
+slug : cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia
+disclosureStatement : Dorina Pojani receives funding from the Australian Research Council. 
+
+Anthony Kimpton receives funding from from the Australian Research Council
+
+Jonathan Corcoran receives funding from from the Australian Research Council. 
+
+Neil Sipe receives funding from the Australian Research Council and the Myer Family Foundation.
+id : 3jlV0fwfD26EQieyK4AUUo
 ---
 To understand why Australian cities are [far from being meccas for walking and cycling](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331), follow the money. Our research has collated data for all the states and territories and our three biggest cities. We found that cycling and walking receive a tiny fraction of overall transport infrastructure funding. To improve cycling and walking infrastructure in our cities, funding will have to increase significantly.
 

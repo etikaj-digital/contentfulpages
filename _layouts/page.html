@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.featureImage %}
+  {% assign feature = site.assets | where:"assetid", page.featureImage | first %}
+  <figure>
+    <img src="{{ feature.file.url}}" alt="{{ feature.title }}">
+    <figcaption>{{ feature.title }} | {{ feature.description }}</figcaption>
+  </figure>
+  {% endif %}
+  <div class="post-line"></div>
+
+  {{ content }}
+
+</div>

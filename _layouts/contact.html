@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="post">
+  <h1>{{ page.title }}</h1>
+  
+  <p id='error'></p>
+  
+  <p>If you'd like to get in touch, we'd love to hear from you.</p>
+  <p>Complete the form below and we'll get back to you.</p>
+
+  <form data-form="contact_form" data-nexturl="contact-thankyou" recaptcha>
+    
+    <div class="control">
+      <label>Your name</label>
+      <input class="text" type="text" name="name" required> 
+    </div>
+    
+    <div class="control">
+      <label>Your email address</label>
+      <input class="text" type="text" name="email" required email> 
+    </div>
+    
+    <div class="control">
+      <label>Your contact number (optional)</label>
+      <input class="text phone" type="text" name="phone"> 
+    </div>   
+    
+     <div class="control">
+      <label>Your message</label>
+      <textarea class="textarea" name="message"></textarea> 
+    </div>      
+    
+    <button>Submit</button>
+  
+  </form>
+
+</div>

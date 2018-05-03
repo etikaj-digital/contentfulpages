@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<div class="post">
+  <h1>{{ page.title }}</h1>
+  
+  <p id='error'></p>
+  
+  <p>{{ page.form.preamble }}</p>
+
+  <form data-form="{{ page.form.name }}" data-nexturl="{{ page.form.nexturl }}" {% if page.form.recaptcha %}recaptcha{% endif %}>
+    
+    {% for field in page.form.fields %}
+      <div class="control">
+        <label>{{ field.label }}</label>
+        {% if field.type == 'single' %}
+        <input 
+          class="text" 
+          type="text" name="{{ field.name }}" 
+          placeholder="{{ field.placeholder }}"         
+          {% for v in fields.validation %} {{ v }} {% endfor %}
+          {% if field.required %} required{% endif %}> 
+        {% endif %}
+        {% if field.type == 'multi' %}
+        <textarea 
+          class="textarea" 
+          name="{{ field.name }}"
+          placeholder="{{ field.placeholder }}"
+          {% for v in fields.validation %} {{ v }} {% endfor %}
+          {% if field.required %} required{% endif %}></textarea> 
+        {% endif %}        
+    </div>
+    {% endfor %}
+     
+    <div class="control">
+      {% if page.form.buttons %}
+      {% for button in page.form.buttons %}<button>{{ button.label }}</button>{% endfor %}
+      {% else %}
+      <button>Submit</button>
+      {% endif %}
+    </div>
+  
+  </form>
+  
+  <p>{{ page.form.postamble }}</p>
+
+</div>
