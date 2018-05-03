@@ -9,6 +9,7 @@ disclosureStatement: Howard Prosser does not work for, consult, own shares in or
 featureImage: 2g1H8rqSS0oIickeEqG4Yk
 guid: http://theconversation.com/more-than-a-haircut-how-elite-schools-are-struggling-with-the-pressure-to-excel-93481
 id: 1xSY9fgwO4uyEYWiCOgS6O
+lastmodified: 1524652333.655353
 lead: The anger at the sacking of the deputy headmaster at Melbourne's Trinity Grammar
   is less about the haircut and more about what it represents.
 slug: more-than-a-haircut-how-elite-schools-are-struggling-with-the-pressure-to-excel

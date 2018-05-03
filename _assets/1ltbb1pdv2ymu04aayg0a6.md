@@ -10,6 +10,7 @@ file:
     size: 7218
   fileName: image-20150501-30726-1jqx6aq.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1lTBB1pdv2YmU04aAYg0A6/0272468216c7307a16850a172acbbd26/image-20150501-30726-1jqx6aq.jpg
+lastmodified: 1524652336.051934
 title: Mark Edele
 ---
 No content found

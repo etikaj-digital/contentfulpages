@@ -10,6 +10,7 @@ disclosureStatement: Joachim Schleich receives funding from the European Commiss
 featureImage: 1Q1DoPsrZqQgoqqiQasyE4
 guid: http://theconversation.com/why-increasing-shale-gas-production-wont-reduce-greenhouse-gas-emissions-92804
 id: 5IrwjXdgl2WE0cwGwOmgUi
+lastmodified: 1524652334.8097532
 lead: Shale gas exploitation in the US has helped cut is greenhouse gas emissions
   by 11%. A study explores what would happen if this were expanded globally, and the
   findings challenge conventional wisdom.

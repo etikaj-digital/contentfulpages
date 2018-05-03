@@ -10,6 +10,7 @@ file:
     size: 3106168
   fileName: file-20180320-31624-1iucm5l.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4unjU3kKpGWiCCAME8qYGw/6596a2e688dae65093f1c2378eda732d/file-20180320-31624-1iucm5l.jpg
+lastmodified: 1524652337.065257
 title: Multiple studies have found links between vitamin D and autism, but nothing
   is conclusive yet.
 ---

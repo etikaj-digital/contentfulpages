@@ -1,6 +1,7 @@
 ---
 authorid: 4ThtqcpiN2UWQ8G84YUScW
 fullName: Karen Thorpe
+lastmodified: 1524652335.399185
 photo: 1sULQgp80YAOSkQ4A88qu8
 profileUrl: https://theconversation.com//profiles/karen-thorpe-117538
 role: Professor, Research Group leader  Development education and Care, The University

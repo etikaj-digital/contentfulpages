@@ -8,6 +8,7 @@ datePublished: '2018-03-26T19:00:30Z'
 featureImage: 2ONYlmqpPO64keuC6Gu8cO
 guid: http://theconversation.com/kids-with-autism-less-likely-to-be-fully-vaccinated-93848
 id: 75qBvVORRS44Ae0iC2mIQE
+lastmodified: 1524652334.543682
 lead: Children with autism and their younger siblings could be at increased risk of
   vaccine-preventable diseases, with new research showing they are under-vaccinated
   compared to the general population.

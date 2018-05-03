@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 2awIGQiyGw4yMMiAA8WeOU
 guid: http://theconversation.com/video-michelle-grattan-on-musical-chairs-in-the-senate-93857
 id: 19AdLYqJMMEWyGOY4kE6Es
+lastmodified: 1524652334.456963
 lead: Michelle Grattan speaks with Deep Saini about the week in Australian politics.
 slug: video-michelle-grattan-on-musical-chairs-in-the-senate
 tags:

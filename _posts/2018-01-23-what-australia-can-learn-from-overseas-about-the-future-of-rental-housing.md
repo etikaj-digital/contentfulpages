@@ -8,6 +8,7 @@ disclosureStatement: Chris Martin receives funding from the Australian Housing a
 featureImage: 4fc37LASZGSyOy6W00qOCe
 guid: http://theconversation.com/what-australia-can-learn-from-overseas-about-the-future-of-rental-housing-90401
 id: 6UrhoPz8lyyQ8uU6Muiiks
+lastmodified: 1524652333.615714
 lead: There is a risk that affordable housing policy may be colonised by for-profit
   interests if Australia imports the wrong rental housing ideas from overseas.
 slug: what-australia-can-learn-from-overseas-about-the-future-of-rental-housing

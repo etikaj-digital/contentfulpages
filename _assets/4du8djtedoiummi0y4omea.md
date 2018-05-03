@@ -10,6 +10,7 @@ file:
     size: 503420
   fileName: file-20180308-30983-e4u830.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4du8dJtedOIUMMi0Y4oMeA/74a38b2209557819db914281d5417956/file-20180308-30983-e4u830.jpg
+lastmodified: 1524652336.995604
 title: "What\u2019s that rash? Here\u2019s what to look for to diagnose a common skin\
   \ complaint."
 ---

@@ -9,6 +9,7 @@ disclosureStatement: Elena Fiddian-Qasmiyeh receives funding from the Arts and H
   Council (ERC).
 guid: http://theconversation.com/palestinian-refugees-lament-as-trump-funding-cuts-create-job-insecurity-and-a-pension-crisis-93447
 id: 5MYiiiAk2kM8W28wOgIUMu
+lastmodified: 1524652333.6201952
 lead: Thousands of staff are employed by the UN's Palestinian refugee agency. Their
   futures remain uncertain.
 slug: palestinian-refugees-lament-as-trump-funding-cuts-create-job-insecurity-and-a-pension-crisis

@@ -10,6 +10,7 @@ file:
     size: 618178
   fileName: file-20180316-104639-u33fzr.jpg
   url: //images.ctfassets.net/bsux5spekp1p/3f6EtVt3eMa2SqMSUYkWaA/af00e97bcf0a35ff1673ae72f48137ea/file-20180316-104639-u33fzr.jpg
+lastmodified: 1524652336.713363
 title: "The \u2018Bicycle Snake\u2019 in Copenhagen separates pedestrians and cyclists,\
   \ allowing both to navigate the city more safely."
 ---

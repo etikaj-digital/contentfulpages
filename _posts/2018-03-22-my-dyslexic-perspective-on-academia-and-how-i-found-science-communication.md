@@ -9,6 +9,7 @@ disclosureStatement: Grainne Cleary does not work for, consult, own shares in or
 featureImage: 12iICDaEmkeMUSwmekyOAC
 guid: http://theconversation.com/my-dyslexic-perspective-on-academia-and-how-i-found-science-communication-92846
 id: MnAOu322Wc06s2OsqQSaK
+lastmodified: 1524652334.302312
 lead: Never underestimate a person with dyslexia - the skills and strategies they've
   developed to survive academia can be the right fit for effective communication.
 slug: my-dyslexic-perspective-on-academia-and-how-i-found-science-communication

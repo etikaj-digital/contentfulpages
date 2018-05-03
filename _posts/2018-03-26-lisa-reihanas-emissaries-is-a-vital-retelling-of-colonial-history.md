@@ -7,6 +7,7 @@ disclosureStatement: Jane Lydon receives funding from the Australian Research Co
 featureImage: 5M1dncGRQ4W0YssuimSagy
 guid: http://theconversation.com/lisa-reihanas-emissaries-is-a-vital-retelling-of-colonial-history-93365
 id: 20LUXw8VNqWyQg2mwa6QOw
+lastmodified: 1524652333.871607
 lead: Lisa Reihana's video installation Emissaries combines Indigenous actors and
   performance techniques to reenact Captain Cook's encounters across the Pacific.
 slug: lisa-reihanas-emissaries-is-a-vital-retelling-of-colonial-history

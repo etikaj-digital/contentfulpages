@@ -10,6 +10,7 @@ disclosureStatement: "Grattan Institute began with contributions to its endowmen
 featureImage: 1WHEkp0UUYWIWwYa0uEKck
 guid: http://theconversation.com/catholic-schools-arent-all-the-same-and-gonski-2-0-reflects-this-93722
 id: 2MOlrtRktqSOyeSICqUcIE
+lastmodified: 1524652334.465905
 lead: "Catholic schools say they're losing money under Gonski 2.0, but this is only\
   \ true for schools serving students in affluent areas \u2013 those in poorer areas\
   \ will either be unaffected, or get more."

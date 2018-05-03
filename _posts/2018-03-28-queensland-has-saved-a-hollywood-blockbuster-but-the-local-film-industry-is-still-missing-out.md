@@ -9,6 +9,7 @@ disclosureStatement: Ella Donald does not work for, consult, own shares in or re
 featureImage: 2f2xnJRC4gi60sec0G6yui
 guid: http://theconversation.com/queensland-has-saved-a-hollywood-blockbuster-but-the-local-film-industry-is-still-missing-out-94027
 id: 64awJV5UNU8SUA60ASggoo
+lastmodified: 1524652334.511393
 lead: This week actors including Cate Blanchett  signed an open letter calling on
   the government to protect our screen industry. More needs to be done to create a
   sustainable local industry beyond  Dora-style, Hollywood productions.

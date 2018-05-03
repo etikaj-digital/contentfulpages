@@ -7,6 +7,7 @@ disclosureStatement: Tom Clark is a subscribing member of Museums Victoria.
 featureImage: 6qvXuHHkgEyEWIikeGIIcm
 guid: http://theconversation.com/vikings-exhibit-hangs-up-the-sword-and-gives-us-a-welcome-insight-into-domestic-life-93474
 id: 1pvbnuZbN26oIGieE2CAGM
+lastmodified: 1524652333.6242392
 lead: The Vikings have become synonymous with voyages and violence, but a new exhibition
   at the Melbourne Museum demonstrates their domestic and spiritual side.
 slug: vikings-exhibit-hangs-up-the-sword-and-gives-us-a-welcome-insight-into-domestic-life

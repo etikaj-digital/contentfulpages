@@ -9,6 +9,7 @@ disclosureStatement: Michelle Grattan does not work for, consult, own shares in 
 featureImage: 7CbIFR9De8mIkQGy6M2wq8
 guid: http://theconversation.com/grattan-on-friday-new-players-in-bradbury-senate-a-gift-to-governments-company-tax-cut-prospects-93809
 id: 3GDFXobR84AqaKy2casSmC
+lastmodified: 1524652333.854105
 lead: "If the government clinches the tax cut legislation it will be a major victory\
   \ \u2013 with its own irony."
 slug: grattan-on-friday-new-players-in-bradbury-senate-a-gift-to-governments-company-tax-cut-prospects

@@ -9,6 +9,7 @@ disclosureStatement: Patricia Hogwood does not work for, consult, own shares in 
 featureImage: 2fj0I8swjOm8MMqEeUuc8w
 guid: http://theconversation.com/article-50-one-year-on-a-more-dangerous-world-shifts-focus-of-brexit-debate-93977
 id: 3PZ6faBqW4wAQIM0EAQCU4
+lastmodified: 1524652333.8763509
 lead: Tensions with Russia and the US have made both partners in the Brexit negotiations
   more aware of their shared interests than they seemed to be a year ago.
 slug: article-50-one-year-on-a-more-dangerous-world-shifts-focus-of-brexit-debate

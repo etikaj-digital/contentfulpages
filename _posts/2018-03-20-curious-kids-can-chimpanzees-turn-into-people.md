@@ -10,6 +10,7 @@ disclosureStatement: Mark Elgar receives funding from the Australian Research Co
 featureImage: 2sD0WmyZBOqsySAU8usA0W
 guid: http://theconversation.com/curious-kids-can-chimpanzees-turn-into-people-91839
 id: 3l1qyLqJ2Uk426mQIoaKIo
+lastmodified: 1524652334.086796
 lead: The short answer is no. An individual of one species cannot, during its lifetime,
   turn into another species. But your question helps us think about life, evolution
   and what it means to be human.

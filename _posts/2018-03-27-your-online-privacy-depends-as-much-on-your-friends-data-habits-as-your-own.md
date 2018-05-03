@@ -11,6 +11,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 2E4erHLTq48WMKem2yK2eM
 guid: http://theconversation.com/your-online-privacy-depends-as-much-on-your-friends-data-habits-as-your-own-93860
 id: Cc76r7j7VuCIY4CM6QUuO
+lastmodified: 1524652334.258979
 lead: The silver lining to the Cambridge Analytica case is that more people are recognising
   that we pay for online services with not only our own privacy, but that of our friends,
   family and colleagues.

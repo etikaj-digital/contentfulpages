@@ -8,6 +8,7 @@ disclosureStatement: Abdhalah Ziraba does not work for, consult, own shares in o
   and has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/nairobi-is-at-risk-from-another-cholera-outbreak-why-this-isnt-necessary-93891
 id: 3FN9ZF8do4SGk2AK2YWkUQ
+lastmodified: 1524652334.69209
 lead: The health challenges that Nairobi can expect in the wake of heavy rains are
   largely preventable.
 slug: nairobi-is-at-risk-from-another-cholera-outbreak-why-this-isnt-necessary

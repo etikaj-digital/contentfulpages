@@ -15,6 +15,7 @@ disclosureStatement: "Robert Freestone receives funding from the Australian Rese
 featureImage: 1ajPlTvzIiYKqAaIwyOEO6
 guid: http://theconversation.com/new-cities-its-an-idea-worth-thinking-about-for-australia-92990
 id: 2sWFfXVShqISgS8i42ueQ2
+lastmodified: 1524652334.634775
 lead: Business-as-usual projections assume our four biggest cities must absorb three-quarters
   of Australia's population growth over the next 30 years. Might new cities be a better
   way to deal with it?

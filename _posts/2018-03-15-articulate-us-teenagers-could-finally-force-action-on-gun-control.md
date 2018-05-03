@@ -9,6 +9,7 @@ disclosureStatement: George Rennie does not work for, consult, own shares in or 
 featureImage: 5cbYM5P0Ssmq8u6QKMQ4As
 guid: http://theconversation.com/articulate-us-teenagers-could-finally-force-action-on-gun-control-92272
 id: Fx3pwGNEoUEuMIKSaAkEC
+lastmodified: 1524652334.782985
 lead: Student activists are presenting important, emotionally powerful counter-narratives
   to those of the gun lobby. Their success will depend on whether they can sustain
   these efforts.

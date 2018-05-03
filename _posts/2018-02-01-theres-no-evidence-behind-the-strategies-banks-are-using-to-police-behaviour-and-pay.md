@@ -9,6 +9,7 @@ disclosureStatement: Elizabeth Sheedy has received funding from the Centre for I
 featureImage: bYth4xgtVewIKkKoIScym
 guid: http://theconversation.com/theres-no-evidence-behind-the-strategies-banks-are-using-to-police-behaviour-and-pay-91064
 id: 6LTwyBQJbO8MYcmU4OmQIs
+lastmodified: 1524652333.786737
 lead: Research shows that cash bonuses are responsible for many recent financial scandals.
   The alternative isn't that great either.
 slug: theres-no-evidence-behind-the-strategies-banks-are-using-to-police-behaviour-and-pay

@@ -9,6 +9,7 @@ disclosureStatement: Philippa England does not work for, consult, own shares in 
 featureImage: 5yjW4P9HDqU2QeUigscyYc
 guid: http://theconversation.com/new-queensland-planning-law-puts-transparency-and-accountability-at-risk-93121
 id: 2R7Q39UWaQSweq64WQ6GQa
+lastmodified: 1524652334.56832
 lead: Changes under Queensland's recently instituted Planning Act give councils much
   more leeway in their decision-making, which makes it harder for appeals against
   decisions to succeed.

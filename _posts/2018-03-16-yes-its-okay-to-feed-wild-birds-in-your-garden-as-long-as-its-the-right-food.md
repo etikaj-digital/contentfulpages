@@ -10,6 +10,7 @@ disclosureStatement: 'Darryl Jones is affiliated with Griffith University. He re
 featureImage: sUe5UFNvfq664wYYQCEAG
 guid: http://theconversation.com/yes-its-okay-to-feed-wild-birds-in-your-garden-as-long-as-its-the-right-food-92919
 id: 4U18UJabBSQaGEYEuk0sM0
+lastmodified: 1524652334.4968262
 lead: Feeding wild birds is discouraged in Australia despite its popularity in other
   countries. But many Australians still put food out for the birds, and that's not
   a problem if it's the right food.

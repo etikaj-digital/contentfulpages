@@ -10,6 +10,7 @@ file:
     size: 17861
   fileName: image-20160404-6270-15ukh40.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4dACkH21OwY6cymKYI6y0c/9ff322cb6b7edb9021abd64895c22e87/image-20160404-6270-15ukh40.jpg
+lastmodified: 1524652336.978994
 title: Vince Polito
 ---
 No content found

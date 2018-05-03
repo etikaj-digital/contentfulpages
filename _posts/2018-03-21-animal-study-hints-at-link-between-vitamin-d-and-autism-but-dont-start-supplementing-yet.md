@@ -12,6 +12,7 @@ disclosureStatement: 'Andrew Whitehouse receives funding from the NHMRC, ARC and
 featureImage: 4unjU3kKpGWiCCAME8qYGw
 guid: http://theconversation.com/animal-study-hints-at-link-between-vitamin-d-and-autism-but-dont-start-supplementing-yet-93657
 id: 4VtQgEWamAsMuYK4CyCikQ
+lastmodified: 1524652333.559208
 lead: 'Autism and vitamin D: an in-depth look at what the new study actually found.'
 slug: animal-study-hints-at-link-between-vitamin-d-and-autism-but-don-t-start-supplementing-yet
 tags:

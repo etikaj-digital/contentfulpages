@@ -11,6 +11,7 @@ disclosureStatement: "Nenad Naumovski received a Australian Postgraduate Award (
 featureImage: 2thtDvd4BqgcGiQg0ekAa6
 guid: http://theconversation.com/ive-always-wondered-why-does-lemon-juice-lighten-the-colour-of-tea-91324
 id: 2j4Li2oizSIY6ieo4w8GYk
+lastmodified: 1524652334.049313
 lead: It's all about the chemistry. Adding lemon can enhance the flavour and enjoyment
   of tea, and change its colour, but its best not to expect any extra boosts to your
   health.

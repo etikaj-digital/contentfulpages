@@ -8,6 +8,7 @@ disclosureStatement: Kym Simoncini is part of the Early Learning STEM Australia 
 featureImage: 4U7DkUMHduqmYC6wwM6OKw
 guid: http://theconversation.com/five-things-parents-can-do-every-day-to-help-develop-stem-skills-from-a-young-age-92927
 id: 6NvulzcSBy2k0uYya4ymeS
+lastmodified: 1524652334.643397
 lead: Early STEM skills are as important as early literacy skills. Parents can help
   their preschoolers develop STEM skills by working these simple techniques into everyday
   activities.

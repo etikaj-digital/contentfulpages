@@ -10,6 +10,7 @@ file:
     size: 49762
   fileName: image-20170402-27251-3tff31.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4HeSuTxRWEygYAgecs0EEY/c96e8f1f481e026d27e8cc3aa9a99325/image-20170402-27251-3tff31.jpg
+lastmodified: 1524652336.87517
 title: Brad E Tucker
 ---
 No content found

@@ -8,6 +8,7 @@ disclosureStatement: Dina Rezk receives funding from the Arts and Humanities Res
 featureImage: 2sj420MjN6uu0g4024si0o
 guid: http://theconversation.com/egypts-sisi-dashed-his-countrys-hopes-and-what-support-he-has-is-eroding-92227
 id: 2zw0ZLArKMuW2oEeCOY8sa
+lastmodified: 1524652333.735487
 lead: Egyptians' revolutionary demands for 'bread, freedom and social justice' are
   a distant memory.
 slug: egypts-sisi-dashed-his-countrys-hopes--and-what-support-he-has-is-eroding

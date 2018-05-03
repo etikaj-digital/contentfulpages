@@ -8,6 +8,7 @@ disclosureStatement: Michael J. I. Brown receives research funding from the Aust
 featureImage: 47fwMCI7ZY6Q8OWiIUQO4w
 guid: http://theconversation.com/were-still-playing-catch-up-with-academias-longstanding-metoo-sexual-harassment-problem-93852
 id: 2FLut8dIBiqGoIAkOIMCwo
+lastmodified: 1524652333.668233
 lead: Another case of alleged sexual harassment in academia highlights the slow progress
   being made to protect people from abuse.
 slug: were-still-playing-catch-up-with-academias-longstanding-metoo-sexual-harassment-problem

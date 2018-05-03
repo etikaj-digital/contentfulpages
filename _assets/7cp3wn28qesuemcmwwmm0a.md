@@ -11,6 +11,7 @@ file:
     size: 19942
   fileName: RackMultipart20131029-24153-d8sfau.jpg
   url: //images.ctfassets.net/bsux5spekp1p/7cP3wn28QESUeMcmwWmM0A/2981375b654e83109fae36ba4e05f1da/RackMultipart20131029-24153-d8sfau.jpg
+lastmodified: 1524652337.774955
 title: Rodney Maddock
 ---
 No content found

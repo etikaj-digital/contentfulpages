@@ -8,6 +8,7 @@ disclosureStatement: Abbas El-Zein receives funding from the Australian Research
 featureImage: 5PTRNcfHb24aEQWK4SmU8Y
 guid: http://theconversation.com/on-dangerous-ground-land-degradation-is-turning-soils-into-deserts-94100
 id: kGXcByAcKGMKS0G6QccKi
+lastmodified: 1524652334.65889
 lead: A new international report makes for bleak reading on the state of the world's
   soils. It predicts that land degradation will displace up to 700 million people
   worldwide by mid-century.

@@ -14,6 +14,7 @@ disclosureStatement: "Andrew Linden received funding from RMITs EU Centre <http:
 featureImage: Y26cypVRAGiKUqW8isiQW
 guid: http://theconversation.com/the-way-banks-are-organised-makes-it-hard-to-hold-directors-and-executives-criminally-responsible-93638
 id: 5xlKdHlm4oIWQoGyoO8YYG
+lastmodified: 1524652334.06016
 lead: The way corporations are structured makes it hard to establish criminal culpability
   even if directors and executives control processes and are paid bonuses based on
   performance.

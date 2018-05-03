@@ -10,6 +10,7 @@ file:
     size: 102719
   fileName: file-20180322-54898-1hcerqk.jpg
   url: //images.ctfassets.net/bsux5spekp1p/F8T8NApea4UkEsseUM2i8/00248afdf0ba97b67750f733ed829e53/file-20180322-54898-1hcerqk.jpg
+lastmodified: 1524652337.863775
 title: Members of the U.S. Army Special Forces on Aug. 30, 2002 in Afghanistan.
 ---
 No content found

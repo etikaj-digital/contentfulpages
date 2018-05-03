@@ -10,6 +10,7 @@ file:
     size: 30693
   fileName: image-20150120-24454-1wbzhu0.jpg
   url: //images.ctfassets.net/bsux5spekp1p/5QKkX96JocEiiSW2yom26y/ae0d1ebda6c83289257fbe8cd369145b/image-20150120-24454-1wbzhu0.jpg
+lastmodified: 1524652337.176826
 title: Lawrence English
 ---
 No content found

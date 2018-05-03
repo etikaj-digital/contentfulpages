@@ -15,6 +15,7 @@ disclosureStatement: 'Tilman Ruff is founding international and Australian chair
 featureImage: 5iyJw69G3uIa6SMKC2Eoow
 guid: http://theconversation.com/partnerships-between-universities-and-arms-manufacturers-raise-thorny-ethical-questions-93005
 id: 13Edj8u4qECgiQuimC62sI
+lastmodified: 1524652334.7295868
 lead: Research partnerships between Australian universities, the Department of Defence
   and weapons manufacturers may not be ethically justifiable.
 slug: partnerships-between-universities-and-arms-manufacturers-raise-thorny-ethical-questions

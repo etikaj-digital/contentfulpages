@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 23D1DyrAJKkcoy2aWMISyO
 guid: http://theconversation.com/more-children-are-starting-school-depressed-and-anxious-without-help-it-will-only-get-worse-87086
 id: 6nbEE1D40EEgAAAUikWgM
+lastmodified: 1524652333.711746
 lead: At the ages of 6-7, when children are transitioning to starting school, 14%
   have high levels of emotional problems, including depression and anxiety. This percentage
   is higher in the later years.

@@ -9,6 +9,7 @@ disclosureStatement: Terence Cheng does not work for, consult, own shares in or 
 featureImage: 1lpljX0pta8w22a26uSsaw
 guid: http://theconversation.com/private-health-insurance-rebates-dont-serve-their-purpose-lets-talk-about-scrapping-them-91061
 id: 354tJNQu0gE8wM8A4CSUcY
+lastmodified: 1524652333.756609
 lead: Private health insurance is meant to take pressure off the public system. But
   with exclusionary policies, people are increasingly avoiding the levies and using
   the public system anyway.

@@ -10,6 +10,7 @@ file:
     size: 10299231
   fileName: file-20180315-104673-14smec4.jpg
   url: //images.ctfassets.net/bsux5spekp1p/28HcZD0HiE0IumwQcoO44G/ce1ac58f6d06ea5fb7b218c0a394bf99/file-20180315-104673-14smec4.jpg
+lastmodified: 1524652336.1670542
 title: "More than one-third of five- and six-year-olds have decay in their \u2018\
   baby'teeth."
 ---

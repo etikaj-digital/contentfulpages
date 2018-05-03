@@ -9,6 +9,7 @@ disclosureStatement: Monica Duffy Toft does not work for, consult, own shares in
 featureImage: F8T8NApea4UkEsseUM2i8
 guid: http://theconversation.com/fewer-diplomats-more-armed-force-defines-us-leadership-today-92890
 id: 6Z1Og8PJSMY8SAoqEOCCWY
+lastmodified: 1524652334.630042
 lead: "The author of 'Securing the Peace,' explains what's wrong with having US ambassadors\
   \ operating in one-third of the world\u2019s capitals while special operations forces\
   \ are active in three-fourths."

@@ -9,6 +9,7 @@ disclosureStatement: Andrew C. Worthington does not work for, consult, own share
 featureImage: 5Tr2slbKpikqgCemcSuy2E
 guid: http://theconversation.com/daylight-saving-can-boost-the-economy-but-australia-needs-to-make-it-uniform-93727
 id: 2DknibRUV6WmQOykyE0SYY
+lastmodified: 1524652334.135904
 lead: Daylight saving has economic benefits, but this breaks down in the days before
   and after we change, as well as across borders between states that do and don't
   have it.

@@ -9,6 +9,7 @@ disclosureStatement: Chari Larsson does not work for, consult, own shares in or 
 featureImage: 2LQFzizE4EaKGUacGmAY8U
 guid: http://theconversation.com/with-affection-and-humour-patricia-piccinini-probes-the-boundaries-of-human-and-other-94026
 id: 2lDvS6wTW8sWyuwOMquguu
+lastmodified: 1524652334.7114902
 lead: Part human, part animal, Patricia Piccinini's sculptures are uncannily familiar,
   yet alarmingly other. A major new exhibition creates a parallel universe in which
   viewers can encounter her work.

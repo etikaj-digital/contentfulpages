@@ -11,6 +11,7 @@ disclosureStatement: "Sebastien Darchen receives funding from the Myer Foundatio
 featureImage: 7cciBv0QCsuwGQA2S4YIaU
 guid: http://theconversation.com/france-has-a-unique-approach-to-regenerating-inner-cities-what-can-we-learn-from-its-success-91652
 id: 2OgX3aIWfukGakIiSaSWsq
+lastmodified: 1524652334.008459
 lead: France is transforming old industrial wastelands in cities like Paris, Lyon
   and Nantes, so what are the secrets of its success?
 slug: france-has-a-unique-approach-to-regenerating-inner-cities--what-can-we-learn-from-its-success

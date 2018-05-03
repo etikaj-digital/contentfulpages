@@ -9,6 +9,7 @@ disclosureStatement: Paul McGorrery does not work for, consult, own shares in or
 featureImage: 1RxiUX7A2MGoCgK6mi0eUY
 guid: http://theconversation.com/why-governments-should-be-cautious-about-criminalising-hazing-92665
 id: 1mUzI9hN0IOwYOwmom08wS
+lastmodified: 1524652334.873466
 lead: Hazing is unacceptable, but criminalising it may cause more problems than it
   solves.
 slug: why-governments-should-be-cautious-about-criminalising-hazing

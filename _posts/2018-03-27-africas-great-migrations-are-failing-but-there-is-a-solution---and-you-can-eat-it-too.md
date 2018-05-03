@@ -9,6 +9,7 @@ disclosureStatement: Penny van Oosterzee does not work for, consult, own shares 
 featureImage: 5Z8d9BvUZOk6eGSKqWQmEC
 guid: http://theconversation.com/africas-great-migrations-are-failing-but-there-is-a-solution-and-you-can-eat-it-too-93749
 id: 7ibgfqFjWwmUeC4UmCIKaK
+lastmodified: 1524652334.344508
 lead: Africa's famous animal migrations are increasingly blocked by fences, erected
   by farmers to keep their livestock safe from disease. But a new approach aims to
   deliver healthy beef and healthy wildlife.

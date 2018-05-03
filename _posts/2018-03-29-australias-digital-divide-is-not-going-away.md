@@ -18,6 +18,7 @@ disclosureStatement: 'Julian Thomas receives funding from Telstra for research o
 featureImage: 2x4oJn4SLug6AMEQ2Qwsoc
 guid: http://theconversation.com/australias-digital-divide-is-not-going-away-91834
 id: 2FaNMLwuGc6KMMYw4yIcg0
+lastmodified: 1524652334.024195
 lead: The people who have the most to gain from the extraordinary resources of the
   internet are missing out, including those not employed, older Australians and migrants
   from non-English speaking countries.

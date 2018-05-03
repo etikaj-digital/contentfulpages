@@ -20,6 +20,7 @@ disclosureStatement: "Kate Seear is a current recipient of an Australian Researc
 featureImage: 4IfvYETakoU60KAiII8Qa
 guid: http://theconversation.com/victorian-drug-law-reform-recommendations-are-welcome-but-must-include-prisoners-94029
 id: 5W4M5o1amISiWCsuAmseQI
+lastmodified: 1524652333.5831199
 lead: Victoria should implement a new report's recommendation to allow peers to distribute
   clean injecting equipment, but it needs to go further to ensure safe drug use in
   prison.

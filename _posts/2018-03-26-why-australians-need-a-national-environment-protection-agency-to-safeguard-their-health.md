@@ -8,6 +8,7 @@ disclosureStatement: David Shearman is the Honorary Secretary of Doctors for the
 featureImage: Nq6CWi6rmgeYKOwOsqG6c
 guid: http://theconversation.com/why-australians-need-a-national-environment-protection-agency-to-safeguard-their-health-93861
 id: 2o06glcaBaMOAuMG6y2UC2
+lastmodified: 1524652334.0761778
 lead: Environmental and health groups have called for the creation of a non-political
   federal agency with the power to rule on pollution levels - much like the Reserve
   Bank does for interest rates.

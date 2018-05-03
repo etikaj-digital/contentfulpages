@@ -22,6 +22,7 @@ disclosureStatement: "Anita Cosgrove receives funding from the Wildlife Conserva
 featureImage: 4yU83VOuu46mG2uCyYqO0m
 guid: http://theconversation.com/queenslands-new-land-clearing-bill-will-help-turn-the-tide-despite-its-flaws-93370
 id: 216SlPS7RSgmuGC8Kuauey
+lastmodified: 1524652334.6848671
 lead: Queensland's new draft land-clearing laws aim to put the brakes on years of
   environmental destruction. But the bill contains several loopholes that are likely
   to stymie progress.

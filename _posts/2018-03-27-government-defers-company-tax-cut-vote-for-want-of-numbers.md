@@ -9,6 +9,7 @@ disclosureStatement: Michelle Grattan does not work for, consult, own shares in 
 featureImage: 4c7ZVHMrFeOM0eE0sAC2Wu
 guid: http://theconversation.com/government-defers-company-tax-cut-vote-for-want-of-numbers-94038
 id: 4D4NVptWw8SGUSwaEYa4kA
+lastmodified: 1524652333.5640461
 lead: The government has been forced to put off a vote on its tax cut for big business.
 slug: government-defers-company-tax-cut-vote-for-want-of-numbers
 tags:

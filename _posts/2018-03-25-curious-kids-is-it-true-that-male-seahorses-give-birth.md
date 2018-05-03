@@ -8,6 +8,7 @@ disclosureStatement: Camilla Whittington receives funding from the Australian Re
 featureImage: rePhDIBiiyeIMgyMqu8SC
 guid: http://theconversation.com/curious-kids-is-it-true-that-male-seahorses-give-birth-92843
 id: B4HmEXzp3acSOQYAoQQ2s
+lastmodified: 1524652333.692354
 lead: The seahorse dads carry the babies in a pouch.
 slug: curious-kids-is-it-true-that-male-seahorses-give-birth
 tags:

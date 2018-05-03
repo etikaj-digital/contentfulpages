@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 40n13c3880MmQQGSsWui2S
 guid: http://theconversation.com/the-genius-at-guinness-and-his-statistical-legacy-93134
 id: QqyqP87zGusiSEiq2G4yK
+lastmodified: 1524652334.8588989
 lead: A statistical method widely used today by scientists and others is all thanks
   to a statistician at a Guinness brewery whose work was published anonymously more
   than a century ago.

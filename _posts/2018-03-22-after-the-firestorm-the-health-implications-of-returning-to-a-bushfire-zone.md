@@ -9,6 +9,7 @@ disclosureStatement: Fay Johnston does not work for, consult, own shares in or r
 featureImage: 4sPXgFdvWogo0aC80U88ks
 guid: http://theconversation.com/after-the-firestorm-the-health-implications-of-returning-to-a-bushfire-zone-93647
 id: 6PMFsxFkgEYwa8qQCmoqSW
+lastmodified: 1524652334.778395
 lead: In NSW and Victoria this week, communities were hit by bushfires. Long after
   such devastating fires pass, the risks to physical and mental health remain.
 slug: after-the-firestorm-the-health-implications-of-returning-to-a-bushfire-zone

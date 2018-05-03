@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 1htqr8cW3QICCWsuYu22GA
 guid: http://theconversation.com/what-happens-when-companies-remove-expiry-dates-on-gift-cards-93369
 id: 5Z0zO4TQxquSukOy2AsAqS
+lastmodified: 1524652333.530643
 lead: Removing expiry dates should increase sales and give consumers more flexibility,
   but it could also increase costs.
 slug: what-happens-when-companies-remove-expiry-dates-on-gift-cards

@@ -10,6 +10,7 @@ file:
     size: 6234855
   fileName: file-20180320-31621-a4k5lh.jpg
   url: //images.ctfassets.net/bsux5spekp1p/6byICg6FIASuSiu4I2K40o/80b766c28e4c02097e9f7d27eacf92e5/file-20180320-31621-a4k5lh.jpg
+lastmodified: 1524652337.512958
 title: "State curricula articulate principles of respect and ethics in relationships,\
   \ but some don\u2019t use the word \u2018consent\u2019."
 ---

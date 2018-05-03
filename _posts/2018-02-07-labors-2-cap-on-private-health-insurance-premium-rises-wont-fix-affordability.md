@@ -7,6 +7,7 @@ disclosureStatement: Peter Sivey receives funding from the Australian Research C
 featureImage: 65VfqvptKgs2gOOqqCwmO8
 guid: http://theconversation.com/labors-2-cap-on-private-health-insurance-premium-rises-wont-fix-affordability-91232
 id: 4ySgky7XyUcysawCyaoEqG
+lastmodified: 1524652333.976497
 lead: We are paying more for our health insurance because we are using it more. No
   crude, short-term measures to restrict premium growth will deal with this fact.
 slug: labors-2-cap-on-private-health-insurance-premium-rises-wont-fix-affordability

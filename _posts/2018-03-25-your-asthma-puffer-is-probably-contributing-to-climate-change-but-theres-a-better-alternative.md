@@ -13,6 +13,7 @@ disclosureStatement: Brett Montgomery works as a general practitioner, and regul
 featureImage: 5r6131NOz6qqqky26oSGE
 guid: http://theconversation.com/your-asthma-puffer-is-probably-contributing-to-climate-change-but-theres-a-better-alternative-92874
 id: 4Sa7lAgr7Oyw0EoqayaOKq
+lastmodified: 1524652333.8314948
 lead: As if having asthma wasn't bad enough news, your health condition is probably
   contributing to climate change.
 slug: your-asthma-puffer-is-probably-contributing-to-climate-change-but-theres-a-better-alternative

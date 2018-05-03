@@ -9,6 +9,7 @@ disclosureStatement: Joanna Mendelssohn has received funding from the Australian
 featureImage: 2HOgKJEDHG06mOGwcEq0Qk
 guid: http://theconversation.com/friday-essay-can-art-really-make-a-difference-91491
 id: 3vpU6pfcK4yuWEIWSyScOa
+lastmodified: 1524652334.104579
 lead: Artists have long tackled global issues, from war to human rights. While Picasso's
   celebrated Guernica may not have stopped the Spanish Civil War (or any war), art
   still holds value, as witness and as truth teller.

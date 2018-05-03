@@ -8,6 +8,7 @@ disclosureStatement: Julia Kate Clark is affiliated with the American Center for
 featureImage: 7ojNWuNw5yG4coKe0OmGCe
 guid: http://theconversation.com/climate-change-and-looters-threaten-the-archaeology-of-mongolia-91853
 id: TBj9BINSgKwiwMCKA6oSA
+lastmodified: 1524652334.1532319
 lead: Mongolia's important historical sites are under threat from climate change and
   looting - and one exacerbates the other.
 slug: climate-change-and-looters-threaten-the-archaeology-of-mongolia

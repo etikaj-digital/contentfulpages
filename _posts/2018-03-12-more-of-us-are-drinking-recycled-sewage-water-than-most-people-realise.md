@@ -9,6 +9,7 @@ disclosureStatement: Ian Wright does not work for, consult, own shares in or rec
 featureImage: 5qNrnPZ3agyKQug82Qco8a
 guid: http://theconversation.com/more-of-us-are-drinking-recycled-sewage-water-than-most-people-realise-92420
 id: 4o4Y2nrPLyaIoAqgiKG2wQ
+lastmodified: 1524652334.53695
 lead: Perth is looking at recycling all its sewage in the city's future water supply.
   But many Australians' drinking water already contains indirectly recycled treated
   sewage.

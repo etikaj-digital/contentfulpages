@@ -14,6 +14,7 @@ disclosureStatement: 'Hannah Dahlen receives funding from NHMRC and ARC. She is 
 featureImage: 9ShcSUlQ8oCuQsEKW8Ysa
 guid: http://theconversation.com/how-birth-interventions-affect-babies-health-in-the-short-and-long-term-93426
 id: SbqheIzJCK2cEw68kMUa4
+lastmodified: 1524652334.796757
 lead: Our study found babies born via medical or surgical intervention were at increased
   risk of health problems, from jaundice and feeding issues, to diabetes, respiratory
   infections and eczema.

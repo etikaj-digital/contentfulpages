@@ -9,6 +9,7 @@ disclosureStatement: Glenn Withers does not work for, consult, own shares in or 
 featureImage: 1kEwfwb7fawiWUSI8yC6aG
 guid: http://theconversation.com/no-university-is-not-a-waste-of-time-and-money-92263
 id: ToasLKIzeK4M6wmg6wwYK
+lastmodified: 1524652334.5929952
 lead: The benefits of university are clear and measurable, but we can do more with
   constructive reform.
 slug: no-university-is-not-a-waste-of-time-and-money

@@ -18,6 +18,7 @@ disclosureStatement: 'Robert Edis works for the Australian Centre for Internatio
 featureImage: 3rnq36EoI8s4Wgky8We0oK
 guid: http://theconversation.com/sustainable-shopping-save-the-world-one-chocolate-at-a-time-93844
 id: 3kqcIjzRZuA06sOCkYu6Om
+lastmodified: 1524652333.578133
 lead: Chocolate is proof the universe loves us and wants us to be happy. Here's how
   to hunt up the best, most-sustainable and ethically-tasty chocolate eggs this Easter.
 slug: sustainable-shopping-save-the-world-one-chocolate-at-a-time

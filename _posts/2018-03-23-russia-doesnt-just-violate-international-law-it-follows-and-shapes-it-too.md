@@ -19,6 +19,7 @@ disclosureStatement: "Philippa Hetherington receives funding from the Arts and H
   \ and College Union. He is also a Fellow of the Royal Society of Arts."
 guid: http://theconversation.com/russia-doesnt-just-violate-international-law-it-follows-and-shapes-it-too-92700
 id: I2sMODoLcG0u8uAyaweG2
+lastmodified: 1524652334.244715
 lead: Despite its reputation, Russia has contributed much more to international law
   than it's sometimes given credit for.
 slug: russia-doesnt-just-violate-international-law--it-follows-and-shapes-it-too

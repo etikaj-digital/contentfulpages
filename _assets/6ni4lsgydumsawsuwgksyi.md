@@ -7,6 +7,7 @@ file:
     size: 1733503
   fileName: file-20180315-104673-f1lg44.jpg
   url: //images.ctfassets.net/bsux5spekp1p/6nI4LsgYdUmSawSUWGkSyi/b76ece098238380e9b35b77c13ac5c6c/file-20180315-104673-f1lg44.jpg
+lastmodified: 1524652337.564544
 title: The Financial Services Royal Commission has heard of irresponsible lending
   to elderly Australians.
 ---

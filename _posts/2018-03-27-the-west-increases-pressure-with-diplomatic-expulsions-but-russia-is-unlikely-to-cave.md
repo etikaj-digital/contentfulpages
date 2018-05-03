@@ -17,6 +17,7 @@ disclosureStatement: "Alexey D Muraviev is a member of the Australian Member Com
 featureImage: 45A9003CfC8cMG4QGEWcwe
 guid: http://theconversation.com/the-west-increases-pressure-with-diplomatic-expulsions-but-russia-is-unlikely-to-cave-94024
 id: 7HPzcPJXNeQuamSMosamQS
+lastmodified: 1524652334.2897348
 lead: Australia has joined its allies in expelling Russian diplomats as retaliation
   for a nerve-agent attack on a former Russian agent and his daughter. But the action
   is unlikely to trouble Russia.

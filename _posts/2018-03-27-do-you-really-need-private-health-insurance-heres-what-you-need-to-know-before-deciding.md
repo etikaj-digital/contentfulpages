@@ -11,6 +11,7 @@ disclosureStatement: "Sophie Lewis receives funding from the Australian Research
 featureImage: 4jFbGaUD2gg4Uwg8mk4Wgu
 guid: http://theconversation.com/do-you-really-need-private-health-insurance-heres-what-you-need-to-know-before-deciding-93661
 id: 46BrsovScgMo4Wayu2yaMY
+lastmodified: 1524652334.2753952
 lead: Private health insurance premiums will rise from April 1, leaving consumers
   wondering if they should give it up or downgrade to save money.
 slug: do-you-really-need-private-health-insurance-heres-what-you-need-to-know-before-deciding

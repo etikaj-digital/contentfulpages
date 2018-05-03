@@ -16,6 +16,7 @@ disclosureStatement: "Nicole Gurran received funding from Teachers Mutual Bank a
 featureImage: 3Jpe5Do2sEgo6sC2ASC2M0
 guid: http://theconversation.com/key-workers-like-nurses-and-teachers-are-being-squeezed-out-of-sydney-this-is-what-we-can-do-about-it-91476
 id: 1YLGTFsZvqYgGwemqMuGic
+lastmodified: 1524652334.109602
 lead: People on moderate incomes, including police and emergency workers, have been
   forced to seek housing on the city fringes, far from their places of work. But there
   are ways to reverse this trend.

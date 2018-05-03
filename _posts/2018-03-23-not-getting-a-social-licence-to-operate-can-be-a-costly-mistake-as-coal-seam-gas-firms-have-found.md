@@ -7,6 +7,7 @@ disclosureStatement: Hanabeth Luke received a grant of $1500 from PESA in 2012.
 featureImage: 63sfeAUqcgeo6cQC6CsyoK
 guid: http://theconversation.com/not-getting-a-social-licence-to-operate-can-be-a-costly-mistake-as-coal-seam-gas-firms-have-found-93718
 id: 4IhZn1lz7yaqgM22yksYCa
+lastmodified: 1524652334.429284
 lead: '''Social licence to operate'' is a term describing how much community support
   a project or company has. As the Northern Rivers CSG experience shows, failing to
   get it can have costly impacts for firms.'

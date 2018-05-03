@@ -9,6 +9,7 @@ disclosureStatement: Qing Shan Ding is affiliated with the British Labour Party 
 featureImage: 55Rf39BOEUK0qUawQcw6aC
 guid: http://theconversation.com/six-signs-china-wants-to-avoid-a-trade-war-93820
 id: 3UtL7YSomQQuU86GQqU4S8
+lastmodified: 1524652333.705284
 lead: China has made numerous signals that it does not want to start a trade war with
   the US.
 slug: six-signs-china-wants-to-avoid-a-trade-war

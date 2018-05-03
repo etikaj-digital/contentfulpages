@@ -10,6 +10,7 @@ file:
     size: 669551
   fileName: image-20170117-23055-8wksn7.jpg
   url: //images.ctfassets.net/bsux5spekp1p/5Icl1Sg3ug6gKy66qmgEAE/871c3bd6e11c68285d781226be28d9e1/image-20170117-23055-8wksn7.jpg
+lastmodified: 1524652337.127819
 title: Caspar Addyman
 ---
 No content found

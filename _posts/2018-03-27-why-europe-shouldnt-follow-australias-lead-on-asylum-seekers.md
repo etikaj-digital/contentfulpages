@@ -9,6 +9,7 @@ disclosureStatement: Daniel Ghezelbash does not work for, consult, own shares in
 featureImage: 68aJajDYdi26mQKgyomC0s
 guid: http://theconversation.com/why-europe-shouldnt-follow-australias-lead-on-asylum-seekers-90304
 id: 1nQ5WKPh3mQ4yUCAYScCyA
+lastmodified: 1524652334.209384
 lead: As countries compete to deter asylum seekers, there's a vicious cycle in which
   governments seek to outdo each other by implementing progressively more restrictive
   policies.

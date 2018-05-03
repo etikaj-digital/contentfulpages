@@ -9,6 +9,7 @@ disclosureStatement: Crystal Legacy has received funding from the Australian Res
 featureImage: 6krkG5xMCkEcYeKQ8QIMec
 guid: http://theconversation.com/sidelining-citizens-when-deciding-on-transport-projects-is-asking-for-trouble-92840
 id: 7cjL3hvVew60MioMAi86SO
+lastmodified: 1524652334.562955
 lead: Transport infrastructure has such an impact on what kind of city we become that
   more democratic planning is long overdue. But public consultation is typically limited
   and focused on design issues.

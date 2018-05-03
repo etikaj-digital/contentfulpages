@@ -18,6 +18,7 @@ disclosureStatement: "Grattan Institute began with contributions to its endowmen
 featureImage: 6cQhd1JGQ8okEeswgcqWms
 guid: http://theconversation.com/how-migration-affects-housing-affordability-92502
 id: 5vhI3aea9aq0yOeYyKGmq0
+lastmodified: 1524652334.0675719
 lead: 'Australian governments are faced with a choice: make the difficult decisions
   to fix planning systems so more houses can be built, or tap the brakes on Australia''s
   migrant intake.'

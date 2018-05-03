@@ -15,6 +15,7 @@ disclosureStatement: 'Raja Jurdak receives funding from from QLD Government, Fed
 featureImage: 1gvEe7haACqsquQ0MAa6Y4
 guid: http://theconversation.com/whos-to-blame-when-driverless-cars-have-an-accident-93132
 id: 2TRV1k52tqYcokwuiGkaAe
+lastmodified: 1524652334.034391
 lead: "Sensors that monitor everything a self-driving vehicle does can help determine\
   \ who is responsible in the case of an accident \u2013 the manufacturer, the service\
   \ centre or the vehicle owner."

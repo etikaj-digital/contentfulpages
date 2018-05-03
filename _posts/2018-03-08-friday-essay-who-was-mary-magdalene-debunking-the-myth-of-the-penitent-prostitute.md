@@ -9,6 +9,7 @@ disclosureStatement: Dorothy Ann Lee does not work for, consult, own shares in o
 featureImage: 6o7ygmlovmGSaqowuiWEs6
 guid: http://theconversation.com/friday-essay-who-was-mary-magdalene-debunking-the-myth-of-the-penitent-prostitute-92658
 id: 6uXNtsHZegu4ayK0We2Ceg
+lastmodified: 1524652333.60558
 lead: For centuries, Mary Magdalene was wrongly depicted as a repentant whore, diminishing
   her vital role as witness to the resurrection. A new film portraying her life does
   much to restore her character.

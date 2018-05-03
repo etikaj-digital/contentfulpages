@@ -7,6 +7,7 @@ file:
     size: 5911304
   fileName: file-20180321-165550-iyodv4.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4sPXgFdvWogo0aC80U88ks/f8bf1e3d4aa5bae20ae2f395309cca16/file-20180321-165550-iyodv4.jpg
+lastmodified: 1524652337.054519
 title: A bushfire destroyed around 70 houses and businesses in the coastal town of
   Tathra this week.
 ---

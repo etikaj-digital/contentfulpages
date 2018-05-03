@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 6tLbZRJTy0USw8omuIGiW2
 guid: http://theconversation.com/men-and-young-people-more-likely-to-be-ageist-study-93057
 id: 5wnljMU57qSKmGOQUmeiEW
+lastmodified: 1524652334.747925
 lead: Men and young people are more likely to be ageist, but few Australians are resolutely
   ageist in their views, a new survey finds.
 slug: men-and-young-people-more-likely-to-be-ageist-study

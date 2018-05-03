@@ -12,6 +12,7 @@ datePublished: '2018-03-29T01:08:06Z'
 featureImage: 44Sq7CzoMU2y0Q20Yo0OSA
 guid: http://theconversation.com/trust-me-im-an-expert-brain-zapping-the-curious-case-of-the-n-rays-and-other-stories-of-evidence-94109
 id: 6ulpopdFh6G0COW80YuKiK
+lastmodified: 1524652333.895173
 lead: You've had an x-ray before but have you had an n-ray? Of course not, because
   they're not real. But people used to think they were. Today, on Trust Me, I'm an
   Expert, we're bringing you stories on the theme of evidence.

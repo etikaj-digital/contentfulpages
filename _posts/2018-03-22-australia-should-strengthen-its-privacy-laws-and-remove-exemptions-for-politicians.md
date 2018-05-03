@@ -10,6 +10,7 @@ disclosureStatement: David Vaile is Board or Committee Member of Internet Austra
 featureImage: 36xmbRjDNK0mYmiCME2IwS
 guid: http://theconversation.com/australia-should-strengthen-its-privacy-laws-and-remove-exemptions-for-politicians-93717
 id: 6nQaiiiZkkGueq24kMkgIy
+lastmodified: 1524652333.859433
 lead: "It's time for a new discussion about the rules around privacy and politics\
   \ in Australia \u2013 one in which the privacy interests of individuals are front\
   \ and centre."

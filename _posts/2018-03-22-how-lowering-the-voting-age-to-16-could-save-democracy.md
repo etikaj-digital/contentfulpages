@@ -11,6 +11,7 @@ disclosureStatement: "Bronwyn E Wood receives funding from the Royal Society Mar
 featureImage: 5gWVDLmRxm8MSEKgI8mqw8
 guid: http://theconversation.com/how-lowering-the-voting-age-to-16-could-save-democracy-93567
 id: 2GY593Lud2SUye4SGgYKOK
+lastmodified: 1524652334.759584
 lead: Lowering the voting age to 16 would bring the age of political responsibility
   more in line with the age of criminal responsibility and the age of informed consent
   for medical procedures.

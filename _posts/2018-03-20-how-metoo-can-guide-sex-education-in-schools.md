@@ -9,6 +9,7 @@ disclosureStatement: Melissa Kang does not work for, consult, own shares in or r
 featureImage: 6byICg6FIASuSiu4I2K40o
 guid: http://theconversation.com/how-metoo-can-guide-sex-education-in-schools-93268
 id: 52GKRMfZ5CG6Qo6sIG28c4
+lastmodified: 1524652333.535756
 lead: 'The #MeToo movement has sparked discussions about appropriate sexual behaviour
   that teachers can build on in sexual education.'
 slug: how-metoo-can-guide-sex-education-in-schools

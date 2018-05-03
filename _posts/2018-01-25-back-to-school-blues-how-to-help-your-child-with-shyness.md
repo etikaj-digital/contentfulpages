@@ -11,6 +11,7 @@ disclosureStatement: 'Ron Rapee works for the Centre for Emotional Health at Mac
 featureImage: 2ZR63QQKcMwyUIUgAqK2IW
 guid: http://theconversation.com/back-to-school-blues-how-to-help-your-child-with-shyness-90228
 id: 5ZExwgjHIAM6S4YwuIqwuK
+lastmodified: 1524652333.781162
 lead: "Loving parent can think of nothing more important than protecting their shy\
   \ children, but excessively protecting your child and taking over doesn\u2019t allow\
   \ them to learn through experience."

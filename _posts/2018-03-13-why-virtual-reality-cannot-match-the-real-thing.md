@@ -9,6 +9,7 @@ disclosureStatement: Janna Thompson does not work for, consult, own shares in or
 featureImage: 1zBeJG33TSSo8sYouSiWg8
 guid: http://theconversation.com/why-virtual-reality-cannot-match-the-real-thing-92035
 id: 3guAGsnpziGa66Qm0Cku4g
+lastmodified: 1524652334.53022
 lead: Through virtual reality you can now explore a sunken ship, suspend weightless
   in space, or visit Angkor Wat. So why is the real experience still better?
 slug: why-virtual-reality-cannot-match-the-real-thing

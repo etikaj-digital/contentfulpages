@@ -8,6 +8,7 @@ disclosureStatement: Andrew Dowling does not work for, consult, own shares in or
   has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/arrest-of-carles-puigdemont-closes-another-chapter-in-catalonias-bid-for-independence-93979
 id: 2EK4W49gwAQEKI4UASoSMc
+lastmodified: 1524652333.601046
 lead: The former president of Catalonia is in a German prison, awaiting possible extradition
   to Spain where he faces charges of rebellion.
 slug: arrest-of-carles-puigdemont-closes-another-chapter-in-catalonias-bid-for-independence

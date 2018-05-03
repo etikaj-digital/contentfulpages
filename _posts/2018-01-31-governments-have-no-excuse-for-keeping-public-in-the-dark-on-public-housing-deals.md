@@ -18,6 +18,7 @@ disclosureStatement: 'Matthew Palm receives funding from the Lord Mayor''s Chari
   Housing and the Brotherhood of St. Laurence. All views expressed are her own.'
 guid: http://theconversation.com/governments-have-no-excuse-for-keeping-public-in-the-dark-on-public-housing-deals-90847
 id: 3QdD4dk5EcWemSeuWO4yWQ
+lastmodified: 1524652334.5977468
 lead: The Victorian government isn't alone in seeking private partners to renew public
   housing. What is notable is its lack of transparency by comparison with such arrangements
   elsewhere.

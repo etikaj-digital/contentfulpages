@@ -8,6 +8,7 @@ disclosureStatement: Dominic O'Sullivan was a Nga Pae o te Maramatanga Postdocto
 featureImage: 2ZyXcpuMH6wuqsi2Su4eMe
 guid: http://theconversation.com/australia-could-look-to-new-zealand-to-increase-the-number-of-indigenous-academics-and-students-92174
 id: 49BDiBOLUAya0SUO0SYayE
+lastmodified: 1524652333.573566
 lead: When it comes to increasing Indigenous Australians' participation in higher
   education, we could take a leaf from our neighbour's book.
 slug: australia-could-look-to-new-zealand-to-increase-the-number-of-indigenous-academics-and-students

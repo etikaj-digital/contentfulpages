@@ -7,6 +7,7 @@ disclosureStatement: Remy Davison's Chair has been funded by the EU Commission.
 featureImage: 2Zd8aQkSbeCme4U8mwiOEq
 guid: http://theconversation.com/americas-allies-will-bear-the-brunt-of-trumps-trade-protectionism-92735
 id: 2xK2fCyXyYA42YAYoI0Csm
+lastmodified: 1524652333.864463
 lead: China supplies just 2% of America's steel, while Canada and Europe have sizeable
   shares and Australian steel producers depend on access to US markets.
 slug: americas-allies-will-bear-the-brunt-of-trumps-trade-protectionism

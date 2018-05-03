@@ -9,6 +9,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
   have disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/three-scenarios-show-we-have-to-think-carefully-about-ethics-in-designing-smart-cities-91213
 id: 7z3v2fDRBuagwCua0G8EGC
+lastmodified: 1524652333.6866539
 lead: Governments are using Big Data to design improvements and upgrades of cities.
   But ethical questions need to be considered, lest we end up jeopardising citizens'
   privacy or deepen social inequalities.

@@ -10,6 +10,7 @@ file:
     size: 6120
   fileName: image-20150928-30984-19r3n9c.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1ACfBy7wVWwaGA84iccMm2/ee26b152cd158569ec6f5469891a7266/image-20150928-30984-19r3n9c.jpg
+lastmodified: 1524652335.8599942
 title: Brendan Coates
 ---
 No content found

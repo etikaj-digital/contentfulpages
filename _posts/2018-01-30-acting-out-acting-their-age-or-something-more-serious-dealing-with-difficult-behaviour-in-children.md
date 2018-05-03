@@ -9,6 +9,7 @@ disclosureStatement: Katrina Barker does not work for, consult, own shares in or
 featureImage: 4Hfe2cfzrGkgowc8686MwC
 guid: http://theconversation.com/acting-out-acting-their-age-or-something-more-serious-dealing-with-difficult-behaviour-in-children-90233
 id: 3mF8RiSFKgiQ6UkM2mgigK
+lastmodified: 1524652334.522261
 lead: It can be difficult to tell the difference between disordered and difficult
   behaviour, and the approach is different for both.
 slug: acting-out-acting-their-age-or-something-more-serious-dealing-with-difficult-behaviour-in-children

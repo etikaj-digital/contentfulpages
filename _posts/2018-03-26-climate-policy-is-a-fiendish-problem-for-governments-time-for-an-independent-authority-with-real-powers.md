@@ -10,6 +10,7 @@ disclosureStatement: Peter C. Doherty is currently funded as a chief investigato
 featureImage: QfpOH6MY2kweuss00QmUk
 guid: http://theconversation.com/climate-policy-is-a-fiendish-problem-for-governments-time-for-an-independent-authority-with-real-powers-93853
 id: 4WOYd8nnVS8UKu4oKiQoem
+lastmodified: 1524652334.042326
 lead: Scientific problems require evidence-led solutions. A new proposal to create
   a federal environmental decision-making body would take some of the politics out
   of climate policy.

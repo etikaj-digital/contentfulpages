@@ -11,6 +11,7 @@ disclosureStatement: Karen O'Connell receives funding from the Australian Resear
 featureImage: HntHO172i2uIsUcuiYU0q
 guid: http://theconversation.com/sexual-harassment-is-too-much-and-not-enough-about-sex-93486
 id: 5PbR8eXo3eKAK2cYeII84o
+lastmodified: 1524652334.4738848
 lead: '#MeToo drew attention to sexual harassment in the workplace. But we are still
   overlooking other forms of discrimination and the insidious impact of sexual harassment
   on women''s identities.'

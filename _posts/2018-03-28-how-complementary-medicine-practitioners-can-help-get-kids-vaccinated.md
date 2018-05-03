@@ -15,6 +15,7 @@ disclosureStatement: 'Jane Frawley receives funding from the National Health and
 featureImage: 62TqII9PZmUeSG0IAuAKsU
 guid: http://theconversation.com/how-complementary-medicine-practitioners-can-help-get-kids-vaccinated-89854
 id: 5uwIejyDXGCyKUYcywaYaW
+lastmodified: 1524652333.963215
 lead: Australian parents who visit complementary health practitioners are less likely
   to vaccinate their kids. But could these practitioners be best placed to educate
   sceptical parents about vaccination?

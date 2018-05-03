@@ -11,6 +11,7 @@ file:
     size: 24595
   fileName: image-20151108-16273-1ek05s9.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4NUwZhD9BCSw0IAKwOyuMU/fa3c21c77d2cc54fa66e329a5b65cf00/image-20151108-16273-1ek05s9.jpg
+lastmodified: 1524652336.910082
 title: Ivano Bongiovanni
 ---
 No content found

@@ -10,6 +10,7 @@ file:
     size: 1080005
   fileName: file-20180309-30969-1dg93hp.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1ajPlTvzIiYKqAaIwyOEO6/362cbbdf0fae9f64d09aef330a791756/file-20180309-30969-1dg93hp.jpg
+lastmodified: 1524652335.991631
 title: "Benjamen Gussen\u2019s proposal for a \u2018charter city\u2019 in the Pilbara\
   \ stimulated this imaginary depiction."
 ---

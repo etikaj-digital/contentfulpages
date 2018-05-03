@@ -10,6 +10,7 @@ disclosureStatement: Katie Clow receives funding from the Natural Sciences and E
 featureImage: 6OlSOrlkVaK2C0QwyyueqK
 guid: http://theconversation.com/how-animal-parasites-find-a-home-in-humans-92653
 id: 2Bt9heg5da4yG4gg0Ea200
+lastmodified: 1524652334.716625
 lead: A stomach-churning viral video of an Oregon woman who describes removing cattle
   eyeworms from her eye has renewed interest in parasites that jump from animals to
   humans. Here's all you need to know.

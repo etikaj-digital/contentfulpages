@@ -10,6 +10,7 @@ disclosureStatement: Claire Bowern receives funding from the Australian Research
 featureImage: 2NF9TXW3yEyEmSygWI0gYc
 guid: http://theconversation.com/the-origins-of-pama-nyungan-australias-largest-family-of-aboriginal-languages-92997
 id: K47Ba8Iz2mqeuOsKiSUyE
+lastmodified: 1524652334.2367868
 lead: The origin of around 300 of Australia's Aboriginal languages lies in Queensland,
   about 6,000 years ago.
 slug: the-origins-of-pama-nyungan-australias-largest-family-of-aboriginal-languages

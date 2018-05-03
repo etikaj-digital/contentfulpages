@@ -10,6 +10,7 @@ file:
     size: 24294
   fileName: file-20180312-30958-1pth8z2.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1keeE3VTwya0k4wAuiQ8wO/1964ac3d48adf068697e12cd840d5162/file-20180312-30958-1pth8z2.jpg
+lastmodified: 1524652336.046944
 title: Bill Bateman
 ---
 No content found

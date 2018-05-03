@@ -10,6 +10,7 @@ file:
     size: 22968
   fileName: RackMultipart20140313-3605-1uv2wq6.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1qa0iJdHfe8siOwEskAwoO/5b64def8f928b1aabb5713c36c14164f/RackMultipart20140313-3605-1uv2wq6.jpg
+lastmodified: 1524652336.095648
 title: David Vaile
 ---
 No content found

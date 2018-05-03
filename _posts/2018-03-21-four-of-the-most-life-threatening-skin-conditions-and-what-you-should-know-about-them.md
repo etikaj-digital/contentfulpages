@@ -9,6 +9,7 @@ disclosureStatement: William Cranwell does not work for, consult, own shares in 
 featureImage: 7vy6IMjsB2IAOUUkGA2q2Q
 guid: http://theconversation.com/four-of-the-most-life-threatening-skin-conditions-and-what-you-should-know-about-them-92610
 id: 69HDR6p6GQq8m48U4Cqmsu
+lastmodified: 1524652334.232299
 lead: Deadly skin conditions are rare, but can be misdiagnosed.
 slug: four-of-the-most-life-threatening-skin-conditions-and-what-you-should-know-about-them
 tags:

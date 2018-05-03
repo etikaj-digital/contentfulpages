@@ -11,6 +11,7 @@ file:
     size: 5685
   fileName: David_Whiteman_600-150x150.jpg
   url: //images.ctfassets.net/bsux5spekp1p/34fODumeucIOCS0ksgcg8M/9b16c5a53ce114d046c7447988aa7d41/David_Whiteman_600-150x150.jpg
+lastmodified: 1524652336.5343091
 title: David Whiteman
 ---
 No content found

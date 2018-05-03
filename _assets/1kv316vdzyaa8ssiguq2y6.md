@@ -10,6 +10,7 @@ file:
     size: 970790
   fileName: file-20180322-165577-1wmwjan.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1Kv316vdZyaA8SsIguq2Y6/cda5f99ad13207c304c7bcb671411900/file-20180322-165577-1wmwjan.jpg
+lastmodified: 1524652335.913397
 title: Australians are spending a larger proportion of their income on health insurance
   as premium increases outpace wage growth.
 ---

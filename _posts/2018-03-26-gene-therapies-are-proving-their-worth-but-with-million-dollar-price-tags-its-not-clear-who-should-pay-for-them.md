@@ -11,6 +11,7 @@ disclosureStatement: Sterghios Moschos is affiliated with the Oligonucleotide Th
 featureImage: fN3zlGCYneqcIaMUYG6se
 guid: http://theconversation.com/gene-therapies-are-proving-their-worth-but-with-million-dollar-price-tags-its-not-clear-who-should-pay-for-them-87035
 id: 1dVP0gncMouI2u4Wm44oOI
+lastmodified: 1524652334.47947
 lead: An increasing list of rare diseases can now be treated with gene therapy. But
   we need to figure out a way to make them affordable.
 slug: gene-therapies-are-proving-their-worth-but-with-million-dollar-price-tags-its-not-clear-who-should-pay-for-them

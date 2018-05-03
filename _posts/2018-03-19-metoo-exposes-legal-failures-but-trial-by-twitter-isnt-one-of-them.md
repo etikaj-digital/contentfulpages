@@ -7,6 +7,7 @@ disclosureStatement: Cristy Clark is a member of the NSW Greens.
 featureImage: 3zNfbhNYDYcswWosg2IeyW
 guid: http://theconversation.com/metoo-exposes-legal-failures-but-trial-by-twitter-isnt-one-of-them-92683
 id: 43NBdcuZ2UEQIMuWSgUGIG
+lastmodified: 1524652334.252438
 lead: 'Critics say that #MeToo has turned the legal principle of innocent until proven
   guilty on its head, but such comments privilege the rights of perpetrators over
   justice for victims.'

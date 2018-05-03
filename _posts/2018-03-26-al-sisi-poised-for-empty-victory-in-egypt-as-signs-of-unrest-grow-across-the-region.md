@@ -11,6 +11,7 @@ disclosureStatement: "Pamela Abbott received funding from the European Commissio
   \ Affairs."
 guid: http://theconversation.com/al-sisi-poised-for-empty-victory-in-egypt-as-signs-of-unrest-grow-across-the-region-93518
 id: 7swdvLWhwIqYUuwu8wusys
+lastmodified: 1524652333.813113
 lead: Public disaffection in Egypt and other Middle Eastern countries betrays deep-seated
   tensions beneath the surface.
 slug: al-sisi-poised-for-empty-victory-in-egypt-as-signs-of-unrest-grow-across-the-region

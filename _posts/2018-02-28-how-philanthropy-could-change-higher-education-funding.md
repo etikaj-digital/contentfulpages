@@ -9,6 +9,7 @@ disclosureStatement: Mark Dodgson does not work for, consult, own shares in or r
 featureImage: 3RYKJuusKQEsWISUwQ8sOk
 guid: http://theconversation.com/how-philanthropy-could-change-higher-education-funding-92260
 id: 3dBkA30oUw4kgyGWKocsKG
+lastmodified: 1524652334.013655
 lead: For universities in Australia to get the most out of philanthropic donations,
   they need to develop persuasive cases for giving, and work with staff, communities
   and donors towards shared goals.

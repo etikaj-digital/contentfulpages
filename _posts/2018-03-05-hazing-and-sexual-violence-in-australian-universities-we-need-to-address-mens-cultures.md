@@ -7,6 +7,7 @@ disclosureStatement: Ben Wadham receives funding from the Australian Research Co
 featureImage: 1myVKPcwNaK8Wmc2aEoQSa
 guid: http://theconversation.com/hazing-and-sexual-violence-in-australian-universities-we-need-to-address-mens-cultures-92685
 id: 3ct9tATKz6Yw6cyIGWUA6q
+lastmodified: 1524652334.721683
 lead: Addressing male cultures of tribalism and violence needs to be central to the
   response to reports of hazing and violence in Austrslia's university colleges.
 slug: hazing-and-sexual-violence-in-australian-universities-we-need-to-address-mens-cultures

@@ -10,6 +10,7 @@ file:
     size: 765680
   fileName: file-20180321-165557-m3iyeg.jpg
   url: //images.ctfassets.net/bsux5spekp1p/61WXTMmLYIa4aYC2AS2CwE/3c8fa4679d8251828cd1126e0cfbcc90/file-20180321-165557-m3iyeg.jpg
+lastmodified: 1524652337.36154
 title: Scarcity, trust and repetition are all pressure selling tactics that can be
   used to manipulate us.
 ---

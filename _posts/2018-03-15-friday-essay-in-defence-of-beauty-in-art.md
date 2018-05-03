@@ -9,6 +9,7 @@ disclosureStatement: Robert Wellington receives funding from Australian Research
 featureImage: 1AP7Uepr7yMIGMUQmEwqqc
 guid: http://theconversation.com/friday-essay-in-defence-of-beauty-in-art-89921
 id: 3n5uXGK4BWwCca6Q6ccYUQ
+lastmodified: 1524652334.313552
 lead: Today, beauty counts for  little in the judgement of works of art. But our felt
   experience of beauty connects us with an object's maker,  revealing a pure moment
   of humanity.

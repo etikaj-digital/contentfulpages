@@ -9,6 +9,7 @@ disclosureStatement: Billy Griffiths does not work for, consult, own shares in o
 featureImage: 2e5nSiAdcgqAA8UKMCyWse
 guid: http://theconversation.com/friday-essay-how-archaeology-helped-save-the-franklin-river-92510
 id: 2NoQRrr3C0SOaCcyOsam0s
+lastmodified: 1524652334.765507
 lead: The Franklin River campaign is commonly seen as a green victory; a fight for
   the right of 'wilderness' to exist. But archaeological research revealing the region's
   deep Aboriginal history was crucial to it.

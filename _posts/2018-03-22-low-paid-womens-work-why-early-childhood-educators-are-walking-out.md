@@ -18,6 +18,7 @@ disclosureStatement: 'Susan Irvine is a member of Early Childhood Australia and 
 featureImage: 1nSFeIjE3Ci64aaEgq0wG8
 guid: http://theconversation.com/low-paid-womens-work-why-early-childhood-educators-are-walking-out-91402
 id: 2Z0PFKRl44iOOoKomoGKi
+lastmodified: 1524652333.696379
 lead: Research shows early childhood educators are among the lowest-paid Australians,
   with some finding better pay in other fields such as night-time retail work.
 slug: low-paid-womens-work-why-early-childhood-educators-are-walking-out

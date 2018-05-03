@@ -10,6 +10,7 @@ file:
     size: 12755878
   fileName: file-20180314-113475-1wnxqd8.png
   url: //images.ctfassets.net/bsux5spekp1p/4yU83VOuu46mG2uCyYqO0m/63093cb69695f487e1d8889309d02ed3/file-20180314-113475-1wnxqd8.png
+lastmodified: 1524652337.072766
 title: "Vegetation \u2018thinning\u2019 in Queensland - a practice that was originally\
   \ designed to restore forests and woodlands to a \u2018representative state\u2019\
   ."

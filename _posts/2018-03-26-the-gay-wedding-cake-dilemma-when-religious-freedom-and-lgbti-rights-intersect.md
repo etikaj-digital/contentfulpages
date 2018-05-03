@@ -9,6 +9,7 @@ disclosureStatement: Liam Elphick does not work for, consult, own shares in or r
 featureImage: 2HuRsmAWNOSe6WSuwcMma
 guid: http://theconversation.com/the-gay-wedding-cake-dilemma-when-religious-freedom-and-lgbti-rights-intersect-93070
 id: 46lRuP8nlSEWqmMmCiWk0o
+lastmodified: 1524652333.730146
 lead: The government's review of religious freedom protections must ensure that any
   additional protection of religious freedom does not further undermine the right
   to non-discrimination.

@@ -10,6 +10,7 @@ disclosureStatement: Lin Schwarzkopf works in partnership with Animal Control Te
 featureImage: 1dVUuaueDSwWQgQ4wyec8i
 guid: http://theconversation.com/come-hither-how-imitating-mating-males-could-cut-cane-toad-numbers-93484
 id: 2vxDsczI3CK0SAMEum2EIk
+lastmodified: 1524652333.801427
 lead: New cane toad traps that carefully imitate mating males successfully target
   breeding females. Males, meanwhile, will turn up for anything that sounds remotely
   like a toad.

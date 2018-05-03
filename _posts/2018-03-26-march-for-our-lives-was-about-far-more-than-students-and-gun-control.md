@@ -9,6 +9,7 @@ disclosureStatement: Jon Coburn does not work for, consult, own shares in or rec
 featureImage: 5KBjj4Nv5CCUwieeoSGSek
 guid: http://theconversation.com/march-for-our-lives-was-about-far-more-than-students-and-gun-control-93893
 id: 3mrrVmBmA0mAskQCKCYKSQ
+lastmodified: 1524652334.5808032
 lead: "America's gun violence debate is at a fever pitch \u2013 but it's part of a\
   \ much deeper cultural reckoning."
 slug: march-for-our-lives-was-about-far-more-than-students-and-gun-control

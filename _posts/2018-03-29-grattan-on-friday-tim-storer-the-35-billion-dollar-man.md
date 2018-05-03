@@ -8,6 +8,7 @@ disclosureStatement: Michelle Grattan does not work for, consult, own shares in 
   and has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/grattan-on-friday-tim-storer-the-35-billion-dollar-man-94178
 id: 3Eieh4jD1YYGKcqkiUsWag
+lastmodified: 1524652333.6811788
 lead: "It's amazing he's there at all, and he's not likely to be there long \u2013\
   \ one can't see him re-elected next year. Now he has life-or-death sway over a key\
   \ measure the government took to the 2016 poll."

@@ -13,6 +13,7 @@ disclosureStatement: 'Australia''s Oral Health Tracker was partly funded by the 
 featureImage: 28HcZD0HiE0IumwQcoO44G
 guid: http://theconversation.com/dental-report-card-fail-half-of-adults-and-one-third-of-kids-dont-brush-twice-a-day-93288
 id: yZzyARyUEKy6eIYWC0oY6
+lastmodified: 1524652333.94498
 lead: Even those who regularly clean their teeth typically don't brush for the recommended
   two minutes.
 slug: dental-report-card-fail-half-of-adults-and-one-third-of-kids-dont-brush-twice-a-day

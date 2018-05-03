@@ -1,6 +1,7 @@
 ---
 authorid: 2hWz14rwLm0C2M8s0GAS84
 fullName: Chiara Piancatelli
+lastmodified: 1524652335.1233048
 photo: 1TZH6R1f0gEa2OysuM86Ak
 profileUrl: https://theconversation.com//profiles/chiara-piancatelli-454745
 role: Visiting Research Associate, Deakin University

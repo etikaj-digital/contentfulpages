@@ -8,6 +8,7 @@ disclosureStatement: Greg Costello receives funding from the BankWest Curtin Eco
 featureImage: 50IEu0Z5iEuq6UWsMc0C8K
 guid: http://theconversation.com/what-governments-can-learn-from-perths-property-market-93841
 id: 6kb32EOvnyMaUwYCOaAs6m
+lastmodified: 1524652334.491435
 lead: A new report shows building smaller houses as opposed to apartments in city
   fringes could provide more affordable housing.
 slug: what-governments-can-learn-from-perths-property-market

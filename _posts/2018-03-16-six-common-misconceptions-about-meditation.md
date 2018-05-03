@@ -9,6 +9,7 @@ disclosureStatement: Dusana Dorjee has received funding in support of her resear
   and well being course for primary schools.
 guid: http://theconversation.com/six-common-misconceptions-about-meditation-90786
 id: 4x81hgLibuG2Ycemyma0Ac
+lastmodified: 1524652334.854481
 lead: There's far more to meditation that sitting peacefully with crossed legs.
 slug: six-common-misconceptions-about-meditation
 tags:

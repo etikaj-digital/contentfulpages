@@ -9,6 +9,7 @@ disclosureStatement: Kate Griffiths does not work for, consult, own shares in or
 featureImage: 1zd8QuoUu4cESi0kW8ECWi
 guid: http://theconversation.com/youre-paying-too-much-for-electricity-but-heres-what-the-states-can-do-about-it-93654
 id: 3vAIQEdKzCuYYa6S86IGIQ
+lastmodified: 1524652334.81547
 lead: A new report has found that Tasmanians, Queenslanders and New South Welshmen
   are paying $100-$400 a year for unnecessary infrastructure.
 slug: youre-paying-too-much-for-electricity-but-heres-what-the-states-can-do-about-it

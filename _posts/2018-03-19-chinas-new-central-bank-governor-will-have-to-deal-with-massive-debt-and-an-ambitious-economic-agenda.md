@@ -7,6 +7,7 @@ disclosureStatement: Hui Feng receives funding from the Australian Research Coun
 featureImage: 6u4TW8BMru4kY4AWEokasa
 guid: http://theconversation.com/chinas-new-central-bank-governor-will-have-to-deal-with-massive-debt-and-an-ambitious-economic-agenda-93572
 id: 4sQYrnHAFikScuU2ScGCOk
+lastmodified: 1524652333.914665
 lead: "As the governor of China's central bank oversees the stability of the world\u2019\
   s second largest economy, this leadership change is one the global economy is watching\
   \ closely."

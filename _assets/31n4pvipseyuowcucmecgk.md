@@ -10,6 +10,7 @@ file:
     size: 8689
   fileName: Katie_Clow.jpg
   url: //images.ctfassets.net/bsux5spekp1p/31N4pVIpSEyuowCucmEcgk/b35707c3282bc0763563dd7ff47d6be4/Katie_Clow.jpg
+lastmodified: 1524652336.531071
 title: Katie M. Clow
 ---
 No content found

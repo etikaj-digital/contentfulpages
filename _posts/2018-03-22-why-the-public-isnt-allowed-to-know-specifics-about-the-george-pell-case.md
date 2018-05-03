@@ -10,6 +10,7 @@ disclosureStatement: Mark Pearson has received funding from the Australian Gover
 featureImage: 1LZskXkfXa2ac4mGMweQwm
 guid: http://theconversation.com/why-the-public-isnt-allowed-to-know-specifics-about-the-george-pell-case-93651
 id: 2qS4pEfMYocIcKYmMC8ocS
+lastmodified: 1524652334.623956
 lead: George Pell's current committal hearing engages the principle of 'open justice'
   and some of its most important exceptions.
 slug: why-the-public-isnt-allowed-to-know-specifics-about-the-george-pell-case

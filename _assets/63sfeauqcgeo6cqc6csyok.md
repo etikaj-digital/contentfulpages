@@ -10,6 +10,7 @@ file:
     size: 3524336
   fileName: file-20180323-54869-52700t.JPG
   url: //images.ctfassets.net/bsux5spekp1p/63sfeAUqcgeo6cQC6CsyoK/f555e49bd66fcb517a15cfdc23b69843/file-20180323-54869-52700t.JPG
+lastmodified: 1524652337.37377
 title: And if you wait too long to survey a community, it can end up being too be
   too late to turn the tide of opinion.
 ---

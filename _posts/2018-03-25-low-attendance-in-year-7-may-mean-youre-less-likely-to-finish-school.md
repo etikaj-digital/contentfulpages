@@ -9,6 +9,7 @@ disclosureStatement: Nicholas Biddle has received funding from the Smith Family 
 featureImage: 3CHKBilNWUYomEeEmWMWUw
 guid: http://theconversation.com/low-attendance-in-year-7-may-mean-youre-less-likely-to-finish-school-93846
 id: 2p6YYhS2uAsMA2kymueEeA
+lastmodified: 1524652334.3601742
 lead: "This study confirms that a student\u2019s background matters, and that targeting\
   \ students early is vital."
 slug: low-attendance-in-year-7-may-mean-youre-less-likely-to-finish-school

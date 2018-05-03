@@ -8,6 +8,7 @@ disclosureStatement: Michelle Smith has previously received funding from the Aus
 featureImage: 5iKmGE5nZuI8oi6kWsMegW
 guid: http://theconversation.com/metoo-and-timesup-move-off-the-red-carpet-and-towards-activism-at-2018-oscars-92723
 id: 3Pc6NHWOpa22uwsYEqgeIU
+lastmodified: 1524652333.768666
 lead: While the 2018 Oscars ceremony showed its support for women against sexual harassment,
   women remain underrepresented in some of the awards catagories.
 slug: metoo-and-timesup-move-off-the-red-carpet-and-towards-activism-at-2018-oscars

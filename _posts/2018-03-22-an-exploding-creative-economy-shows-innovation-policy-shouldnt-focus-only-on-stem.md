@@ -8,6 +8,7 @@ disclosureStatement: Research that informs this article is funded by an Australi
 featureImage: 7xyKKHdpRKmoguAOIsUwW
 guid: http://theconversation.com/an-exploding-creative-economy-shows-innovation-policy-shouldnt-focus-only-on-stem-93732
 id: 2uCr7pHyU8OoMi6A4O0M6a
+lastmodified: 1524652334.2689412
 lead: The federal government should set the country on an innovation path that takes
   account of where some of the strongest job growth is occurring.
 slug: an-exploding-creative-economy-shows-innovation-policy-shouldnt-focus-only-on-stem

@@ -7,6 +7,7 @@ disclosureStatement: Roxanne Missingham works for the Australian National Univer
 featureImage: 2rYkqSgLdaoCYOuu4AgoqY
 guid: http://theconversation.com/controversial-artist-elizabeth-durack-gave-us-a-sensitive-insight-into-the-lives-of-papuan-women-79423
 id: 1KwNowzFvyuKKAi0SqyWO4
+lastmodified: 1524652334.572989
 lead: Australian artist Elizabeth Durack became infamous for her use of an Aboriginal
   nom de plume in 1990s. But in the 1960s, when the country was striving for independence
   from Australia, she portrayed Papuan women with sensitivity.

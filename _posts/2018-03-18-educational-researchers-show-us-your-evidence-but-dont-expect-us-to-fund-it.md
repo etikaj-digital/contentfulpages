@@ -11,6 +11,7 @@ disclosureStatement: "The Australian Council of Deans of Education (ACDE) funded
 featureImage: RaBvhbo7Cwk6GMYU0mGOa
 guid: http://theconversation.com/educational-researchers-show-us-your-evidence-but-dont-expect-us-to-fund-it-87338
 id: 3F7gmFL8H6mWagQUsWAegM
+lastmodified: 1524652334.1479208
 lead: "Despite the Federal Government\u2019s teacher education reforms and the push\
   \ for evidence-based teaching, less than 2% of ARC research funding is directed\
   \ to educational research."

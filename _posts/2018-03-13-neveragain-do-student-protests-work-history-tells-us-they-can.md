@@ -8,6 +8,7 @@ disclosureStatement: Claire Cooke receives funding from the Australian Historica
 featureImage: 3KUrAr8LEciaoy6W0UYYAk
 guid: http://theconversation.com/neveragain-do-student-protests-work-history-tells-us-they-can-93002
 id: wDryRCg96Cs2emIQQ8qc2
+lastmodified: 1524652334.1003158
 lead: Student protests can make a big difference. American students have a long history
   of protesting. In the wake of the Florida shooting, American students are already
   making a difference.

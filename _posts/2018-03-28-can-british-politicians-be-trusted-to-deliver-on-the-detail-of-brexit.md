@@ -8,6 +8,7 @@ disclosureStatement: Jonathan Tallant does not work for, consult, own shares in 
   and has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/can-british-politicians-be-trusted-to-deliver-on-the-detail-of-brexit-93882
 id: qRpVHingVEaGqu8IKAoqI
+lastmodified: 1524652334.397918
 lead: An expert in trust assesses how it comes into play while finding a solution
   that avoids a hard border for Northern Ireland.
 slug: can-british-politicians-be-trusted-to-deliver-on-the-detail-of-brexit

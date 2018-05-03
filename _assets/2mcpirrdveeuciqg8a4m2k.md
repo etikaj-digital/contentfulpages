@@ -10,6 +10,7 @@ file:
     size: 9974331
   fileName: file-20180329-189810-1eyjzb7.jpg
   url: //images.ctfassets.net/bsux5spekp1p/2MCPirRdVeEuciQG8A4M2K/d3750ea0d2877f1cf0afe2c652b5dd00/file-20180329-189810-1eyjzb7.jpg
+lastmodified: 1524652336.2526138
 title: "Veiled girls appear with death masks in Sydney Chamber Opera\u2019s The Howling\
   \ Girls."
 ---

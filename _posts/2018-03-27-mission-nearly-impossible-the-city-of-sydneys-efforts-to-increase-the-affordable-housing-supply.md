@@ -8,6 +8,7 @@ disclosureStatement: Alan Morris receives funding from the Australian Research C
   the 21st Century.
 guid: http://theconversation.com/mission-nearly-impossible-the-city-of-sydneys-efforts-to-increase-the-affordable-housing-supply-93366
 id: 1626lNSaSqI6IaCqC6kqQu
+lastmodified: 1524652333.81841
 lead: If local government is to deliver affordable housing, state and federal governments
   must assist. Even councils as powerful and well resourced as the City of Sydney
   cannot do it by themselves.

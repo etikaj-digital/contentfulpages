@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 2eCL2KRRNm0IAsQ2mqQGiU
 guid: http://theconversation.com/therapy-dogs-can-help-reduce-student-stress-anxiety-and-improve-school-attendance-93073
 id: 4nV8UE68Ok2eYAaqgQeIuA
+lastmodified: 1524652334.666982
 lead: Research shows therapy dogs can be beneficial for students in many ways including
   reducing stress and anxiety, and helping students feel more excited about participating
   in classroom activities.

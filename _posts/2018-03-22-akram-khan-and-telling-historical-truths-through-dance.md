@@ -9,6 +9,7 @@ disclosureStatement: Christine de Matos does not work for, consult, own shares i
 featureImage: 4NssUevLo4S0qayUqcQQUm
 guid: http://theconversation.com/akram-khan-and-telling-historical-truths-through-dance-93644
 id: 5BPa4OehosQ68CiaOgaiWW
+lastmodified: 1524652334.02974
 lead: Dance can't literally tell history, but it can tell historical truths, as shown
   by Akram Khan's Xenos at the Adelaide Festival.
 slug: akram-khan-and-telling-historical-truths-through-dance

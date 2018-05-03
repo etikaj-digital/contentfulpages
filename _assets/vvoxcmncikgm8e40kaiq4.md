@@ -11,6 +11,7 @@ file:
     size: 19536
   fileName: image-20141211-6033-1ea0v4d.jpg
   url: //images.ctfassets.net/bsux5spekp1p/vvOxCMNcIKGM8e40KAIq4/f7615e482e33bfb26d612f595cb93aeb/image-20141211-6033-1ea0v4d.jpg
+lastmodified: 1524652338.107936
 title: Vivienne Milligan
 ---
 No content found

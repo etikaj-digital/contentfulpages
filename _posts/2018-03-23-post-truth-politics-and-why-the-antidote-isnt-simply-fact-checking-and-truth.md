@@ -6,6 +6,7 @@ datePublished: '2018-03-23T02:47:14Z'
 disclosureStatement: John Keane received funding from the Australian Research Council.
 guid: http://theconversation.com/post-truth-politics-and-why-the-antidote-isnt-simply-fact-checking-and-truth-87364
 id: 3OazUFMvtuCOYaAG8a8uG6
+lastmodified: 1524652333.936176
 lead: The best defence against post-truth politics is not 'the truth'. Democracy should
   resist the political tyranny of claims to some immutable truth as a basis for governing
   the lives of others.

@@ -10,6 +10,7 @@ file:
     size: 18197
   fileName: image-20150305-24693-1tbb49e.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4kFtkhFgrmeCkKC48CWMow/3161691f49a994045b555654bde32025/image-20150305-24693-1tbb49e.jpg
+lastmodified: 1524652337.0335581
 title: Joe Hurley
 ---
 No content found

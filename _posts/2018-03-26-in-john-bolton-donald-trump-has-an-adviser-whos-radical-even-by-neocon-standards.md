@@ -8,6 +8,7 @@ disclosureStatement: Natasha Ezrow does not work for, consult, own shares in or 
   has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/in-john-bolton-donald-trump-has-an-adviser-whos-radical-even-by-neocon-standards-93883
 id: 4C4o8igJk4yWC8uw4YimMs
+lastmodified: 1524652333.763644
 lead: Reportedly passed over for secretary of state because of his moustache, John
   Bolton has made it into Donald Trump's administration at last.
 slug: in-john-bolton-donald-trump-has-an-adviser-whos-radical-even-by-neocon-standards

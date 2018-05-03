@@ -10,6 +10,7 @@ disclosureStatement: David Toke has received funding from the ESRC, the EU, the 
   of England and Wales and also a member of the Scottish Green Party.
 guid: http://theconversation.com/the-unholy-alliance-that-explains-why-renewable-energy-is-trouncing-nuclear-93519
 id: 2pLMgOlpcsY84qIAgQ4gok
+lastmodified: 1524652334.739269
 lead: To understand what happened to our love of giant radioactive kettles, take a
   look at cultural theory.
 slug: the-unholy-alliance-that-explains-why-renewable-energy-is-trouncing-nuclear

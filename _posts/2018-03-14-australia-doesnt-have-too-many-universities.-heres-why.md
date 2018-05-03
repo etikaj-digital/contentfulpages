@@ -9,6 +9,7 @@ disclosureStatement: Gavin Moodie does not work for, consult, own shares in or r
 featureImage: tydmwwRaSGmo6cAuq0eUw
 guid: http://theconversation.com/australia-doesnt-have-too-many-universities-heres-why-88386
 id: 6oi7pkmCBisewQQCMyYgOq
+lastmodified: 1524652334.69731
 lead: "Despite serious financial and enrolment pressure for some, our universities\
   \ are unlikely to close their doors \u2013 but some may have to resort to being\
   \ 'merged' or taken over by a stronger partner."

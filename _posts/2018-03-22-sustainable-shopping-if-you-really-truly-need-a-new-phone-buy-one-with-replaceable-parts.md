@@ -9,6 +9,7 @@ disclosureStatement: Miles Park does not work for, consult, own shares in or rec
 featureImage: 276x5M6FgkgA4Wc4suyWOA
 guid: http://theconversation.com/sustainable-shopping-if-you-really-truly-need-a-new-phone-buy-one-with-replaceable-parts-93069
 id: 4tDmbxETcc4EkgUkME6UQk
+lastmodified: 1524652334.51663
 lead: The most sustainable phone is the one you already own. But if you're in the
   market for a new handset, consider choosing one with replaceable parts to avoid
   having to replace the whole thing again.

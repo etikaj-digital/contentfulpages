@@ -14,6 +14,7 @@ disclosureStatement: 'Miranda Stewart receives funding from the Australian Resea
 featureImage: 3b7QVi2cu4euiSOyaAeqku
 guid: http://theconversation.com/new-zealand-us-and-uk-outrank-australia-in-scores-on-budget-transparency-93641
 id: 6f3WUSwIow0qyUC28u4EgQ
+lastmodified: 1524652334.366685
 lead: In it's first inclusion in the Open Budget Index of 115 countries, Australia
   ranks 12th.
 slug: new-zealand-us-and-uk-outrank-australia-in-scores-on-budget-transparency

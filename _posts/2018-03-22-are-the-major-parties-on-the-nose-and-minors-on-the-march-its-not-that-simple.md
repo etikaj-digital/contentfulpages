@@ -9,6 +9,7 @@ disclosureStatement: Nick Economou does not work for, consult, own shares in or 
 featureImage: 1advLtHockCaKiQwIwW04c
 guid: http://theconversation.com/are-the-major-parties-on-the-nose-and-minors-on-the-march-its-not-that-simple-93569
 id: 2I9UOGJopOMoaiO428MSIc
+lastmodified: 1524652333.746898
 lead: The recent elections in Tasmania, South Australia and the byelection in Batman
   have left an impression that the advance of the minor parties has stalled. This
   is not necessarily the case.

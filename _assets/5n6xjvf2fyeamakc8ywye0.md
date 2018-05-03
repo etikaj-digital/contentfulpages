@@ -10,6 +10,7 @@ file:
     size: 4874689
   fileName: file-20180328-109193-dux85j.jpg
   url: //images.ctfassets.net/bsux5spekp1p/5N6XjVf2FyEAMAkC8yWYe0/5febcf4a2b6adc167f9715a41b35680d/file-20180328-109193-dux85j.jpg
+lastmodified: 1524652337.1446059
 title: Many more people experience World Heritage sites like the Sydney Opera House
   in digital form than physically visit them.
 ---

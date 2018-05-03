@@ -9,6 +9,7 @@ disclosureStatement: Ali Alizadeh does not work for, consult, own shares in or r
 featureImage: ZpSXgj4ty0oqUSUKgEUqG
 guid: http://theconversation.com/essays-on-air-joan-of-arc-our-one-true-superhero-92930
 id: 1kl4RR4SYogiKCYuYQ6iUO
+lastmodified: 1524652333.9230661
 lead: "Joan of Arc has been depicted as a national heroine, nationalist symbol, a\
   \ rebellious heretic and a goodly saint. Forget Wonder Woman and Batman \u2013 Jeanne\
   \ d\u2019Arc may be our one and only true superhero."

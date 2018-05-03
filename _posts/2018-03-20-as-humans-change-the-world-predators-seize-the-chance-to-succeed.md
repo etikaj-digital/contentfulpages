@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 2ffEEr9WyYccomsMCWkGSO
 guid: http://theconversation.com/as-humans-change-the-world-predators-seize-the-chance-to-succeed-93645
 id: 5NRukVIaOswKmqqIgOwqus
+lastmodified: 1524652333.6499782
 lead: From falcons that hunt by the light of skyscrapers, to bears that sit in wait
   at weirs, animals are using human structures to help them catch a meal.
 slug: as-humans-change-the-world-predators-seize-the-chance-to-succeed

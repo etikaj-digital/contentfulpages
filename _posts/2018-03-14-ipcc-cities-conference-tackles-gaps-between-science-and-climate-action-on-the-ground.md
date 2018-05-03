@@ -8,6 +8,7 @@ disclosureStatement: Jago Dodson was a presenter at the IPCC Cities Conference a
 featureImage: 65FSRaOmOWewue4gukKE8Q
 guid: http://theconversation.com/ipcc-cities-conference-tackles-gaps-between-science-and-climate-action-on-the-ground-93287
 id: 2iHI14bo76YEAKIM2KYwSG
+lastmodified: 1524652334.486042
 lead: The first IPCC conference on cities has highlighted the challenges of reconciling
   science, urban practices and politics. But it was an important recognition of cities'
   leading role in climate action.

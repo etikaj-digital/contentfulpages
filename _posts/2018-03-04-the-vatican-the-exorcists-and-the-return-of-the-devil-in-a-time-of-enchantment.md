@@ -9,6 +9,7 @@ disclosureStatement: Philip Almond does not work for, consult, own shares in or 
 featureImage: VkS0rcmWQei8q2U284IeY
 guid: http://theconversation.com/the-vatican-the-exorcists-and-the-return-of-the-devil-in-a-time-of-enchantment-92575
 id: 40LSboW0wM4Uem0Ea8sQ8Y
+lastmodified: 1524652334.448687
 lead: The Vatican is training priests to recognise and deal with the demonically possessed.
   This re-emergence of the Devil in popular Western culture is part of a new engagement
   with an enchanted world.

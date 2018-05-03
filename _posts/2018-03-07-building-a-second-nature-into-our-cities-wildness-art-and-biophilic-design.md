@@ -8,6 +8,7 @@ disclosureStatement: Jordan Lacey has previously received funding from The City 
 featureImage: 2PBI06qJ9SiUmiWC6e0qIo
 guid: http://theconversation.com/building-a-second-nature-into-our-cities-wildness-art-and-biophilic-design-88642
 id: 7djYmNWA36AW2EqcwGsUgy
+lastmodified: 1524652334.8795478
 lead: If the nature we desire is, in fact, its expression as untamed wildness, then
   we should turn to the creativity of artists as well as urban designers when building
   our cities.

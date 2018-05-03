@@ -11,6 +11,7 @@ disclosureStatement: 'Peter Holland is a member of the NTEU.
 featureImage: 2iVxDo7q3GC0GyQ4AoYIYW
 guid: http://theconversation.com/unions-have-a-history-of-merging-thats-why-the-new-super-union-makes-sense-93077
 id: 4sQAdh0u0o0uSMqgIwaIyO
+lastmodified: 1524652333.985918
 lead: Super unions allow for more resources to be put into building union membership
   and other union activities.
 slug: unions-have-a-history-of-merging--thats-why-the-new-super-union-makes-sense

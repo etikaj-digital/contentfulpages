@@ -10,6 +10,7 @@ file:
     size: 59163
   fileName: image-20170731-5295-1tly5d6.jpg
   url: //images.ctfassets.net/bsux5spekp1p/2w6Iikrufy6qKEACieyMkG/18b8b19c613956c359f74a1d4e184f94/image-20170731-5295-1tly5d6.jpg
+lastmodified: 1524652336.510892
 title: Julian Thomas
 ---
 No content found

@@ -7,6 +7,7 @@ disclosureStatement: Mark Edele receives funding from the Australian Research Co
 featureImage: 6TN7x2ClnG2ua2Yke4soUC
 guid: http://theconversation.com/no-laughing-matter-armando-iannuccis-the-death-of-stalin-reveals-the-anxieties-of-team-putin-93787
 id: 489ULZIwDY0SE0k68kcECw
+lastmodified: 1524652334.4620411
 lead: The Death of Stalin has been banned in Russia. While the film is hardly disrespectful
   to Russian people, it does make Putin uncomfortable with its satirical take of leadership.
 slug: no-laughing-matter--armando-iannuccis-the-death-of-stalin-reveals-the-anxieties-of-team-putin

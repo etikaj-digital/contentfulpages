@@ -16,6 +16,7 @@ disclosureStatement: 'Tony Matthews receives external funding from the Australia
 featureImage: 4dpaz5HaKQMCCWKicYOQMI
 guid: http://theconversation.com/many-people-feel-lonely-in-the-city-but-perhaps-third-places-can-help-with-that-92847
 id: 6u284QAh2w80ms8uCaWUkS
+lastmodified: 1524652334.373902
 lead: Third places are shared spaces where people can informally socialise. As a potential
   antidote to the modern scourge of loneliness, it's worth asking what makes the best
   of these places tick.

@@ -9,6 +9,7 @@ disclosureStatement: Rebecca English does not work for, consult, own shares in o
 featureImage: 1evmy2laFAyUuyUAoaScyW
 guid: http://theconversation.com/should-we-shorten-the-long-summer-break-from-school-maybe-not-92423
 id: 1yaxUzNERWMQK6ysqS2UwQ
+lastmodified: 1524652333.808596
 lead: While cutting the long summer holidays would help working parents, it may not
   be so great for teachers who need to plan and do professional development, and kids
   who need a rest.

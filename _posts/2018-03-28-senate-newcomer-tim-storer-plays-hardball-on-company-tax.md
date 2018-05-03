@@ -9,6 +9,7 @@ disclosureStatement: Michelle Grattan does not work for, consult, own shares in 
 featureImage: 5V0FRIJFhSK4ccG4cWaWCw
 guid: http://theconversation.com/senate-newcomer-tim-storer-plays-hardball-on-company-tax-94121
 id: 4omyp3fjugGu4E8A0UcU8y
+lastmodified: 1524652334.350434
 lead: The government's company tax cut for big business has received a further blow.
 slug: senate-newcomer-tim-storer-plays-hardball-on-company-tax
 tags:

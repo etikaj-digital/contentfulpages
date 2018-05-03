@@ -12,6 +12,7 @@ disclosureStatement: "Carly Sawatzki is affiliated with the Mathematics Educatio
 featureImage: 1G7u18fhgYc8OAOGoEYCO8
 guid: http://theconversation.com/consumers-need-critical-thinking-to-fend-off-banks-bad-behaviour-93489
 id: 4lRQbRbILYiueEAyuMmkWa
+lastmodified: 1524652333.8407
 lead: Financial literacy is more than numeracy, it requires a healthy scepticism of
   financial institutions and confidence in making financial decisions.
 slug: consumers-need-critical-thinking-to-fend-off-banks-bad-behaviour

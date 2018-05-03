@@ -9,6 +9,7 @@ disclosureStatement: Sandeep Gopalan does not work for, consult, own shares in o
 featureImage: 1Zycqd8V6wcsWq00qqWQYM
 guid: http://theconversation.com/legal-lessons-for-australia-from-ubers-self-driving-car-fatality-93649
 id: 31BU3hybuoa8Qq4WIUQECg
+lastmodified: 1524652334.679747
 lead: Elaine Herzberg's death will provide the impetus for clearer liability rules
   for self-driving cars. Australia is wise to adopt a wait-and-watch approach and
   maintain its human-first orientation.

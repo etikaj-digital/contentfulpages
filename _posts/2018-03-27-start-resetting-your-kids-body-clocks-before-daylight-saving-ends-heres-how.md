@@ -9,6 +9,7 @@ disclosureStatement: Jon Quach receives funding from the Australian Research Cou
 featureImage: 5WrY1hUkTK8wOw0U8cUMwE
 guid: http://theconversation.com/start-resetting-your-kids-body-clocks-before-daylight-saving-ends-heres-how-93792
 id: 6z5KK9xcd22gQMGYKMkMIu
+lastmodified: 1524652334.308776
 lead: The shift from daylight saving time will leave kids' body clocks an hour "out
   of sync", in a similar way to jet lag. Here are some evidence-based strategies to
   deal with this.

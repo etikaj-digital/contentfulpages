@@ -15,6 +15,7 @@ disclosureStatement: "Katherine Dafforn receives funding from the Australian Res
 featureImage: 2fZf4zgYbiUiuKsC84eWEw
 guid: http://theconversation.com/future-ocean-cities-need-green-engineering-above-and-below-the-waterline-93843
 id: 6XEzfj5gUosAwoss4AugIK
+lastmodified: 1524652334.672565
 lead: Artificial islands that are now mushrooming across the ocean are regarded as
   'engineering marvels'. But, little attention is paid to how these human-made structures
   affect sea life.

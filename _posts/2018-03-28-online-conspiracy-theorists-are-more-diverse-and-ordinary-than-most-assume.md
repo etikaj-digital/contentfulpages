@@ -13,6 +13,7 @@ disclosureStatement: "Colin Klein receives funding from the Australian Research 
 featureImage: 4iE4MVLHZCqE4SG8guiyGK
 guid: http://theconversation.com/online-conspiracy-theorists-are-more-diverse-and-ordinary-than-most-assume-92022
 id: 2PWbhaQMTKYW6gqcyqIKmk
+lastmodified: 1524652334.124352
 lead: Conspiracy theorists are commonly seen as fundamentally irrational, with an
   all-encompassing obsession. But new research suggests they may have quite different
   motivations, beliefs and attitudes.

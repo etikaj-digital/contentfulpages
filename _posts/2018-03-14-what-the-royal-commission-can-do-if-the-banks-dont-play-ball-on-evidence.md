@@ -7,6 +7,7 @@ disclosureStatement: Anna Olijnyk's superannuation fund has shares in several ba
 featureImage: H7jzeEei4MsUQe8ces4kW
 guid: http://theconversation.com/what-the-royal-commission-can-do-if-the-banks-dont-play-ball-on-evidence-93283
 id: 1RxorDvzyEgOka4SoGSeac
+lastmodified: 1524652334.735064
 lead: The Financial Services Royal Commission can ask the banks for the material it
   wants, in the form it wants.
 slug: what-the-royal-commission-can-do-if-the-banks-dont-play-ball-on-evidence

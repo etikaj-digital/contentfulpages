@@ -14,6 +14,7 @@ disclosureStatement: "Gavin Wood receives funding from the Australian Housing an
 featureImage: 3i8eBYlnf2Kkc2yU6GaUI8
 guid: http://theconversation.com/homeless-numbers-will-keep-rising-until-governments-change-course-on-housing-93417
 id: 6ezk9idEZOqusWEKcOCouq
+lastmodified: 1524652333.992095
 lead: A decade after the launch of a national campaign to reduce homelessness, the
   latest figures show Australia is going backwards. Research points to problems in
   the public housing system as a key factor.

@@ -8,6 +8,7 @@ disclosureStatement: 'Hope Johnson produced this article under the ARC Discovery
 featureImage: 4ywMKT47wIE2UiugQ2KyIQ
 guid: http://theconversation.com/should-lab-grown-meat-be-labelled-as-meat-when-its-available-for-sale-93129
 id: 2G7osThrrqSgs4MkmaC6G
+lastmodified: 1524652334.325513
 lead: Can you call it meat if it's been artificially produced? That's the question
   cattlemen in the US are asking, and something food regulators will have to grapple
   with soon when it coms to labelling.

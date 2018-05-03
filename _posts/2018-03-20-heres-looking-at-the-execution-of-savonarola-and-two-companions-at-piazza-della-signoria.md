@@ -9,6 +9,7 @@ disclosureStatement: Ted Snell does not work for, consult, own shares in or rece
 featureImage: 1REEBbVHM0ECcwywYoKamy
 guid: http://theconversation.com/heres-looking-at-the-execution-of-savonarola-and-two-companions-at-piazza-della-signoria-91642
 id: 7DyDNXCTOE4QaqaWoSeaky
+lastmodified: 1524652334.820329
 lead: In 1497 Girolamo Savonarola burned books and art in Florence in the most infamous
   act of European cultural desecration. A year later, he met the same fate.
 slug: heres-looking-at-the-execution-of-savonarola-and-two-companions-at-piazza-della-signoria

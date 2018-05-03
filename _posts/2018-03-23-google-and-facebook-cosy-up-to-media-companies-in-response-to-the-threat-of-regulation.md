@@ -9,6 +9,7 @@ disclosureStatement: Merja Myllylahti does not work for, consult, own shares in 
 featureImage: 54OxPtHrAAUI46EO04SiQe
 guid: http://theconversation.com/google-and-facebook-cosy-up-to-media-companies-in-response-to-the-threat-of-regulation-93730
 id: 6HAReVk2vmg40ICGMMyW2E
+lastmodified: 1524652334.7886982
 lead: It's surprising that news publishers seem to hand more power to Google because
   now more than ever there's an urgency to have clear barriers between news companies,
   social media platforms and search engines.

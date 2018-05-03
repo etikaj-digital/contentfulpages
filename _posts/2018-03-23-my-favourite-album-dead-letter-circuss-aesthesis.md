@@ -9,6 +9,7 @@ disclosureStatement: Mandy Stefanakis does not work for, consult, own shares in 
 featureImage: 5V0fU6qYpi6C4m8KgOs4UK
 guid: http://theconversation.com/my-favourite-album-dead-letter-circuss-aesthesis-84511
 id: s190Zuygp2us26wMACwIE
+lastmodified: 1524652333.940423
 lead: Brisbane alternative rock musicians Dead Letter Circus make affective and powerful
   music, epitomised by their album Aesthesis.
 slug: my-favourite-album-dead-letter-circuss-aesthesis

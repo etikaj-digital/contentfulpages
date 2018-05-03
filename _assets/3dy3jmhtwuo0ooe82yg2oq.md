@@ -10,6 +10,7 @@ file:
     size: 35587
   fileName: image-20161227-29216-1bxz9o2.jpg
   url: //images.ctfassets.net/bsux5spekp1p/3Dy3jMhtWUo0ooe82Yg2Oq/db6bdf0f7bfaaf341f2127bd492c2722/image-20161227-29216-1bxz9o2.jpg
+lastmodified: 1524652336.5947862
 title: Anthony Kimpton
 ---
 No content found

@@ -8,6 +8,7 @@ disclosureStatement: David Lindenmayer receives funding from the Australian Rese
 featureImage: 1Eu7qe8KXaqe8wWqU6eewS
 guid: http://theconversation.com/native-forest-protections-are-deeply-flawed-yet-may-be-in-place-for-another-20-years-93004
 id: 6FxNJUNilUmeaQQKGQ22sI
+lastmodified: 1524652333.9519591
 lead: Agreements between the Commonwealth and state governments that protect native
   forests are based on hopelessly out-of-date information. It's a huge mistake to
   renew them without assessment.

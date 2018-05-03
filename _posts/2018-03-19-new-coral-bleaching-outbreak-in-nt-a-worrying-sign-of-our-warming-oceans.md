@@ -10,6 +10,7 @@ disclosureStatement: Selina Ward has received funding from the Australian Resear
 featureImage: 5xxrr72tvGQsGwgyAkG4UC
 guid: http://theconversation.com/new-coral-bleaching-outbreak-in-nt-a-worrying-sign-of-our-warming-oceans-93351
 id: zApimVeqPuQqQkMGEyk0k
+lastmodified: 1524652334.191773
 lead: Coral bleaching has struck the Northern Territory, adding urgency to the need
   for better national management strategies for our warming oceans.
 slug: new-coral-bleaching-outbreak-in-nt-a-worrying-sign-of-our-warming-oceans

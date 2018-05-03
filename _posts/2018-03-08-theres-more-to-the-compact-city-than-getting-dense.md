@@ -8,6 +8,7 @@ disclosureStatement: Claire Collie does not work for, consult, own shares in or 
   has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/theres-more-to-the-compact-city-than-getting-dense-92034
 id: 5dQHOWeEdqoic0k2gqQW0i
+lastmodified: 1524652334.3920598
 lead: Ruth and Maurie Crow were early advocates of the compact city. They also warned
   50 years ago that  a clear justice intent was needed to shape cities for their citizens
   rather than vested interests.

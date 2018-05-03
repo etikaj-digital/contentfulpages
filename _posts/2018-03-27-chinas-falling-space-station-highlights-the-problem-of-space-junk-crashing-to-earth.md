@@ -7,6 +7,7 @@ disclosureStatement: Brad E Tucker receives funding from the Australian Research
 featureImage: 2a75l6VI5eqw8Aask64C2o
 guid: http://theconversation.com/chinas-falling-space-station-highlights-the-problem-of-space-junk-crashing-to-earth-93295
 id: GlaGP3TaIo8aAQO88WugU
+lastmodified: 1524652333.644889
 lead: China's Tiangong-1 space station is hurtling around Earth out of control and
   about to come crashing down. It's just one of thousands of pieces of space junk
   left orbiting our planet.

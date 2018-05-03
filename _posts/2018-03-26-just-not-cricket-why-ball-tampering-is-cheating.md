@@ -11,6 +11,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 3WWWJPWZ4AAUCw8sC4i0Ie
 guid: http://theconversation.com/just-not-cricket-why-ball-tampering-is-cheating-93935
 id: 3S7PtUdjBuMoOycg4CakE2
+lastmodified: 1524652334.653858
 lead: Altering the condition of the match ball is against the rules of the sport,
   contrary to 'the spirit of cricket', and deemed to be 'unfair'. It is a form of
   cheating.

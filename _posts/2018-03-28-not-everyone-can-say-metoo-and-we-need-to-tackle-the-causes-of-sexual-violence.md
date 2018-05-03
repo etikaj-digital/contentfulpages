@@ -9,6 +9,7 @@ disclosureStatement: Claire Moran does not work for, consult, own shares in or r
 featureImage: 3EO6448fhuSSs0YiIs2eYS
 guid: http://theconversation.com/not-everyone-can-say-metoo-and-we-need-to-tackle-the-causes-of-sexual-violence-93075
 id: 67STIjfDagwoIcy8yQWAGK
+lastmodified: 1524652334.158752
 lead: "Not all women have the capacity, or freedom, to speak out about their experiences\
   \ of sexual violence \u2013 be it in the workplace or at home."
 slug: not-everyone-can-say-metoo-and-we-need-to-tackle-the-causes-of-sexual-violence

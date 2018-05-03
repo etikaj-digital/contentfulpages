@@ -10,6 +10,7 @@ file:
     size: 488988
   fileName: file-20180318-104659-7abbrm.jpg
   url: //images.ctfassets.net/bsux5spekp1p/2HuRsmAWNOSe6WSuwcMma/36ca9f6ff8b64b87a9363d992305de89/file-20180318-104659-7abbrm.jpg
+lastmodified: 1524652336.218911
 title: "The \u2018gay wedding cake\u2019 dilemma has become the go-to hypothetical\
   \ when examining how religious freedom and LBGTI rights can co-exist."
 ---

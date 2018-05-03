@@ -10,6 +10,7 @@ disclosureStatement: "Patrick D. Nunn receives funding from the Australian Resea
 featureImage: 5Pkgji1W8MWuIugkyAGWgY
 guid: http://theconversation.com/essays-on-air-monsters-in-my-closet-how-a-geographer-began-mining-myths-94018
 id: tCVRXXkKtiAW0a26MIuMA
+lastmodified: 1524652334.4171689
 lead: So you think the Loch Ness Monster never existed? Think again. Traditional myths
   from our ancestors might actually reveal important clues about the geological history
   of the world.

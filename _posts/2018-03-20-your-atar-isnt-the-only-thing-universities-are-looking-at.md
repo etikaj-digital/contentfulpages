@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 24gk8R3OgMwuo6y4E8seKQ
 guid: http://theconversation.com/your-atar-isnt-the-only-thing-universities-are-looking-at-93353
 id: 3FuMzy5wlGQIqsQiqYES4U
+lastmodified: 1524652333.637846
 lead: In 2017, around 60% of domestic undergraduate university offers were reported
   as non-ATAR, meaning there's a diversity of pathways to higher education.
 slug: your-atar-isnt-the-only-thing-universities-are-looking-at

@@ -10,6 +10,7 @@ disclosureStatement: "Anina Rich receives funding from the Australian Research C
 featureImage: 5PPJumhq80iEeoY62mcQC2
 guid: http://theconversation.com/curious-kids-why-are-we-ticklish-92419
 id: 5vtskbfrEWkag0sQYak6Iu
+lastmodified: 1524652334.339301
 lead: People have wondered for years and scientists still don't know for sure.
 slug: curious-kids-why-are-we-ticklish
 tags:

@@ -13,6 +13,7 @@ disclosureStatement: "Paul Harrison has received funding from the Australian Sec
 featureImage: 61WXTMmLYIa4aYC2AS2CwE
 guid: http://theconversation.com/why-dont-we-read-the-fine-print-because-banks-know-the-pressure-points-to-push-93424
 id: 1XhWaHEbNKekqeGwiAG6Uy
+lastmodified: 1524652333.8255281
 lead: "In psychology, we know people don\u2019t always think through their decision-making\
   \ in a rational and linear way when placed under situations of stress."
 slug: why-dont-we-read-the-fine-print-because-banks-know-the-pressure-points-to-push

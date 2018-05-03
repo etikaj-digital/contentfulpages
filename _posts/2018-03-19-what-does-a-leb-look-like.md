@@ -9,6 +9,7 @@ disclosureStatement: Sherene Idriss does not work for, consult, own shares in or
 featureImage: 5KxBGbp2CcqsIECs4kwSeY
 guid: http://theconversation.com/what-does-a-leb-look-like-93367
 id: 4AOym12UXYeC8gQWeagq0q
+lastmodified: 1524652333.717858
 lead: Michael Mohammed Ahmad's novel The Lebs is a realistic portrayal of teenage
   boys in Western Sydney.
 slug: what-does-a-leb-look-like

@@ -6,6 +6,7 @@ datePublished: '2018-03-13T18:59:29Z'
 disclosureStatement: Jeff Borland receives funding from the Australian Research Council.
 guid: http://theconversation.com/the-us-isnt-a-shining-example-for-australia-when-it-comes-to-jobs-93006
 id: 22lpRYA8juMg68WS8IMYMu
+lastmodified: 1524652334.4343932
 lead: Unemployment rates have risen in Australia while falling in the US. But Australia
   has experienced a much smaller decline in the proportion of its population who are
   in work.

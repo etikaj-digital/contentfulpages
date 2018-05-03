@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 4kLIZuwRkAoOmEU0CiMMem
 guid: http://theconversation.com/oscars-2018-another-mexican-triumph-as-awards-move-towards-diversity-91786
 id: zcBTUD6TIWMaUsGsem4Qw
+lastmodified: 1524652334.402483
 lead: Mexican directors have won in their category four years out of the past five.
 slug: oscars-2018-another-mexican-triumph-as-awards-move-towards-diversity
 tags:

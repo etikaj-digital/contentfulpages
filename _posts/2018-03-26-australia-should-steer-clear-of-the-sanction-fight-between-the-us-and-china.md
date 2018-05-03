@@ -9,6 +9,7 @@ disclosureStatement: Bruce Baer Arnold does not work for, consult, own shares in
 featureImage: RO0fNcjrwc0sESiS4iQu8
 guid: http://theconversation.com/australia-should-steer-clear-of-the-sanction-fight-between-the-us-and-china-93856
 id: 5zSbFNL8T6qE2esWkOIcWs
+lastmodified: 1524652333.881854
 lead: Even though Australia sides with the US on more areas of policy, it should be
   careful about being dragged into the back-and-forth of sanctions between the US
   and China.

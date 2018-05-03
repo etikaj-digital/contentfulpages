@@ -9,6 +9,7 @@ disclosureStatement: Lotfi Belkhir does not work for, consult, own shares in or 
 featureImage: 3O8CixGhBC6QeQi2S08UKe
 guid: http://theconversation.com/how-smartphones-are-heating-up-the-planet-92793
 id: 1i7gRpYkiqIg6OikqEKg02
+lastmodified: 1524652334.3797178
 lead: New research shows the impact of technology, especially smartphones, on carbon
   emissions. Encouraging consumers to get new phones every couple of years leads to
   extraordinary and unnecessary waste.

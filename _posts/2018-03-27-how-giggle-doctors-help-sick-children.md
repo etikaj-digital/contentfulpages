@@ -9,6 +9,7 @@ disclosureStatement: Caspar Addyman does not work for, consult, own shares in or
 featureImage: 4Z0qnEldF6Uwu4AC6UKAq0
 guid: http://theconversation.com/how-giggle-doctors-help-sick-children-93896
 id: 5c7qwJ1ajmUaAKqUk2aA8Y
+lastmodified: 1524652334.8649752
 lead: These professional entertainers are trained and paid to go round hospitals cheer
   up children with music and laughter.
 slug: how-giggle-doctors-help-sick-children

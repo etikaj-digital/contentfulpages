@@ -11,6 +11,7 @@ file:
     size: 14239
   fileName: g732qpdv-1337299728.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4PATdawKEMQ6CMMW4KqWoq/dcc5bc34799bfd27c2397a09e887e5af/g732qpdv-1337299728.jpg
+lastmodified: 1524652336.9195762
 title: Euan Ritchie
 ---
 No content found

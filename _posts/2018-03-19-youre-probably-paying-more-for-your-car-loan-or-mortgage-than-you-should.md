@@ -9,6 +9,7 @@ disclosureStatement: Christopher Palmer does not work for, consult, own shares i
 featureImage: 5Au6S1n7dC8EmCYmSGM6Cm
 guid: http://theconversation.com/youre-probably-paying-more-for-your-car-loan-or-mortgage-than-you-should-90993
 id: 4QKlUdjgrKCycywimuQm2s
+lastmodified: 1524652334.1419039
 lead: Most of us bargain hunt when shopping for a new blouse or pair of blue jeans,
   yet for some reason we don't with interest rates, potentially costing us thousands
   of dollars.

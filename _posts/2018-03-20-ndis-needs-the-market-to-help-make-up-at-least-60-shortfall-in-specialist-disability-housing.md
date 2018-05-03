@@ -7,6 +7,7 @@ disclosureStatement: George Taleporos is the Policy Manager at the Summer Founda
   Ltd.
 guid: http://theconversation.com/ndis-needs-the-market-to-help-make-up-at-least-60-shortfall-in-specialist-disability-housing-93479
 id: aozohnT4PKq66Ii2MmQM4
+lastmodified: 1524652334.587168
 lead: The NDIS is allowing for Specialist Disability Accommodation for 28,000 people,
   with 17,500 already in such housing. The potential demand for this life-changing
   supported housing is even greater.

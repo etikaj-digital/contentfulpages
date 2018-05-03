@@ -8,6 +8,7 @@ disclosureStatement: Nicola Henry receives funding from the Australian Research 
 featureImage: PFv6e9NN84OsEG2cYa6yo
 guid: http://theconversation.com/rape-sexual-assault-and-sexual-harassment-whats-the-difference-93411
 id: 5yK9dTFsRO4W4a8OowqEQo
+lastmodified: 1524652333.888671
 lead: It's important to differentiate between various forms of sexual violence to
   punish perpetrators appropriately, and to help those affected to label and describe
   their experiences.

@@ -10,6 +10,7 @@ file:
     size: 80188
   fileName: image-20150817-5103-b7trrc.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4AH2igEyYgUMYiUkWu6AkM/ce53dffcb228adb6f984c6835db30fd8/image-20150817-5103-b7trrc.jpg
+lastmodified: 1524652336.832136
 title: Jordan Lacey
 ---
 No content found

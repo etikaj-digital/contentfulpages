@@ -8,6 +8,7 @@ disclosureStatement: Robyn Whitaker is a member of the Centre for Research in Re
 featureImage: 6BQ0CReglUCw64oyGe2SiS
 guid: http://theconversation.com/jesus-wasnt-white-he-was-a-brown-skinned-middle-eastern-jew-heres-why-that-matters-91230
 id: 3w4ajSKjbq2OQUOKecoAgc
+lastmodified: 1524652334.439175
 lead: What would our church and society look like if we were confronted with the reality
   that the body hung on the cross was brown?
 slug: jesus-wasnt-white-he-was-a-brown-skinned-middle-eastern-jew-heres-why-that-matters

@@ -19,6 +19,7 @@ disclosureStatement: 'Professor Michael Milford is a Chief Investigator at the A
 featureImage: BzltgoQ3raQ6IWOu20ykA
 guid: http://theconversation.com/some-bloody-rocket-science-gives-pacific-rim-uprising-an-extra-lift-92342
 id: 4t3Evt9EVGWCYm2uyeC8qG
+lastmodified: 1524652333.773268
 lead: They're back! Pacific Rim Uprising sees more giant robots with humans inside,
   fighting giant  monsters. But does the rocket science add up in this action-packed
   blockbuster sequel?

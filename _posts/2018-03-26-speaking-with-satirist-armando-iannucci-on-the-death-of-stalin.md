@@ -9,6 +9,7 @@ disclosureStatement: Stephen Harrington does not work for, consult, own shares i
 featureImage: 4eQ4OBKuk8K6YUyIykm8mE
 guid: http://theconversation.com/speaking-with-satirist-armando-iannucci-on-the-death-of-stalin-93941
 id: 67d7wdRrPi4Y4mWY0aYMWc
+lastmodified: 1524652334.081744
 lead: Armando Iannucci, the satirist and director behind the film The Death of Stalin
   spoke with Associate Professor Stephen Harrington, an expert on political satire.
 slug: speaking-with-satirist-armando-iannucci-on-the-death-of-stalin

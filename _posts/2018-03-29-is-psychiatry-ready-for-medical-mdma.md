@@ -8,6 +8,7 @@ disclosureStatement: Gillinder Bedi receives funding from the US National Instit
 featureImage: 4159Rt0ZPOCY8GKKoeIkeG
 guid: http://theconversation.com/is-psychiatry-ready-for-medical-mdma-94105
 id: UxIXODxMGIM42MSGQG40
+lastmodified: 1524652334.215487
 lead: Current trials suggest MDMA could used to treat psychiatric disorders as a prescription
   medicine by 2021. But there remain a number of unresolved patient / doctor issues
   to be considered.

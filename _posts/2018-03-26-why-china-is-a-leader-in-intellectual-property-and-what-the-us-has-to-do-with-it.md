@@ -9,6 +9,7 @@ disclosureStatement: Alice de Jonge does not work for, consult, own shares in or
 featureImage: 5peT7ap2ZGGYMcGMIWOgSa
 guid: http://theconversation.com/why-china-is-a-leader-in-intellectual-property-and-what-the-us-has-to-do-with-it-93950
 id: 4vEAJOFJ2MEmYUuUyOQ8Ya
+lastmodified: 1524652334.3844569
 lead: China established a system of approving foreign investments on condition the
   businesses involved agreed to partner with local firms and transfer knowledge and
   skills to the local Chinese market.

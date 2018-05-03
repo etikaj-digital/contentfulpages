@@ -10,6 +10,7 @@ disclosureStatement: The research cited in this article was completed during Iva
 featureImage: 1QWhgTy5iwyu8SQE2KkOK4
 guid: http://theconversation.com/beyond-triple-zero-towards-a-digital-proactive-emergency-response-92264
 id: 1dLCMyE68kSO2gWkmoikie
+lastmodified: 1524652334.885039
 lead: Whether for police, ambulance or fire fighters, the future of emergency communication
   is expected to be digital-friendly, flexible and diversified.
 slug: beyond-triple-zero-towards-a-digital-proactive-emergency-response

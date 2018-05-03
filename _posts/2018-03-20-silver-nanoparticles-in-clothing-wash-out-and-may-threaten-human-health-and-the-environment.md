@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 4dFtlHrzWUcEceK0IwSes6
 guid: http://theconversation.com/silver-nanoparticles-in-clothing-wash-out-and-may-threaten-human-health-and-the-environment-90309
 id: 13ufiKOEUesoqea4UmeMA
+lastmodified: 1524652334.5036922
 lead: Many socks, towels and other textiles are treated with silver nanoparticles
   to kill germs and odors. When the silver washes out, it can pollute waterways. Two
   chemists propose a way to collect it from wastewater.

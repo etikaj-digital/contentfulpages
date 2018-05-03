@@ -9,6 +9,7 @@ disclosureStatement: Sharon Forbes does not work for, consult, own shares in or 
 featureImage: 1XDgi6oh0AciSWWUCAyOc
 guid: http://theconversation.com/trust-and-profitability-how-some-nz-brands-are-shortchanging-domestic-customers-91640
 id: 5oAHsk3pa84wMEIOkGYqM0
+lastmodified: 1524652334.054514
 lead: Some of New Zealand's most trusted brands are implementing strategies that are
   misleading domestic consumers and risking their long-term brand reputation.
 slug: trust-and-profitability-how-some-nz-brands-are-shortchanging-domestic-customers

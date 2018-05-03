@@ -9,6 +9,7 @@ disclosureStatement: Hannah Piterman does not work for, consult, own shares in o
 featureImage: 1cC7sPEFYoCw06qKwqeiIM
 guid: http://theconversation.com/email-culture-to-blame-for-workplace-failure-on-metoo-92515
 id: 3J1DsIkUzC60QKGAaQO2E
+lastmodified: 1524652334.118061
 lead: 'Workplace reactions to #MeToo risk exacerbating the problem. What''s needed
   are more face-to-face conversations, no matter how awkward they may be.'
 slug: email-culture-to-blame-for-workplace-failure-on-metoo

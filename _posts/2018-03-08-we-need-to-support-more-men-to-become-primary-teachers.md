@@ -9,6 +9,7 @@ disclosureStatement: Ian Davis does not work for, consult, own shares in or rece
 featureImage: csoFyncgDYcYY2As6IoIa
 guid: http://theconversation.com/we-need-to-support-more-men-to-become-primary-teachers-86775
 id: 3cfDBZvGEgYWOiY6G6KqSI
+lastmodified: 1524652333.630091
 lead: It has been predicted we will need 1,627 more classes for primary students nationally
   before 2025, and to respond to this demand we need to fix the gender imbalance in
   the teacher workforce.

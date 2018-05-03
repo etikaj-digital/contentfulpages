@@ -10,6 +10,7 @@ disclosureStatement: "Craig MacMillan is a member of the NTEU. \n\nDaehoon Nahm 
 featureImage: 13s5VNL1QsuiI2WEeusWG8
 guid: http://theconversation.com/why-union-members-earn-higher-wages-than-their-non-union-colleagues-93122
 id: 5mtX3gl9OoESO2oyU4esIE
+lastmodified: 1524652334.8490272
 lead: Research finds union members earn more because they have more experience than
   their non-union colleagues.
 slug: why-union-members-earn-higher-wages-than-their-non-union-colleagues

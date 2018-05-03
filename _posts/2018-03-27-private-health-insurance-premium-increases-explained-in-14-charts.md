@@ -12,6 +12,7 @@ disclosureStatement: Terence Cheng does not work for, consult, own shares in or 
 featureImage: 1Kv316vdZyaA8SsIguq2Y6
 guid: http://theconversation.com/private-health-insurance-premium-increases-explained-in-14-charts-92825
 id: 1muXorjdpKccsI2sgWKQc0
+lastmodified: 1524652334.802206
 lead: Private health insurance premiums are set to rise again. These 14 charts (well,
   technically 10 charts and four tables) look at some of the reasons why health insurance
   premiums keep going up and up.

@@ -9,6 +9,7 @@ disclosureStatement: Michael Halliwell does not work for, consult, own shares in
 featureImage: 2MCPirRdVeEuciQG8A4M2K
 guid: http://theconversation.com/howling-girls-a-bold-experiment-exploring-female-voices-constricted-by-trauma-94167
 id: p859NQ3W9wc06mamwk6YC
+lastmodified: 1524652333.9809349
 lead: A new opera explores the story of five girls who believed that debris from the
   World Trade Centre was lodged in their throats after the September 11 terrorist
   attacks.

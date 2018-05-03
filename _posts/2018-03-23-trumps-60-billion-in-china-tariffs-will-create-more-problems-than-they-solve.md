@@ -9,6 +9,7 @@ disclosureStatement: William Hauk has previously received funding from the Cente
 featureImage: 6HITE3WqqceqUq8YoKGI8A
 guid: http://theconversation.com/trumps-60-billion-in-china-tariffs-will-create-more-problems-than-they-solve-93897
 id: 1ZymRE1IDGa4cS8MqCkWKO
+lastmodified: 1524652334.296426
 lead: While the tariffs are unlikely to stem Chinese intellectual property theft or
   reverse the steep trade deficit, they are certain to hurt American companies and
   consumers.

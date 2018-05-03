@@ -9,6 +9,7 @@ disclosureStatement: Shireen Daft does not work for, consult, own shares in or r
 featureImage: 3pWofuRNKoQGuw8yCOSYac
 guid: http://theconversation.com/why-schools-become-battlegrounds-during-conflict-93851
 id: 5mpGYgRI3uQkU6YogccAOw
+lastmodified: 1524652333.9693062
 lead: Schools and students are often targeted during times of armed conflict. Abducted
   children can be recruited as soldiers and schools are ideal locations for military
   headquarters.

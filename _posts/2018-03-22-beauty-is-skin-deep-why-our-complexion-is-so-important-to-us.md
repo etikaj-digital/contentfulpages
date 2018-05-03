@@ -9,6 +9,7 @@ disclosureStatement: Rodney Sinclair does not work for, consult, own shares in o
 featureImage: 4X57pYW6pa4kEqGSkU2swa
 guid: http://theconversation.com/beauty-is-skin-deep-why-our-complexion-is-so-important-to-us-91415
 id: 1qEupOtbCE20y4mkqwgUec
+lastmodified: 1524652333.901171
 lead: Despite skin conditions such as acne having no negative health effects, they
   can take a huge toll on the confidence and mental health of the person.
 slug: beauty-is-skin-deep-why-our-complexion-is-so-important-to-us

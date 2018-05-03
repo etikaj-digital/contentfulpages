@@ -10,6 +10,7 @@ file:
     size: 3292357
   fileName: file-20180327-188604-1ir6dlw.jpg
   url: //images.ctfassets.net/bsux5spekp1p/2LQFzizE4EaKGUacGmAY8U/686ae78bf8821fe6242f8366cc5e36ab/file-20180327-188604-1ir6dlw.jpg
+lastmodified: 1524652336.244401
 title: "Patricia Piccinini, \nKindred 2017, Silicone, fibreglass, hair, Ed. 1 of 3,\
   \ 103 x 95 x 128cm.\nCourtesy the artist, Tolarno Galleries, Melbourne; Roslyn Oxley9\
   \ Gallery, Sydney; and Hosfelt Gallery, San Francisco."

@@ -9,6 +9,7 @@ disclosureStatement: Deborah Towns does not work for, consult, own shares in or 
 featureImage: 4593RpQpmwm6awK2Gogk2Q
 guid: http://theconversation.com/sexism-needs-to-be-challenged-in-schools-not-just-workplaces-89756
 id: 4XTsF7i7WME0KomCqWSi4E
+lastmodified: 1524652334.094254
 lead: Australia is held back not only socially, but also economically by gender inequality,
   and it needs to be addressed in the classroom.
 slug: sexism-needs-to-be-challenged-in-schools-not-just-workplaces

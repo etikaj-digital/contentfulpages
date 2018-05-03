@@ -9,6 +9,7 @@ disclosureStatement: Kate Farhall does not work for, consult, own shares in or r
 featureImage: 28hfjMGzTuoYOqmyayYEmq
 guid: http://theconversation.com/why-family-violence-leave-should-be-paid-94113
 id: 4ajMMNCFtS4uQmQweWoyQO
+lastmodified: 1524652334.355893
 lead: "Providing paid family violence leave means we\u2019re not asking victims to\
   \ choose between accessing necessary support and financial security."
 slug: why-family-violence-leave-should-be-paid

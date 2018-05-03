@@ -8,6 +8,7 @@ disclosureStatement: Laura Scholes receives funding from the Australian Research
 featureImage: 4GsUkFJyeIW6ImugkUS8qG
 guid: http://theconversation.com/enjoyment-of-reading-not-mechanics-of-reading-can-improve-literacy-for-boys-91321
 id: 6MzxS3tNokueEyS2G2IIwm
+lastmodified: 1524652333.5948548
 lead: Moving away from direct instruction and teaching to the test and towards making
   sure boys enjoy reading will improve outcomes.
 slug: enjoyment-of-reading-not-mechanics-of-reading-can-improve-literacy-for-boys

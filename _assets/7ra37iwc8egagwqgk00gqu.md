@@ -11,6 +11,7 @@ file:
     size: 35580
   fileName: image-20180329-189807-1lzwob6.jpg
   url: //images.ctfassets.net/bsux5spekp1p/7ra37iwC8EGAGwQGk00Gqu/eb3af508d9d7153c4e951eff82368fe8/image-20180329-189807-1lzwob6.jpg
+lastmodified: 1524652337.802297
 title: Chris K Wilson
 ---
 No content found

@@ -11,6 +11,7 @@ file:
     size: 37955
   fileName: image-20170411-31873-fdnpv2.jpg
   url: //images.ctfassets.net/bsux5spekp1p/YVXGbSDy4USaqI226Qca4/5fd99670f054beade4fa3ea0612b3250/image-20170411-31873-fdnpv2.jpg
+lastmodified: 1524652337.988726
 title: Nicholas Biddle
 ---
 No content found

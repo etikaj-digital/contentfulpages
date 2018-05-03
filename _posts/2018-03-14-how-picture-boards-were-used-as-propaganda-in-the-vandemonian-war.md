@@ -9,6 +9,7 @@ disclosureStatement: Kristyn Harman does not work for, consult, own shares in or
 featureImage: 3ZKonDWaMoUcs24qEiA4Yg
 guid: http://theconversation.com/how-picture-boards-were-used-as-propaganda-in-the-vandemonian-war-92434
 id: 3qOqjPk6Y0A0g4g0Q4wMIc
+lastmodified: 1524652334.264401
 lead: In the early days of colonial Tasmania, the British used threatening picture
   boards to communicate with Aboriginal people, giving them a choice between conciliation
   and death.

@@ -11,6 +11,7 @@ file:
     size: 25551
   fileName: 3kghmdhj-1345417838.jpg
   url: //images.ctfassets.net/bsux5spekp1p/4Hgog6T1AIoCAowyCGaIsW/65647e6c3389e8064c752759f558ce2f/3kghmdhj-1345417838.jpg
+lastmodified: 1524652336.881707
 title: Will J Grant
 ---
 No content found

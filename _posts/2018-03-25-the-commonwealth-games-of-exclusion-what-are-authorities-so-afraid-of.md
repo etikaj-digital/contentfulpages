@@ -9,6 +9,7 @@ disclosureStatement: Colin Tatz does not work for, consult, own shares in or rec
 featureImage: 2FMyU7ASti4kgUyi8U4sCQ
 guid: http://theconversation.com/the-commonwealth-games-of-exclusion-what-are-authorities-so-afraid-of-93488
 id: 2j2O3rpYrGq0WOAiYcG0k8
+lastmodified: 1524652334.702282
 lead: "Preparations for next month\u2019s Commonwealth Games on the Gold Coast are\
   \ pushing homeless people out of town, and out of the state. Sadly, that's not unusual\
   \ for events of this sort."

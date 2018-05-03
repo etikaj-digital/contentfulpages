@@ -7,6 +7,7 @@ disclosureStatement: Siobhan O'Sullivan has previously received funding from Voi
 featureImage: 13A0S5xGnCeYIeOU4WOea6
 guid: http://theconversation.com/why-duck-shooting-season-still-isnt-on-the-endangered-list-92926
 id: 1t9vF2W7NCwOUwESs6WkIm
+lastmodified: 1524652333.958539
 lead: Despite its unpopularity with the public and ongoing reports of endangered and
   non-game birds being killed - duck shooting season commences this month in Victoria,
   Tasmania and SA.

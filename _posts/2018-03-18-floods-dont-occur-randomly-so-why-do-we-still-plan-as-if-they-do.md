@@ -8,6 +8,7 @@ disclosureStatement: Anthony Kiem receives funding from Australian Research Coun
 featureImage: 2LROFtKyJWekMGE0I44IqM
 guid: http://theconversation.com/floods-dont-occur-randomly-so-why-do-we-still-plan-as-if-they-do-93371
 id: 6yQpXrCfQWiQqkSUQquYwW
+lastmodified: 1524652334.423808
 lead: Engineering practice assumes that floods are randomly distributed but science
   suggests they are not. This raises questions about the reliability of flood infrastructure
   and management strategies.

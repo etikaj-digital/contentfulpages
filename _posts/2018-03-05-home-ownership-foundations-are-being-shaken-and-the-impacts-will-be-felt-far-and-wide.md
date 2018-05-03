@@ -13,6 +13,7 @@ disclosureStatement: "Rachel Ong has received funding from the Australian Housin
 featureImage: 2zyabHhkh2OekyOM0AIw24
 guid: http://theconversation.com/home-ownership-foundations-are-being-shaken-and-the-impacts-will-be-felt-far-and-wide-91664
 id: 50QPUdIizYuUag02sMAQ6i
+lastmodified: 1524652334.165317
 lead: Increasingly insecure pathways to home ownership are not just a problem for
   property markets. The fallout is likely to hit retirement incomes, the welfare base,
   gender equity and the broader economy.

@@ -9,6 +9,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
   have disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/politics-podcast-john-blaxland-on-australias-expulsion-of-russian-spies-94119
 id: 6lkrPrbutGQci0QKA8MWgK
+lastmodified: 1524652333.550153
 lead: The expulsion of two Russian spies from Australia will have a significant effect
   on Russia's espionage here.
 slug: politics-podcast-john-blaxland-on-australias-expulsion-of-russian-spies

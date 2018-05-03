@@ -11,6 +11,7 @@ file:
     size: 29946976
   fileName: file-20180314-131610-6h93fc.png
   url: //downloads.ctfassets.net/bsux5spekp1p/1AP7Uepr7yMIGMUQmEwqqc/e38c43118d4afa162a0b50e60efeb2c0/file-20180314-131610-6h93fc.png
+lastmodified: 1524652335.864458
 title: 'Detail from Emily Kam Kngwarray, Anmatyerr people.
 
   Yam awely 1995.

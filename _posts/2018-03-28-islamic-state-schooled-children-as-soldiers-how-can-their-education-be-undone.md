@@ -12,6 +12,7 @@ disclosureStatement: "James S. Morris receives funding from the Research and Tra
 featureImage: 4bxl7qLAVGoCuGY4ssEKWu
 guid: http://theconversation.com/islamic-state-schooled-children-as-soldiers-how-can-their-education-be-undone-93266
 id: 4oW012IPPOKqy8yIOwKyUC
+lastmodified: 1524652333.6101692
 lead: "Islamic State systematically militarised the education systems of captured\
   \ Iraqi and Syrian territory to turn the region\u2019s children into ideological\
   \ timebombs."

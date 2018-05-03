@@ -11,6 +11,7 @@ file:
     size: 34042
   fileName: image-20151102-16510-2u3ibs.jpg
   url: //images.ctfassets.net/bsux5spekp1p/3ECl4oks9qQO0q46SwkwA0/26232ba9fceb5aaf275410f98e92cfc1/image-20151102-16510-2u3ibs.jpg
+lastmodified: 1524652336.5989141
 title: Steven Rowley
 ---
 No content found

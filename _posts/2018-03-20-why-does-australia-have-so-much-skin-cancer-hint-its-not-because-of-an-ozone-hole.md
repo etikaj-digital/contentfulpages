@@ -17,6 +17,7 @@ disclosureStatement: "Terry Slevin works for Cancer Council Western Australia (C
 featureImage: 1BSyOIuBIkYSI8GYoEeSE0
 guid: http://theconversation.com/why-does-australia-have-so-much-skin-cancer-hint-its-not-because-of-an-ozone-hole-91850
 id: 1h0lrVSnuYU2gcYSwUIkI6
+lastmodified: 1524652333.905728
 lead: Most Aussies think we have such high rates of skin cancer due to an 'ozone hole'.
   But that's not the case. Here's why we have nearly a million cases of skin cancer
   per year.

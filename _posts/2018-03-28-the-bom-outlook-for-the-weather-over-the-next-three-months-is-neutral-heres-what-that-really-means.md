@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 5om87P6q8ooW0066M8SGAW
 guid: http://theconversation.com/the-bom-outlook-for-the-weather-over-the-next-three-months-is-neutral-heres-what-that-really-means-94031
 id: 64HuoeYqZ2imqCYUkQcMSU
+lastmodified: 1524652334.6130052
 lead: The Bureau of Meteorology's climate outlook for April to June is 'neutral',
   but that doesn't mean we're flying blind, weather-wise.
 slug: the-bom-outlook-for-the-weather-over-the-next-three-months-is-neutral--heres-what-that-really-means

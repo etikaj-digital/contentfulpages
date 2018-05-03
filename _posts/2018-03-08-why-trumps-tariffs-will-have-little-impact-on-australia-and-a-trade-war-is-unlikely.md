@@ -9,6 +9,7 @@ disclosureStatement: Tony Makin does not work for, consult, own shares in or rec
 featureImage: 6FuWxXJ9fi88kIM4I2CS6e
 guid: http://theconversation.com/why-trumps-tariffs-will-have-little-impact-on-australia-and-a-trade-war-is-unlikely-93053
 id: 3ysSnskGLYckyyCqgaOqE4
+lastmodified: 1524652334.174882
 lead: Trump's tariffs will have only a small impact on the Australian economy, as
   Australia isn't a large exporter of steel or aluminium.
 slug: why-trumps-tariffs-will-have-little-impact-on-australia-and-a-trade-war-is-unlikely

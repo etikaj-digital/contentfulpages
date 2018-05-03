@@ -7,6 +7,7 @@ disclosureStatement: Tianqing Zhu receives funding from Australian Research Coun
   Linkage Projects
 guid: http://theconversation.com/explainer-what-is-differential-privacy-and-how-can-it-protect-your-data-90686
 id: IenHCBOBCSYOqSei4OkcG
+lastmodified: 1524652334.753642
 lead: How should privacy be protected in a world where data is gathered and shared
   with increasing speed and ingenuity? Differential privacy, a new model of cyber
   security, provides a potential solution.

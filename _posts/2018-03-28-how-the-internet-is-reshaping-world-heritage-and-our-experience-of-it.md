@@ -12,6 +12,7 @@ disclosureStatement: "Cristina Gardu\xF1o Freeman has recently published a book 
 featureImage: 5N6XjVf2FyEAMAkC8yWYe0
 guid: http://theconversation.com/how-the-internet-is-reshaping-world-heritage-and-our-experience-of-it-92682
 id: 2qyIoDefkYsioQ8asoCOM
+lastmodified: 1524652334.219794
 lead: Many more people experience World Heritage online than in person. While that
   further elevates the status of iconic sites like the Sydney Opera House, it has
   other more complicated consequences too.

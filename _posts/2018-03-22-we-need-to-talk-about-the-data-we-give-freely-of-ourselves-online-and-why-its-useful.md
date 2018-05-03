@@ -9,6 +9,7 @@ disclosureStatement: Robert Ackland is an academic at the Australian National Un
 featureImage: 7zWqO4v0AgkySko2Wc6c2M
 guid: http://theconversation.com/we-need-to-talk-about-the-data-we-give-freely-of-ourselves-online-and-why-its-useful-93734
 id: 6ZR7yKK8ogmSsMoGwG4OWW
+lastmodified: 1524652334.129979
 lead: Harvesting data from Facebook's users is within the rules, I should know, I've
   done this kind of research myself. But the latest scandal may make it harder for
   us to get any useful data.

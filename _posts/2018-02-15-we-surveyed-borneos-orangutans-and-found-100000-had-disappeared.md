@@ -15,6 +15,7 @@ disclosureStatement: 'Erik Meijaard works for Borneo Futures. He has received fu
 featureImage: 4tYncs4ot2kg0IySAUGmuu
 guid: http://theconversation.com/we-surveyed-borneos-orangutans-and-found-100-000-had-disappeared-91944
 id: 58Hm68yAKcCcMUS60wC824
+lastmodified: 1524652334.407718
 lead: To save the orangutans we must both protect their forests and stop any hunting
   and killing within them.
 slug: we-surveyed-borneos-orangutans-and-found-100000-had-disappeared

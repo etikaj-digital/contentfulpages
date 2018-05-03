@@ -1,6 +1,7 @@
 ---
 authorid: 584TPShwzK6esgGcAQaq44
 fullName: Chris K Wilson
+lastmodified: 1524652335.498671
 photo: 7ra37iwC8EGAGwQGk00Gqu
 profileUrl: https://theconversation.com//profiles/chris-k-wilson-125604
 role: Research Fellow, Technology, Communication and Policy Lab - Digital Ethnography

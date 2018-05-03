@@ -10,6 +10,7 @@ file:
     size: 21399589
   fileName: file-20180119-80211-1amrvwk.jpg
   url: //downloads.ctfassets.net/bsux5spekp1p/2ZR63QQKcMwyUIUgAqK2IW/7137a904d04475a253870a12e7b7c3e1/file-20180119-80211-1amrvwk.jpg
+lastmodified: 1524652336.300653
 title: "Excessively protecting your child and taking over, doesn\u2019t allow them\
   \ to learn through experience."
 ---

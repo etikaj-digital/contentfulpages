@@ -10,6 +10,7 @@ file:
     size: 415194
   fileName: file-20180322-165550-14cxr7f.jpg
   url: //images.ctfassets.net/bsux5spekp1p/1Eu7qe8KXaqe8wWqU6eewS/7064a742aa41aadf006be38dfa18f01b/file-20180322-165550-14cxr7f.jpg
+lastmodified: 1524652335.883182
 title: Current protections for native forests are hopelessly out of date.
 ---
 No content found

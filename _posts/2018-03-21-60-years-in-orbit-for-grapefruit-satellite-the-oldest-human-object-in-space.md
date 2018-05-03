@@ -8,6 +8,7 @@ disclosureStatement: Alice Gorman is a Board Director of the Space Industry Asso
 featureImage: 2MRdeurVwAsIMGy20Ya8Au
 guid: http://theconversation.com/60-years-in-orbit-for-grapefruit-satellite-the-oldest-human-object-in-space-93640
 id: 4PvZdfH0ZOqgkKA0U0USkS
+lastmodified: 1524652333.7398841
 lead: "When Vanguard 1 \u2013 the \"grapefruit satellite\" \u2013 was launched in\
   \ 1958, its only companions were Explorer 1 and Sputnik 2. Soon it may have thousands\
   \ of descendants swarming around it."

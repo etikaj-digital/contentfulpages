@@ -8,6 +8,7 @@ disclosureStatement: Professor Rodney Maddock works for Victoria University and 
 featureImage: 1LgUCYtVzyMi28cEk4eOO2
 guid: http://theconversation.com/our-growing-big-cities-need-new-centres-of-employment-heres-melbournes-chance-93067
 id: 4mbLuT7XNmE8YuqmqKiua4
+lastmodified: 1524652333.553992
 lead: The population growth is in the west, but most of the jobs are still in the
   city centre. Three major development proposals could help reshape Melbourne in ways
   that help overcome this costly mismatch.

@@ -19,6 +19,7 @@ disclosureStatement: 'Juliette Brodsky has been affiliated with an organisation 
 featureImage: 3TPbGmwgVaS4iou4aIu2wE
 guid: http://theconversation.com/for-australians-to-have-the-choice-of-growing-old-at-home-here-is-what-needs-to-change-91488
 id: 2ekB3DkNy4G4qqkOO4sOmO
+lastmodified: 1524652333.928842
 lead: Millions of older Australians live in houses that don't safely meet their needs,
   but they're not ready for a nursing home. Lack of suitable housing and the moving
   costs leave them with nowhere to go.

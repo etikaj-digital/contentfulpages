@@ -20,6 +20,7 @@ disclosureStatement: "Laurence Troy receives funding from Australian Housing and
 featureImage: 541MVD2Ai4q2acGoosEkIM
 guid: http://theconversation.com/six-lessons-on-how-to-make-affordable-housing-funding-work-across-australia-91072
 id: 5rCCmYtKKc8WcWkGAAYEsa
+lastmodified: 1524652334.6051798
 lead: Based on research comparing projects across the country, a new assessment tool
   calculates cost-effective ways to fund affordable housing to meet specified needs
   in different markets.

@@ -11,6 +11,7 @@ disclosureStatement: Gilead Sciences provided study drug for the VicPrEP Study. 
 featureImage: 6vo5HpDKHSoS6cKUKSqiae
 guid: http://theconversation.com/is-truvada-prep-the-game-changer-that-will-end-new-hiv-transmissions-in-australia-93652
 id: 1Xuz6ZCf7KWYGOWWsieQgS
+lastmodified: 1524652334.186903
 lead: The HIV prevention drug Truvada (PrEP) will be listed on the Pharmaceutical
   Benefits Scheme from this Sunday, moving Australia closer to achieving its goal
   of ending new HIV transmissions by 2020.

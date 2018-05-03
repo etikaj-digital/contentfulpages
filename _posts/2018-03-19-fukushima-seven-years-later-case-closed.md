@@ -8,6 +8,7 @@ disclosureStatement: Franck Guarnieri does not work for, consult, own shares in 
   and has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/fukushima-seven-years-later-case-closed-93448
 id: 29fuZJRpn20Eek0emqmGQu
+lastmodified: 1524652334.0000582
 lead: On March 11, 2011, a nuclear disaster struck Japan. Translated testimony by
   the power plant's manager reveals how close the world came to a greater catastrophe
   -- and how much there is to be learned.

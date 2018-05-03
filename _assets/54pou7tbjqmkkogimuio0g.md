@@ -11,6 +11,7 @@ file:
     size: 17674
   fileName: file-20180309-30975-5bo1ie.jpg
   url: //images.ctfassets.net/bsux5spekp1p/54POU7tbjqmKKogIMuIo0G/83f039b7603410ee065d2ef02c9b7856/file-20180309-30975-5bo1ie.jpg
+lastmodified: 1524652337.096411
 title: Franck Guarnieri
 ---
 No content found

@@ -8,6 +8,7 @@ disclosureStatement: Corey Bradshaw receives funding from the Australian Researc
 featureImage: 4DPxwT4wYMko02agu084MO
 guid: http://theconversation.com/even-if-you-were-the-last-rhino-on-earth-why-populations-cant-be-saved-by-a-single-breeding-pair-93733
 id: 6GYa0hlWesAAIe42MKe0Uy
+lastmodified: 1524652333.567952
 lead: 'The death of the last male northern white rhino in the world raises an interesting
   question: when does a species pass the point of no return?'
 slug: even-if-you-were-the-last-rhino-on-earth-why-populations-cant-be-saved-by-a-single-breeding-pair

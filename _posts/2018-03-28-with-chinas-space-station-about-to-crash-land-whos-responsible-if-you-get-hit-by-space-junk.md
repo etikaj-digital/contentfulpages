@@ -8,6 +8,7 @@ disclosureStatement: Melissa de Zwart is a member of the Advisory Council of the
 featureImage: 4vaqJHfvOUegyaywG8EYKq
 guid: http://theconversation.com/with-chinas-space-station-about-to-crash-land-whos-responsible-if-you-get-hit-by-space-junk-93845
 id: 3xaZxIiOVOMEAwo8WkYOwM
+lastmodified: 1524652334.5546072
 lead: China's space station Tiangong-1 is about to crash back to Earth any day now.
   It's out of control too so no one really knows where it will land. So what if it
   hits you or your house?

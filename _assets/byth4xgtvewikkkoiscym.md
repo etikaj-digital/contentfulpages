@@ -10,6 +10,7 @@ file:
     size: 2444324
   fileName: file-20180201-157488-147bzql.jpg
   url: //images.ctfassets.net/bsux5spekp1p/bYth4xgtVewIKkKoIScym/2d6d901dc76959940ce8aeae225e55ef/file-20180201-157488-147bzql.jpg
+lastmodified: 1524652337.99699
 title: "The \u2018balanced scorecard\u2019 is a method used by banks, including the\
   \ CBA, to assess workers for pay rises or other rewards."
 ---

@@ -13,6 +13,7 @@ disclosureStatement: 'H. Peter Soyer receives funding from NHMRC and ARC.
 featureImage: 4du8dJtedOIUMMi0Y4oMeA
 guid: http://theconversation.com/common-skin-rashes-and-what-to-do-about-them-91518
 id: 2oslxHTXfiOkA4wOMQ8eGQ
+lastmodified: 1524652333.5896761
 lead: Here's a list of the most common rashes and what you need to look for.
 slug: common-skin-rashes-and-what-to-do-about-them
 tags:

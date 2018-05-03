@@ -8,6 +8,7 @@ disclosureStatement: Sandeep Gopalan does not work for, consult, own shares in o
   and has disclosed no relevant affiliations beyond their academic appointment.
 guid: http://theconversation.com/is-counter-attack-justified-against-a-state-sponsored-cyber-attack-its-a-legal-grey-area-94023
 id: QtFobPZ5SKkocKMUqIs0O
+lastmodified: 1524652333.661983
 lead: "The international community should set bright line rules on appropriate responses\
   \ to cyber attacks before an expansive reading of the \u201Cself-defense\u201D clause\
   \ triggers war."

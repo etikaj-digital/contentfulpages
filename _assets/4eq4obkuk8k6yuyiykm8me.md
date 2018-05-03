@@ -10,6 +10,7 @@ file:
     size: 11076949
   fileName: file-20180325-54887-1iqz6kp.png
   url: //images.ctfassets.net/bsux5spekp1p/4eQ4OBKuk8K6YUyIykm8mE/b0a4e963f2fdff3c7ebf4b07196d819c/file-20180325-54887-1iqz6kp.png
+lastmodified: 1524652337.000659
 title: "The Death of Stalin is about the chaotic political drama that followed the\
   \ Russian leader\u2019s demise in 1953."
 ---

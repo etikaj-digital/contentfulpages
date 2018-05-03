@@ -10,6 +10,7 @@ file:
     size: 9431
   fileName: file-20180309-30989-3q6zrn.jpg
   url: //images.ctfassets.net/bsux5spekp1p/tmozQrszEOywQ2aGoOO4q/34a4cbae3b3f24eaf9761de932628afa/file-20180309-30989-3q6zrn.jpg
+lastmodified: 1524652338.0977762
 title: Craig MacMillan
 ---
 No content found

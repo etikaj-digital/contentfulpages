@@ -10,6 +10,7 @@ disclosureStatement: The authors do not work for, consult, own shares in or rece
 featureImage: 2X7wi1c8RW2Msw0gMqKwKG
 guid: http://theconversation.com/can-the-cricketers-banned-for-ball-tampering-ever-regain-their-hero-status-its-happened-before-94096
 id: 2pCRR4RFI0846gGcW4s0Qm
+lastmodified: 1524652334.8370261
 lead: "If the Australian cricketers involved in a ball-tampering scandal manage to\
   \ return to the game, and do so triumphantly, it is likely they will be forgiven\
   \ \u2013 and some may even forget their role in it."

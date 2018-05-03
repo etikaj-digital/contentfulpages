@@ -11,6 +11,7 @@ disclosureStatement: "Henri\xEBtte Prast is a member of the Dutch parliament (se
 featureImage: 3PcwamELLqMS2aAwkcSgwa
 guid: http://theconversation.com/is-it-a-surprise-women-arent-keen-on-investing-when-the-stock-market-language-is-so-male-oriented-93578
 id: 3jJyWgSjZeyEwEQAcG0syO
+lastmodified: 1524652334.332355
 lead: The stock market is littered with metaphors made by and for men, so it's no
   wonder women don't feel as comfortable in investing.
 slug: is-it-a-surprise-women-arent-keen-on-investing-when-the-stock-market-language-is-so-male-oriented

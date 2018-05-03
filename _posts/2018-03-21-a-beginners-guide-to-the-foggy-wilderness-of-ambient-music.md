@@ -7,6 +7,7 @@ disclosureStatement: Lawrence English is the director of Room40.
 featureImage: Sg6XPZ1OU08o2uS62weWs
 guid: http://theconversation.com/a-beginners-guide-to-the-foggy-wilderness-of-ambient-music-91742
 id: 6zKPTiLGA8u0SSUQCoYW6C
+lastmodified: 1524652334.649293
 lead: Brian Eno's Music for Airports, released 40 years ago, marked the formal beginnings
   of ambient music. It is still provoking composers and audiences to contemplate new
   ways of listening.

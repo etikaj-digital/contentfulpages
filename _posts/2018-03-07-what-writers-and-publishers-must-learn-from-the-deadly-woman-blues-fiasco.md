@@ -11,6 +11,7 @@ disclosureStatement: "Aaron Corn receives funding from the Australian Research C
 featureImage: 3C4oZllwlqGoAOGU6AOAWi
 guid: http://theconversation.com/what-writers-and-publishers-must-learn-from-the-deadly-woman-blues-fiasco-92512
 id: WnDUhopmgMkIqsKgSowsq
+lastmodified: 1524652334.5475268
 lead: Clinton Walker's Deadly Woman Blues was a missed opportunity and a lesson in
   how not to tell other people's stories.
 slug: what-writers-and-publishers-must-learn-from-the-deadly-woman-blues-fiasco

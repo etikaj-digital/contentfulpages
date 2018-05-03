@@ -9,6 +9,7 @@ disclosureStatement: Sasha Grishin does not work for, consult, own shares in or 
 featureImage: 5kLgVWhzTqmoY0qkGEAkeS
 guid: http://theconversation.com/art-gallery-sa-goes-back-to-impressionisms-colourful-roots-with-masterpieces-from-musee-dorsay-94163
 id: 3fv9wDWaIM6sq0yKm00gWk
+lastmodified: 1524652333.540967
 lead: The Impressionists were obsessed with the science of colour, which is celebrated
   in a new exhibition in Adelaide. At least 50 of the paintings have never previously
   been exhibited in Australia.

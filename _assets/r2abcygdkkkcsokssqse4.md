@@ -11,6 +11,7 @@ file:
     size: 4582
   fileName: image-20180308-30954-aefr7w.jpg
   url: //images.ctfassets.net/bsux5spekp1p/r2aBCyGDKKKCSOkSSQse4/f848d63829920c45cb93bc9e7b842876/image-20180308-30954-aefr7w.jpg
+lastmodified: 1524652338.076303
 title: Ian Davis
 ---
 No content found

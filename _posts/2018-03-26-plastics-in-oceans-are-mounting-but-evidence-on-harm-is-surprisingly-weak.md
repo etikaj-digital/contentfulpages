@@ -10,6 +10,7 @@ disclosureStatement: "Ted Henry is principal investigator on RealRiskNano, which
   \ which receives funding from NERC."
 guid: http://theconversation.com/plastics-in-oceans-are-mounting-but-evidence-on-harm-is-surprisingly-weak-93877
 id: 39bdj5AH2MeoKQQOq4KOoc
+lastmodified: 1524652334.017708
 lead: "Plastics and microplastics in the marine environment are one of the great cause\
   \ c\xE9l\xE8bre of our era. Here's what we know and don't know."
 slug: plastics-in-oceans-are-mounting-but-evidence-on-harm-is-surprisingly-weak

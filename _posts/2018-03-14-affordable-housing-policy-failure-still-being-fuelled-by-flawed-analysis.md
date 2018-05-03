@@ -20,6 +20,7 @@ disclosureStatement: "Nicole Gurran receives funding from the Australian Housing
 featureImage: 39Qf6azPvqucmWqOACGoIy
 guid: http://theconversation.com/affordable-housing-policy-failure-still-being-fuelled-by-flawed-analysis-92993
 id: 4ldaA4o74AOgSskoQi0YGo
+lastmodified: 1524652333.79245
 lead: "The clich\xE9s about housing supply and regulatory restraints are distractions\
   \ from the need to focus on expanding the affordable housing sector to directly\
   \ meet the needs of low-income households."

@@ -9,6 +9,7 @@ disclosureStatement: Kate Griffiths does not work for, consult, own shares in or
 featureImage: 2oONI3nxIY2G02iImG8WYG
 guid: http://theconversation.com/as-the-libs-claim-south-australia-states-are-falling-into-line-behind-the-national-energy-guarantee-93664
 id: 4mGGNCTVJ6IgAyAW6yOMkY
+lastmodified: 1524652333.7239292
 lead: "The end of Jay Weatherill's government has removed a significant obstacle to\
   \ progress on the federal National Energy Guarantee \u2013 even though we don't\
   \ yet know what the full policy will look like."

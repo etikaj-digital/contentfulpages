@@ -9,6 +9,7 @@ disclosureStatement: Kathomi Gatwiri does not work for, consult, own shares in o
 featureImage: 4ptRItqWWQmmY884mU0WSw
 guid: http://theconversation.com/the-politics-of-black-hair-an-australian-perspective-93270
 id: 3XtDXYokDYUeU8KA028aOm
+lastmodified: 1524652333.52233
 lead: Stigma about black or African hair reflects deep-seated politics around race
   and history.
 slug: the-politics-of-black-hair-an-australian-perspective

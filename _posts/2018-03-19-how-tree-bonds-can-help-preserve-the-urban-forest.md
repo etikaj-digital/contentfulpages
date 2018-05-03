@@ -21,6 +21,7 @@ disclosureStatement: "Joe Hurley receives funding from the Australian Government
 featureImage: 6B4jbeAEnYAacEUA2680UK
 guid: http://theconversation.com/how-tree-bonds-can-help-preserve-the-urban-forest-93420
 id: 46UJmSog9GGm2OS0soIuYi
+lastmodified: 1524652334.2807832
 lead: Tree bonds are set to be introduced by a Melbourne city council to protect city
   trees. But how do they work and why are they needed?
 slug: how-tree-bonds-can-help-preserve-the-urban-forest

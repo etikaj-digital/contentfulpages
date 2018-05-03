@@ -12,6 +12,7 @@ disclosureStatement: Karin Hammarberg is Senior Research Officer at the Victoria
 featureImage: VsCUrIu7ccqGMWE4quOi6
 guid: http://theconversation.com/victorias-sperm-donor-laws-yield-some-surprises-but-mostly-happy-ones-93743
 id: 3cegRnf4YEM2s8mce20aAQ
+lastmodified: 1524652333.847316
 lead: The news that Victorian sperm donor records from the 1970s and 1980s were preserved
   and are now accessible creates both challenges and opportunities for both donors
   and their offspring.

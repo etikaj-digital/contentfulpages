@@ -9,6 +9,7 @@ disclosureStatement: Michelle Grattan does not work for, consult, own shares in 
 featureImage: 5YmzvcVboWIucQqskA4U82
 guid: http://theconversation.com/pensioners-would-retain-cash-refunds-on-franked-dividends-under-labor-backdown-93972
 id: zeVVZvZhNQ4EaI0ksqyOw
+lastmodified: 1524652333.5457668
 lead: Labor has capitulated to pressure to exempt pensioners from its plan to end
   cash refunds for dividend imputation credits.
 slug: pensioners-would-retain-cash-refunds-on-franked-dividends-under-labor-backdown

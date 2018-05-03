@@ -9,6 +9,7 @@ disclosureStatement: Peter Terry does not work for, consult, own shares in or re
 featureImage: 1ZMg7RnbHqeG6oKWmwcAie
 guid: http://theconversation.com/the-day-australian-cricket-lost-its-integrity-and-a-country-reacted-with-shock-and-anger-93945
 id: 5QbkFOnA1UEQMseeMaQGSM
+lastmodified: 1524652334.227638
 lead: Australia's cricketers were once known as tough but fair, but the latest ball
   tampering scandal has many asking how some of the leading players could have stooped
   so low.

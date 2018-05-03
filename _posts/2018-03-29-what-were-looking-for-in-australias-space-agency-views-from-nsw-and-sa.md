@@ -14,6 +14,7 @@ disclosureStatement: "Andrew Dempster is director of Seaskip Pty Ltd. He receive
 featureImage: 4DC3XaMOCsEaic8q4oSOWg
 guid: http://theconversation.com/what-were-looking-for-in-australias-space-agency-views-from-nsw-and-sa-92278
 id: 1ouMevxHVmOmmukeOsIges
+lastmodified: 1524652334.319566
 lead: What will Australia's space agency look like? Two experts agree it needs deliberate
   investment from government, and that it should facilitate participation across states
   and territories.
