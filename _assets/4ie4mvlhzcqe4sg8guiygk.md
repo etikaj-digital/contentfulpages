@@ -1,5 +1,5 @@
 ---
-assetid: 4iE4MVLHZCqE4SG8guiyGK
+description: ''
 file:
   contentType: image/jpeg
   details:
@@ -8,8 +8,9 @@ file:
       width: 1497
     size: 229912
   fileName: file-20180327-188628-1qt10b9.jpg
-  url: //images.ctfassets.net/bsux5spekp1p/4iE4MVLHZCqE4SG8guiyGK/52871b56e6dcdb353af621ac7e80e64e/file-20180327-188628-1qt10b9.jpg
-lastmodified: 1524652337.0198998
+  url: //images.contentful.com/bsux5spekp1p/4iE4MVLHZCqE4SG8guiyGK/52871b56e6dcdb353af621ac7e80e64e/file-20180327-188628-1qt10b9.jpg
+id: 4iE4MVLHZCqE4SG8guiyGK
+lastmodified: 1525511389.359761
 title: "Fox Mulder (David Duchovny) in The X-Files is fond of joining seemingly unrelated\
   \ dots to create a conspiracy theory \u2013 but in reality, the picture is more\
   \ nuanced."
