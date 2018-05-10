@@ -12,7 +12,7 @@
 
   <div class="post-line"></div>
 
-  {{ item.fields.body | safe }}
+  {{ item.fields.body | markdown }}
 
   {% if item.fields.tags %}
   <p>Tags:
