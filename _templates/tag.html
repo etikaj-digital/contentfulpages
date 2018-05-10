@@ -1,0 +1,8 @@
+{% block body %}
+
+<div class="catalogue">
+  <h1>Posts tagged with '{{ page.tag }}'</h1>
+  {{ article_list(page.articles) }}
+</div>
+
+{% endblock %}
