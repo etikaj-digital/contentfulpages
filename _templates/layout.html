@@ -1,20 +1,3 @@
-{% macro article_list(articles) -%}
-{% for article in articles %}
-    <a href="{{ article.fields.slug }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ article.fields.datePublished }}" class="catalogue-time">{{ article.fields.datePublished }}</time>
-        <h1 class="catalogue-title">{{ article.fields.title }}</h1>
-        <div class="catalogue-line"></div>
-
-        <p>
-          {{ article.fields.lead }}
-        </p>
-
-      </div>
-    </a>
-  {% endfor %}
-{%- endmacro %}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
