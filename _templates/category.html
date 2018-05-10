@@ -1,10 +1,10 @@
-{% from 'layout.html' import article_list %}
+{% import 'macros.html' as macros %}
 
 {% block body %}
 
 <div class="catalogue">
   <h1>{{ category }}</h1>
-  {{ article_list(items) }}
+  {{ macros.article_list(items) }}
 </div>
 
 {% endblock %}
