@@ -1,8 +1,10 @@
+{% import 'macros.html' as macro %}
+
 {% block body %}
 
 <div class="catalogue">
   <h1>Posts tagged with '{{ tag }}'</h1>
-  {{ article_list(items) }}
+  {{ macro.article_list(items) }}
 </div>
 
 {% endblock %}
