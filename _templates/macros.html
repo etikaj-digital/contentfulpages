@@ -1,6 +1,6 @@
 {% macro article_list(articles) -%}
 {% for article in articles %}
-    <a href="{{ article.fields.slug }}" class="catalogue-item">
+    <a href="{{ site.baseurl }}/article/{{ article.fields.slug }}" class="catalogue-item">
       <div>
         <time datetime="{{ article.fields.datePublished }}" class="catalogue-time">{{ article.fields.datePublished }}</time>
         <h1 class="catalogue-title">{{ article.fields.title }}</h1>
