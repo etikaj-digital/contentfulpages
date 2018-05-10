@@ -2,22 +2,22 @@
 {% block body %}
 <div class="post">
   <div class="post-info">
-    {% if page.fields.datePublished %}
+    {% if item.fields.datePublished %}
       <br>
-      <span>on&nbsp;</span><time datetime="{{ page.fields.datePublished }}">{{ page.fields.datePublished }}</time>
+      <span>on&nbsp;</span><time datetime="{{ item.fields.datePublished }}">{{ item.fields.datePublished }}</time>
     {% endif %}
   </div>
 
-  <h1 class="post-title">{{ page.fields.title }}</h1>
+  <h1 class="post-title">{{ item.fields.title }}</h1>
 
   <div class="post-line"></div>
 
-  {{ page.fields.body }}
+  {{ item.fields.body }}
 
-  {% if page.fields.tags %}
+  {% if item.fields.tags %}
   <p>Tags:
     <ul class="taglist">
-      {% for tag in page.fields.tags %}
+      {% for tag in item.fields.tags %}
       <li><a href="">{{ tag }}</a></li>
       {% endfor %}
     </ul>
