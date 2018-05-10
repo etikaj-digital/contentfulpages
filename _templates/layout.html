@@ -22,10 +22,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>
-    {% if page.fields.title == "Home" %}
+    {% if item.fields.title == "Home" %}
       {{ site.title }}
     {% else %}
-      {{ page.fields.title }} &middot; {{ site.title }}
+      {{ item.fields.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
 
@@ -59,7 +59,7 @@
     <footer>
       <span>
         &copy; <time datetime="{{ site.time }}">{{ site.time }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
-        {% if page.lastmodified %}<br/>Page last modified {{page.lastmodified}}{% endif %}
+        {% if lastmodified %}<br/>Page last modified {{lastmodified}}{% endif %}
       </span>
     </footer>
 
