@@ -1,3 +1,5 @@
+{% extends "layout.html" %}
+{% BLOCK body %}
 <div class="post">
   <div class="post-info">
     {% if page.fields.datePublished %}
@@ -23,3 +25,4 @@
   {% endif %}
 
 </div>
+{% endblock %}
