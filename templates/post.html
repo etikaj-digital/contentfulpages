@@ -1,0 +1,56 @@
+<div class="post">
+  <div class="post-info">
+    <span>Written by</span>
+    {% if page.authors %}
+        {% for p_author in page.authors %}
+           {% assign author = site.authors | where:"authorid", p_author | first %}
+           {% if author %}
+              {{ author.fullName }}&nbsp;
+           {% else %}
+              No match found for {{ p_author }}
+           {% endif %}
+        {% endfor %}
+    {% else %}
+        {{ site.author.name }}
+    {% endif %}
+
+    {% if page.date %}
+      <br>
+      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </div>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.featureImage %}
+  {% assign feature = site.assets | where:"assetid", page.featureImage | first %}
+  <figure>
+    <img src="{{ feature.file.url}}" alt="{{ feature.title }}">
+    <figcaption>{{ feature.title }} | {{ feature.description }}</figcaption>
+  </figure>
+  {% endif %}
+  <div class="post-line"></div>
+
+  {{ content }}
+
+  {% if page.tags %}
+  <p>Tags:
+    <ul class="taglist">
+      {% for tag in page.tags %}
+      <li><a href="{{ tag | slugify | prepend: site.tagurl }}">{{ tag }}</a></li>
+      {% endfor %}
+    </ul>
+  </p>
+  {% endif %}
+
+</div>
+
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+  {% endif %}
+
+  <a href="#" class="top">Top</a>
+</div>
