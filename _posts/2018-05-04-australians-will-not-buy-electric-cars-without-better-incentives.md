@@ -4,9 +4,9 @@ authors:
 category: environment
 contenttype: article
 datePublished: 2018-05-04T13:20+10:00
-disclosureStatement: Anna Mortimore does not work for, consult, own shares in or receive
-  funding from any company or organisation that would benefit from this article, and
-  has disclosed no relevant affiliations beyond their academic appointment.
+disclosureStatement: Anna Mortimore does not work for, consult, own shares in or receive \
+ \ funding from any company or organisation that would benefit from this article, and \
+ \ has disclosed no relevant affiliations beyond their academic appointment.
 featureImage: 7I0PtBDdS0SmiU2SGOmWiM
 guid: https://theconversation.com/australians-will-not-buy-electric-cars-without-better-incentives-96104
 id: 3ZbN8w8ww8cUaqc6Aici2Q
