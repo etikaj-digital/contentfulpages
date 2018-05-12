@@ -4,18 +4,5 @@ layout: default
 
 <div class="catalogue">
   <h1>Posts tagged with '{{ page.tag }}'</h1>
-  {% for post in site.tags[page.tag] %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
-
-        <p>
-          {{ post.lead }}
-        </p>
-
-      </div>
-    </a>
-  {% endfor %}
+  {% include post_listing posts=site.tags[page.tag] %}
 </div>
