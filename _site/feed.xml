@@ -12,25 +12,26 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="/contentfulpages/assets/main.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+  
 
   <!-- Favicon -->
-  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/contentfulpages/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/contentfulpages/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/contentfulpages/assets/apple-touch-icon.png">
 </head>
 
 
   <body>
     <nav class="nav">
       <div class="nav-container">
-        <a href="/">
+        <a href="/contentfulpages//">
           <h2 class="nav-title">Tale</h2>
         </a>
         <ul>
-          <li><a href="/about">About</a></li>
-          <li><a href="/">Posts</a></li>
+          <li><a href="/contentfulpages//about">About</a></li>
+          <li><a href="/contentfulpages//">Posts</a></li>
         </ul>
     </div>
   </nav>
@@ -61,6 +62,19 @@
 		
 			<item>
 				<title>What we're looking for in Australia's Space Agency: views from NSW and SA</title>
+				        
+				
+					<description>&lt;p&gt;It’s been a long time coming, but Australia is finally going to have a Space Agency. This will enable Australian space industries to benefit from agency-to-agency agreements and collaborations, and facilitate our participation in the growing global space market.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
+				<link>http://localhost:4000/posts/what-were-looking-for-in-australias-space-agency-views-from-nsw-and-sa</link>
+				<guid isPermaLink="true">http://localhost:4000/posts/what-were-looking-for-in-australias-space-agency-views-from-nsw-and-sa</guid>
+			</item>
+		
+			<item>
+				<title>What we're looking for in Australia's Space Agency: views from NSW and SA and VIC</title>
 				        
 				
 					<description>&lt;p&gt;It’s been a long time coming, but Australia is finally going to have a Space Agency. This will enable Australian space industries to benefit from agency-to-agency agreements and collaborations, and facilitate our participation in the growing global space market.&lt;/p&gt;
@@ -176,19 +190,6 @@
 				<guid isPermaLink="true">http://localhost:4000/posts/can-the-cricketers-banned-for-ball-tampering-ever-regain-their-hero-status-its-happened-before</guid>
 			</item>
 		
-			<item>
-				<title>Australia's digital divide is not going away</title>
-				        
-				
-					<description>&lt;p&gt;Despite large investments in the National Broadband Network, the “digital divide” in Australia remains largely unchanged, according to a new &lt;a href=&quot;http://www.abs.gov.au/ausstats/abs@.nsf/mf/8146.0?OpenDocument&quot;&gt;report&lt;/a&gt; from the Australian Bureau of Statistics.&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 29 Mar 2018 00:00:00 +1100</pubDate>
-				<link>http://localhost:4000/posts/australias-digital-divide-is-not-going-away</link>
-				<guid isPermaLink="true">http://localhost:4000/posts/australias-digital-divide-is-not-going-away</guid>
-			</item>
-		
 	</channel>
 </rss>
 
@@ -208,8 +209,10 @@
 
     <footer>
       <span>
-        &copy; <time datetime="2018-04-24 19:18:09 +1000">2018</time> Chester How. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+        &copy; <time datetime="2018-05-03 21:44:38 +1000">2018</time> Chester How. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+        
       </span>
     </footer>
+    
   </body>
 </html>

@@ -14,11 +14,7 @@ disclosureStatement: "Dorina Pojani receives funding from the Australian Researc
 featureImage: 3f6EtVt3eMa2SqMSUYkWaA
 guid: http://theconversation.com/cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia-92574
 id: 3jlV0fwfD26EQieyK4AUUo
-<<<<<<< HEAD
 lastmodified: 1524652334.8429172
-=======
-lastmodified: 1525001349.5125384
->>>>>>> 37c46fec9e4b894892fbba7373b8e6e5a40e5368
 lead: New analysis reveals just how little is spent on cycling and walking projects
   around Australia. No state's spending on cycling is more than 1.5% of its road funding.
 slug: cycling-and-walking-are-short-changed-when-it-comes-to-transport-funding-in-australia
@@ -48,23 +44,23 @@ The United Nations [has recommended](https://europa.eu/capacity4dev/unep/documen
 
 Compared to the widely available expenditures for roads and public transport, it’s hard to pin down spending for cycling and walking. The data are spread across a myriad of documents, and entities report them differently. For example, walking infrastructure figures might be reported separately or bundled with cycling or road projects.
 
-Unclear reporting, in itself, indicates active travel’s low status in the transport funding hierarchy. 
+Unclear reporting, in itself, indicates active travel’s low status in the transport funding hierarchy.
 
-To gather the expenditures reported here, we had to draw on a variety of sources. Our data are not perfect or perfectly comparable across time and place, but do indicate relative spending levels. 
+To gather the expenditures reported here, we had to draw on a variety of sources. Our data are not perfect or perfectly comparable across time and place, but do indicate relative spending levels.
 
 ## Municipal spending
 
-This research considers Brisbane, Sydney and Melbourne. For a number of years, the [Bicycle Network](https://www.bicyclenetwork.com.au/) produced the Bicycle Expenditure Index (BiXE), which examined local government spending for bicycle infrastructure. Unfortunately, 2012 was the last year that BiXE was produced. Our analysis is based on the annual budgets for the three cities instead of BiXE. 
+This research considers Brisbane, Sydney and Melbourne. For a number of years, the [Bicycle Network](https://www.bicyclenetwork.com.au/) produced the Bicycle Expenditure Index (BiXE), which examined local government spending for bicycle infrastructure. Unfortunately, 2012 was the last year that BiXE was produced. Our analysis is based on the annual budgets for the three cities instead of BiXE.
 
-Brisbane and Sydney have been allocating a very small portion of their transport budgets (6-9%) to cycling and walking. Brisbane has the [lowest active travel rates](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331) of the three cities. Despite this, its budget for walking and cycling has slightly decreased in the current cycle. 
+Brisbane and Sydney have been allocating a very small portion of their transport budgets (6-9%) to cycling and walking. Brisbane has the [lowest active travel rates](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331) of the three cities. Despite this, its budget for walking and cycling has slightly decreased in the current cycle.
 
-By contrast, major change is under way in Sydney. In the 2019-2020 cycle, the council has set aside nearly a quarter of its transport budget to active transport. 
+By contrast, major change is under way in Sydney. In the 2019-2020 cycle, the council has set aside nearly a quarter of its transport budget to active transport.
 
 [](https://images.theconversation.com/files/210480/original/file-20180315-104650-1jjoqjc.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip) Funding for cycling and walking infrastructure is highlighted in red. (Click on table to enlarge.) Author provided
 
-As for Melbourne, the city is devoting more than half of its transport budget to footpaths and cycleway projects in the current budget period. But here too the allocated budget is projected to decrease in coming years to about 28% in 2020-2021. 
+As for Melbourne, the city is devoting more than half of its transport budget to footpaths and cycleway projects in the current budget period. But here too the allocated budget is projected to decrease in coming years to about 28% in 2020-2021.
 
-Most of the Melbourne City funding appears to have been dedicated to [footpaths rather than cycleways](https://www.theage.com.au/national/victoria/victorias-bike-budget-lags-behind-most-other-states-report-finds-20170515-gw56rz.html). This approach will not help increase cycling rates in the inner city, which have stagnated at [about 5% in recent years](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331). 
+Most of the Melbourne City funding appears to have been dedicated to [footpaths rather than cycleways](https://www.theage.com.au/national/victoria/victorias-bike-budget-lags-behind-most-other-states-report-finds-20170515-gw56rz.html). This approach will not help increase cycling rates in the inner city, which have stagnated at [about 5% in recent years](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331).
 
 * * *
 
@@ -74,17 +70,17 @@ _**Read more:[Slow cycling isn't just for fun – it's essential for many city w
 
 ## State and territory spending
 
-The 2015-2016 state and territory budgets are disappointing in that they continue the trend of [underfunding active transport infrastructure](https://www.onlinepublications.austroads.com.au/items/AP-C93-17). The difference between active transport and [road funding](https://bitre.gov.au/publications/2017/yearbook_2017.aspx) is staggering: most states devote less than 2% of funding to cycling. 
+The 2015-2016 state and territory budgets are disappointing in that they continue the trend of [underfunding active transport infrastructure](https://www.onlinepublications.austroads.com.au/items/AP-C93-17). The difference between active transport and [road funding](https://bitre.gov.au/publications/2017/yearbook_2017.aspx) is staggering: most states devote less than 2% of funding to cycling.
 
 All Australian states and territories are far below the United Nations target of 20%. The Australian Capital Territory (ACT), at 14%, is the only place that has made a real effort to meet the UN target.
 
-Also, per capita dollar amounts devoted to active transport are low everywhere (under A$20 a year). As a benchmark, Copenhagen – regarded as the [world’s best city for cycling](http://copenhagenizeindex.eu/01_copenhagen.html) – has spent A$30 per capita a year for the past decade. 
+Also, per capita dollar amounts devoted to active transport are low everywhere (under A$20 a year). As a benchmark, Copenhagen – regarded as the [world’s best city for cycling](http://copenhagenizeindex.eu/01_copenhagen.html) – has spent A$30 per capita a year for the past decade.
 
-In Australia, the ACT is an exception at A$79 per capita in 2016. In fact, the ACT has some of the [highest cycling rates](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331) at metropolitan level (though this is only about 3%). Also, the Northern Territory had more than doubled its spending by 2016, rising to A$36 per capita from only A$15 in 2011. 
+In Australia, the ACT is an exception at A$79 per capita in 2016. In fact, the ACT has some of the [highest cycling rates](https://theconversation.com/australian-cities-are-far-from-being-meccas-for-walking-and-cycling-87331) at metropolitan level (though this is only about 3%). Also, the Northern Territory had more than doubled its spending by 2016, rising to A$36 per capita from only A$15 in 2011.
 
-The amounts spent “per helmet” are much larger. But, in most cases, this is only because cyclists make up a small fraction of the population. 
+The amounts spent “per helmet” are much larger. But, in most cases, this is only because cyclists make up a small fraction of the population.
 
-Another way to look at [road](https://bitre.gov.au/publications/2017/yearbook_2017.aspx) and [cycling](https://www.onlinepublications.austroads.com.au/items/AP-C93-17) funding is “cents on the dollar” – that is, how many cents go to cycling for each dollar spent on roads. The typical amount is less than two cents – although Victoria has almost reached three cents in some years. The ACT’s spending is not shown on the graph because it is high and would distort the scale for the other states and territories. 
+Another way to look at [road](https://bitre.gov.au/publications/2017/yearbook_2017.aspx) and [cycling](https://www.onlinepublications.austroads.com.au/items/AP-C93-17) funding is “cents on the dollar” – that is, how many cents go to cycling for each dollar spent on roads. The typical amount is less than two cents – although Victoria has almost reached three cents in some years. The ACT’s spending is not shown on the graph because it is high and would distort the scale for the other states and territories.
 
 
 ## The future of cycling in Australian cities
@@ -95,8 +91,8 @@ This situation reflects the blinkered vision that Australia _cannot_ and _need n
 
 [](https://images.theconversation.com/files/209276/original/file-20180307-146655-1e0q0ty.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip) Low-grade shared cycling lanes in Toronto, Canada (left) and high-quality, segregated cycling paths in Bogotá, Colombia (right). [Dylan Passmore / Flickr](https://www.flickr.com/photos/dylanpassmore/), [CC BY-NC](http://creativecommons.org/licenses/by-nc/4.0/)
 
-In Australia any such retrofit requires long public consultation processes. Australians must accept incremental increases in active transport funding while road funding continues to dominate transport budgets. 
+In Australia any such retrofit requires long public consultation processes. Australians must accept incremental increases in active transport funding while road funding continues to dominate transport budgets.
 
-Not only is this vision shortsighted, it is [sexist](https://theconversation.com/australian-cities-are-crying-out-for-better-planning-but-the-research-funding-is-missing-91651), ageist and classist. Cars cost their owners more than [A$300 per week](https://www.aaa.asn.au/storage/aaa-affordability-index-q3-2017.pdf) on average. This limits travel options for youth, low-income people and [women](https://theconversation.com/mansplaining-australian-cities-we-can-do-something-about-that-83436). These groups are already vulnerable to [transport disadvantage](https://aifs.gov.au/cfca/publications/relationship-between-transport-and-disadvantage-austr), and failing to fund cycling and walking projects can make their situation worse. 
+Not only is this vision shortsighted, it is [sexist](https://theconversation.com/australian-cities-are-crying-out-for-better-planning-but-the-research-funding-is-missing-91651), ageist and classist. Cars cost their owners more than [A$300 per week](https://www.aaa.asn.au/storage/aaa-affordability-index-q3-2017.pdf) on average. This limits travel options for youth, low-income people and [women](https://theconversation.com/mansplaining-australian-cities-we-can-do-something-about-that-83436). These groups are already vulnerable to [transport disadvantage](https://aifs.gov.au/cfca/publications/relationship-between-transport-and-disadvantage-austr), and failing to fund cycling and walking projects can make their situation worse.
 
 [Mediocre active travel infrastructure](https://www.worldofbooks.com.au/crap-cycle-lanes-by-warrington-cycle-campaign-gor001211417.html) is unacceptable in a wealthy OECD country. We need and can have world class active travel infrastructure. This type of investment makes [economic, health and environmental sense](https://www.heartfoundation.org.au/for-professionals/built-environment).
