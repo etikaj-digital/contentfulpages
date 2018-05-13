@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 
 _config.yml
 _config.yml
 _config.yml
 _site
+=======
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+>>>>>>> 843d7237952dd5b4cabdbc90a44fc0dd8f26fe49
