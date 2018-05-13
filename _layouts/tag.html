@@ -4,5 +4,6 @@ layout: default
 
 <div class="catalogue">
   <h1>Posts tagged with '{{ page.tag }}'</h1>
-  {% include post_listing posts=site.tags[page.tag] %}
+  {% assign tag_posts = site.tags[page.tag] %}
+  {% include post_listing.html posts=tag_posts %}
 </div>
