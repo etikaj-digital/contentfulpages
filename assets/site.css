@@ -1,0 +1,94 @@
+article figcaption {
+  font-style: italic
+}
+
+article figure, .post-info {
+  margin-bottom: 1.5rem;
+}
+
+article h1, article h2, article h3 {
+  line-height: 110%;
+  margin-bottom: 1.5rem;
+}
+
+article header {
+  padding: 0 2rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+article header h1 {
+  margin-bottom: 2rem;
+}
+
+article .container, .listing.container {
+  padding: 0 5rem;
+}
+
+article .content {
+  margin-top: 1.5rem;
+}
+
+article .authors .tag {
+  background: none !important;
+  font-weight: bold;
+  font-size: 100% !important;
+  padding-left: 0;
+  padding-right: 1rem;
+}
+
+article .authors a, article .authors a:visited, article .authors a:hover {
+  color: #444;
+}
+
+article .ds {
+  margin-bottom: 2rem;
+  font-style: italic;
+}
+
+article .pagination {
+  margin-top: 2rem;
+}
+
+.listing a {
+  color: #444;
+}
+
+.listing .category {
+  border-bottom: 2px solid #FFC300;
+  margin-bottom: 2rem;
+}
+
+.category h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-bottom: 1rem;
+}
+
+.category h2::after {
+  content: '>';
+  margin-left: .5rem;
+}
+
+.navbar {
+  box-shadow: 0 8px 8px -10px #444;
+}
+
+.more-stories {
+  padding: 1rem 2rem;
+  text-align: right;
+  font-weight: bold;
+}
+
+.more-stories a::after {
+  content: '>';
+  margin-left: .5rem;
+}
+
+.tile.minors {
+  flex-wrap: wrap;
+}
+
+.is-padded {
+  padding: 1rem 0.5rem 1.5rem 0.5rem;
+}

@@ -2,29 +2,19 @@
 layout: default
 ---
 
-<div class="post">
-  <div class="post-info">
-    <span>Written by</span>
-    {% if page.authors %}
-        {% for p_author in page.authors %}
-           {% assign author = site.authors | where:"authorid", p_author | first %}
-           {% if author %}
-              {{ author.fullName }}&nbsp;
-           {% else %}
-              No match found for {{ p_author }}
-           {% endif %}
-        {% endfor %}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
+<article class="post">
 
-    {% if page.date %}
-      <br>
-      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
-    {% endif %}
-  </div>
+  <header>
+    <h1 class="is-size-1">{{ page.title }}</h1>
 
-  <h1 class="post-title">{{ page.title }}</h1>
+    <div class="post-info">
+      {% if page.date %}
+        <time datetime="{{ page.date }}">{{ page.date | date: "%d %B %Y" }}</time>
+      {% endif %}
+    </div>
+
+  </header>
+
   {% if page.featureImage %}
   {% assign feature = site.assets | where:"assetid", page.featureImage | first %}
   <figure>
@@ -32,29 +22,54 @@ layout: default
     <figcaption>{{ feature.title }} | {{ feature.description }}</figcaption>
   </figure>
   {% endif %}
-  <div class="post-line"></div>
 
-  {{ content }}
+  <div class="container">
 
-  {% if page.tags %}
-  <p>Tags:
-    <ul class="taglist">
+    <div class="is-size-3">
+      {{ page.lead }}
+    </div>
+
+    <div class="content">
+      {{ content }}
+    </div>
+
+    <div class="authors tags">
+      {% if page.authors %}
+          {% for p_author in page.authors %}
+             {% assign author = site.authors | where:"authorid", p_author | first %}
+             {% if author %}
+                <span class="tag"><a href="{{ author.fullName | slugify | prepend: site.authorurl }}">{{ author.fullName }}</a></span>
+             {% endif %}
+          {% endfor %}
+      {% else %}
+          {{ site.author.name }}
+      {% endif %}
+    </div>
+
+    {% if page.disclosureStatement %}
+    <div class="ds">
+      {{ page.disclosureStatement }}
+    </div>
+    {% endif %}
+
+    {% if page.tags %}
+    <div class="tags">
       {% for tag in page.tags %}
-      <li><a href="{{ tag | slugify | prepend: site.tagurl }}">{{ tag }}</a></li>
+      <span class="tag"><a href="{{ tag | slugify | prepend: site.tagurl }}">{{ tag }}</a></span>
       {% endfor %}
-    </ul>
-  </p>
-  {% endif %}
+    </div>
+    {% endif %}
+  </div>
 
-</div>
+  <div class="pagination">
+    {% if page.next.url %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+    {% endif %}
+    {% if page.previous.url %}
+      <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+    {% endif %}
 
-<div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if page.previous.url %}
-    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
+    <a href="#" class="top">Top</a>
+  </div>
 
-  <a href="#" class="top">Top</a>
-</div>
+</article>

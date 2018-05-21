@@ -5,13 +5,18 @@ description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/contentfulpages"
 tagurl:         "/contentfulpages/tag/"
 categoryurl:    "/contentfulpages/category/"
+authorurl:      "/contentfulpages/authors/"
 url:            "https://etikaj-digital.github.io/contentfulpages"
 incremental:    false
 
 # Collections
 collections:
-  - authors
-  - assets
+  authors:
+    output: true
+  assets:
+    output: false
+  posts:
+    output: true
 
 # Author
 author:
@@ -26,14 +31,6 @@ markdown:       kramdown
 sass:
   sass_dir:     _sass
   style:        compressed
-
-# Gems
-plugins:
-  - jekyll-paginate
-
-# Permalinks
-permalink:      /posts/:title
-paginate:       25
 
 # Defaults
 defaults:
@@ -52,3 +49,9 @@ defaults:
       path: "category" # an empty string here means all files in the project
     values:
       layout: "category"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "authors"
+    values:
+      layout: "author"

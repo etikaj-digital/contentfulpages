@@ -2,30 +2,26 @@
 layout: default
 ---
 
-<div class="catalogue">
-  {% for post in paginator.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
-      <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
-        <div class="catalogue-line"></div>
+<div class="listing container">
 
-        <p>
-          {{ post.lead }}
-        </p>
+  <div class="category">
+    <h2 class="is-size-3">Top stories</h2>
+    {% assign posts = site.categories.top-stories %}
+    {% include category_posts.html posts=posts %}
+  </div>
 
-      </div>
-    </a>
+  {% for category in site.categories %}
+    {% if category[0] == 'general' or category[0] == 'home-page' or category[0] == 'top-stories' %}
+      {% continue %}
+    {% endif %}
+
+  <div class="category">
+    <h2 class="is-size-3">{{ category[0] }}</h2>
+    {% assign posts = category[1] %}
+    {% include category_posts.html posts=posts %}
+    <p class="more-stories"><a href="{{ category[0] | prepend: site.categoryurl }}">Read more {{ category[0] }} stories</a></p>
+  </div>
+
   {% endfor %}
-</div>
 
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-  {% endif %}
-
-  <span>{{ paginator.page }}</span>
 </div>

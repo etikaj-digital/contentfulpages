@@ -1,0 +1,57 @@
+<div class="tile is-ancestor">
+  <div class="tile is-parent">
+    <div class="tile is-child">
+      {% assign post = include.posts[0] %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <article>
+          <figure>
+            {% assign feature = site.assets | where:"assetid", post.featureImage | first %}
+            {% if feature %}
+            <p class="image">
+              <img src="{{feature.file.url}}?w=960&h=640&fit=thumb">
+            </p>
+            {% endif %}
+          </figure>
+          <h3 class="is-size-4">{{ post.title }}</h3>
+          <p>
+            {{ post.lead }}
+          </p>
+        </article>
+      </a>
+    </div>
+  </div>
+  <div class="tile is-4 is-vertical is-parent">
+    <div class="tile is-child">
+      {% assign post = include.posts[1] %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <article>
+          <figure>
+            {% assign feature = site.assets | where:"assetid", post.featureImage | first %}
+            {% if feature %}
+            <p class="image">
+              <img src="{{feature.file.url}}?w=960&h=640&fit=thumb">
+            </p>
+            {% endif %}
+          </figure>
+          <h3 class="is-size-5">{{ post.title }}</h3>
+        </article>
+      </a>
+    </div>
+    <div class="tile is-child">
+      {% assign post = include.posts[2] %}
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <article>
+          <figure>
+            {% assign feature = site.assets | where:"assetid", post.featureImage | first %}
+            {% if feature %}
+            <p class="image">
+              <img src="{{feature.file.url}}?w=960&h=640&fit=thumb">
+            </p>
+            {% endif %}
+          </figure>
+          <h3 class="is-size-5">{{ post.title }}</h3>
+        </article>
+      </a>
+    </div>
+  </div>
+</div>

@@ -1,30 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="has-navbar-fixed-top">
 
   {% include head.html %}
 
   <body>
-    <nav class="nav">
-      <div class="nav-container">
-        <a href="{{ site.baseurl }}/">
-          <h2 class="nav-title">{{ site.title }}</h2>
-        </a>
-        <ul>
-          <li><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ site.baseurl }}/">Posts</a></li>
-        </ul>
-    </div>
-  </nav>
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
 
-    <main>
-      {{ content }}
+        <a class="navbar-item" href="{{ '/' | relative_url }}">
+          <h1 class="title">The Conversation</h1>
+        </a>
+
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end">
+          <a class="navbar-item" href="{{ 'about' | relative_url }}">About</a>
+          <a class="navbar-item" href="{{ 'posts' | relative_url }}">Posts</a>
+        </div>
+      </div>
+    </nav>
+
+    <main class="section">
+      <div class="container">
+        {{ content }}
+      </div>
     </main>
 
-    <footer>
-      <span>
-        &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
-        {% if page.lastmodified %}<br/>Page last modified {{page.lastmodified}}{% endif %}
-      </span>
+    <footer class="footer">
+      <div class="container">
+        <span>
+          &copy; <time datetime="{{ site.time }}">{{ site.time | date: '%Y' }}</time> {{ site.author.name }}. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+          {% if page.lastmodified %}<br/>Page last modified {{page.lastmodified}}{% endif %}
+        </span>
+      </div>
     </footer>
     {% if page.form or page.type == 'form' %}
     <script src="{{ '/assets/form.js' | relative_url }}"></script>
