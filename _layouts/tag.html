@@ -4,10 +4,10 @@ layout: default
 
 <div class="listing container">
 
-  {% assign posts = site.tags[page.tag] %}
+  {% assign posts = site.tags[page.term] %}
 
   <div class="category">
-    <h2 class="is-size-3">Articles tagged '{{ page.tag }}'</h2>
+    <h2 class="is-size-3">Articles tagged '{{ page.term }}'</h2>
     <div class="tile is-ancestor minors">
     {% for post in posts %}
       <div class="tile is-child is-4">

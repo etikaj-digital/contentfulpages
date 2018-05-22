@@ -4,14 +4,13 @@ layout: default
 
 <div class="listing container">
 
-  {% assign posts = site.categories[page.category] %}
+  {% assign posts = site.categories[page.term] %}
 
   <div class="category">
-    <h2 class="is-size-3">{{ page.category }}</h2>
-    {% include category_posts.html posts=posts %}
+    <h2 class="is-size-3">{{ page.term }}</h2>
 
     <div class="tile is-ancestor minors">
-    {% for post in posts offset:3 %}
+    {% for post in posts offset %}
       <div class="tile is-child is-4">
         <a href="{{ post.url | prepend: site.baseurl }}">
         <div class="content is-padded">
