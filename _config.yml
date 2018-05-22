@@ -1,7 +1,7 @@
 # Site settings
-name:           Tale
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+name:           Static Conversation
+title:          Static Conversation
+description:    "Testing static site creation with quality content stored in Contentful"
 baseurl:        "/contentfulpages"
 tagurl:         "/contentfulpages/tag/"
 categoryurl:    "/contentfulpages/category/"
@@ -20,9 +20,9 @@ collections:
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Chris Knowles
+  url:
+  email:
 
 # Build settings
 markdown:       kramdown
