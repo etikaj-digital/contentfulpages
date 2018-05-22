@@ -10,7 +10,7 @@ disclosureStatement: Anna Mortimore does not work for, consult, own shares in or
 featureImage: 7I0PtBDdS0SmiU2SGOmWiM
 guid: https://theconversation.com/australians-will-not-buy-electric-cars-without-better-incentives-96104
 id: 3ZbN8w8ww8cUaqc6Aici2Q
-lastmodified: 1526902456.0636091
+lastmodified: 1526988239.2694988
 lead: Warnings that a tide of electric vehicles will cut Australia's tax income put
   the cart well before the (low-emissions) horse.
 slug: australians-will-not-buy-electric-cars-without-better-incentives
